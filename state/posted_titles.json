@@ -2,6 +2,15 @@
   "version": 1,
   "entries": [
     {
+      "key": "tmdb:tv:85552:tv_on_the_air:2019-06-16",
+      "dedupe_key": "tmdb:tv:85552",
+      "media_type": "tv",
+      "tmdb_id": 85552,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2019-06-16",
+      "published_at": "2026-04-24T19:06:16.234501+00:00"
+    },
+    {
       "key": "tmdb:tv:76479:tv_on_the_air:2019-07-25",
       "dedupe_key": "tmdb:tv:76479",
       "media_type": "tv",
