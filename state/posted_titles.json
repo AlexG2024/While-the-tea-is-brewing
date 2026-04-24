@@ -36,6 +36,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-04-01",
       "published_at": "2026-04-24T14:16:23.628463+00:00"
+    },
+    {
+      "key": "tmdb:movie:1304313:movie_now_playing:2026-04-17",
+      "dedupe_key": "tmdb:movie:1304313",
+      "media_type": "movie",
+      "tmdb_id": 1304313,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-04-17",
+      "published_at": "2026-04-24T17:13:21.079987+00:00"
     }
   ]
 }
