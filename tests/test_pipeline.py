@@ -75,7 +75,7 @@ def make_settings(tmp_path: Path, *, dry_run: bool = False) -> Settings:
         min_tmdb_user_score_percent=65,
         state_path=tmp_path / "posted_titles.json",
         queue_path=tmp_path / "publish_queue.json",
-        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "21:20"),
+        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "21:05"),
         dry_run=dry_run,
         force_business_date=date(2026, 4, 24),
     )
@@ -425,7 +425,7 @@ def test_daily_caps_limit_movies_and_tv_independently(tmp_path: Path) -> None:
         min_tmdb_user_score_percent=65,
         state_path=tmp_path / "posted_titles.json",
         queue_path=tmp_path / "publish_queue.json",
-        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "21:20"),
+        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "21:05"),
         dry_run=False,
         force_business_date=date(2026, 4, 24),
     )

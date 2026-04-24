@@ -22,7 +22,7 @@ jobs:
       MOVIE_DEDUPE_DAYS: "120"
       TV_DEDUPE_DAYS: "60"
       MIN_TMDB_USER_SCORE_PERCENT: "65"
-      PUBLISH_SLOTS: "09:15,12:20,15:15,17:20,19:15,21:20"
+      PUBLISH_SLOTS: "09:15,12:20,15:15,17:20,19:15,21:05"
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
