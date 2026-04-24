@@ -2,6 +2,15 @@
   "version": 1,
   "entries": [
     {
+      "key": "tmdb:tv:124364:tv_on_the_air:2022-02-20",
+      "dedupe_key": "tmdb:tv:124364",
+      "media_type": "tv",
+      "tmdb_id": 124364,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2022-02-20",
+      "published_at": "2026-04-24T14:30:17.692279+00:00"
+    },
+    {
       "key": "tmdb:movie:1226863:movie_now_playing:2026-04-01",
       "dedupe_key": "tmdb:movie:1226863",
       "media_type": "movie",
