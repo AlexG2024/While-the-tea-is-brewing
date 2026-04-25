@@ -3,7 +3,7 @@ name: Prepare Daily Queue
 on:
   workflow_dispatch:
   schedule:
-    - cron: "55 5 * * *"
+    - cron: "0,30 1-5 * * *"
 
 permissions:
   contents: write
@@ -48,6 +48,32 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python -m release_pipeline prepare-queue
+
+      - name: Verify queue for today
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          queue_path = Path("state/publish_queue.json")
+          if not queue_path.exists():
+              raise SystemExit("publish_queue.json was not created")
+
+          data = json.loads(queue_path.read_text(encoding="utf-8"))
+          queue_business_date = data.get("business_date")
+          if not queue_business_date:
+              raise SystemExit("publish_queue.json has no business_date")
+
+          today_moscow = datetime.now(ZoneInfo("Europe/Moscow")).date().isoformat()
+          if queue_business_date != today_moscow:
+              raise SystemExit(
+                  f"Queue business_date mismatch: expected {today_moscow}, got {queue_business_date}"
+              )
+
+          print(f"Queue verified for {today_moscow}")
+          PY
 
       - name: Commit updated queue
         run: |

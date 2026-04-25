@@ -14,6 +14,10 @@
 Таймзона:
 - `Europe/Moscow`
 
+Подготовка очереди:
+- `Prepare Daily Queue` пытается создать очередь каждые `30 минут` с `04:00` до `08:30`
+- если очередь на сегодня уже есть, workflow завершается без изменений
+
 Слоты публикации:
 - `09:15` — фильм 1
 - `12:20` — сериал 1
@@ -27,6 +31,7 @@
 Локальный проект:
 - [README.md](</E:/Codex Open AI/Codex Lessons/telegram-release-pipeline/README.md>)
 - [OPERATIONS.md](</E:/Codex Open AI/Codex Lessons/telegram-release-pipeline/OPERATIONS.md>)
+- [TELEGRAM_LONG_POSTS_MEMO.md](</E:/Codex Open AI/Codex Lessons/telegram-release-pipeline/TELEGRAM_LONG_POSTS_MEMO.md>)
 - [state/posted_titles.json](</E:/Codex Open AI/Codex Lessons/telegram-release-pipeline/state/posted_titles.json>)
 - [state/publish_queue.json](</E:/Codex Open AI/Codex Lessons/telegram-release-pipeline/state/publish_queue.json>)
 - [.env.example](</E:/Codex Open AI/Codex Lessons/telegram-release-pipeline/.env.example>)
@@ -41,7 +46,7 @@ GitHub:
 Обычно вручную ничего делать не нужно.
 
 Каждый день:
-- `Prepare Daily Queue` создает очередь
+- `Prepare Daily Queue` утром повторяет попытки создания очереди
 - `Publish From Queue` запускается каждые `5 минут`
 - когда наступает слот, публикуется только `1` пост
 
@@ -64,6 +69,7 @@ GitHub:
 2. посмотреть шаг, который упал:
    - `Run tests`
    - `Prepare queue`
+   - `Verify queue for today`
    - `Commit updated queue`
 
 Частые причины:
