@@ -2,6 +2,15 @@
   "version": 1,
   "entries": [
     {
+      "key": "tmdb:tv:2734:tv_on_the_air:1999-09-20",
+      "dedupe_key": "tmdb:tv:2734",
+      "media_type": "tv",
+      "tmdb_id": 2734,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1999-09-20",
+      "published_at": "2026-04-25T14:33:27.196752+00:00"
+    },
+    {
       "key": "tmdb:tv:79744:tv_on_the_air:2018-10-16",
       "dedupe_key": "tmdb:tv:79744",
       "media_type": "tv",
