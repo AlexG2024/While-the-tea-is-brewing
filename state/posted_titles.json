@@ -2,6 +2,15 @@
   "version": 1,
   "entries": [
     {
+      "key": "tmdb:tv:549:tv_on_the_air:1990-09-13",
+      "dedupe_key": "tmdb:tv:549",
+      "media_type": "tv",
+      "tmdb_id": 549,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1990-09-13",
+      "published_at": "2026-04-25T18:07:59.483080+00:00"
+    },
+    {
       "key": "tmdb:tv:2734:tv_on_the_air:1999-09-20",
       "dedupe_key": "tmdb:tv:2734",
       "media_type": "tv",
