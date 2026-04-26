@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-04-26",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1325734,
+        "title": "Драма",
+        "original_title": "The Drama",
+        "tagline": "«Свадьба года»",
+        "lead_actors": [
+          "Зендея",
+          "Роберт Паттинсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-04-03",
+        "popularity": 33.5903,
+        "overview": "Чарли и Эмма влюблены друг в друга и вот-вот поженятся. Место свадьбы выбрано, приглашения разосланы, до долгожданной церемонии остаются считанные дни. Но одно, казалось бы, невинное откровение переворачивает всё — Чарли узнаёт об Эмме то, что предпочёл бы не знать. Теперь на пути к «долго и счастливо» их отношениям предстоит пройти через неожиданную драму.",
+        "genres": [
+          "мелодрама",
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1325734",
+        "vote_average": 7.035,
+        "runtime_minutes": 96,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 4614,
+        "title": "Морская полиция: Спецотдел",
+        "original_title": "NCIS",
+        "tagline": null,
+        "lead_actors": [
+          "Sean Murray",
+          "Уилмер Вальдеррама"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2003-09-23",
+        "popularity": 193.7353,
+        "overview": "Сериал о приключениях команды профессиональных спецагентов. Их миссия — расследовать преступления, которые каким-то образом связаны со служащими морской пехоты. Группу следователей возглавляет специальный агент Гиббс. Его команда — это экс-детектив Энтони ДиНоззо, выхоженка из Моссад — Зива Давид, специалисты в области судмедэкспертизы — Эбби Шуто и Дональд Маллард, а также профессионал в области IT — Тимоти МакГи.",
+        "genres": [
+          "криминал",
+          "драма",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4ltafNQAjz9jhZ4xPN3eLGPD5P8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/4614",
+        "vote_average": 7.613,
+        "runtime_minutes": null,
+        "number_of_seasons": 23
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 550,
+        "title": "Бойцовский клуб",
+        "original_title": "Fight Club",
+        "tagline": "Интриги. Хаос. Мыло",
+        "lead_actors": [
+          "Эдвард Нортон",
+          "Брэд Питт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1999-10-15",
+        "popularity": 29.0245,
+        "overview": "Сотрудник страховой компании страдает хронической бессонницей и отчаянно пытается вырваться из мучительно скучной жизни. Однажды в очередной командировке он встречает некоего Тайлера Дёрдена — харизматического торговца мылом с извращенной философией. Тайлер уверен, что самосовершенствование — удел слабых, а единственное, ради чего стоит жить, — саморазрушение.\r Проходит немного времени, и вот уже новые друзья лупят друг друга почем зря на стоянке перед баром, и очищающий мордобой доставляет им высшее блаженство. Приобщая других мужчин к простым радостям физической жестокости, они основывают тайный Бойцовский клуб, который начинает пользоваться невероятной популярностью.",
+        "genres": [
+          "драма",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/66RvLrRJTm4J8l3uHXWF09AICol.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/550",
+        "vote_average": 8.4,
+        "runtime_minutes": 139,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1416,
+        "title": "Анатомия страсти",
+        "original_title": "Grey's Anatomy",
+        "tagline": "«Начни сначала»",
+        "lead_actors": [
+          "Эллен Помпео",
+          "Чандра Уилсон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2005-03-27",
+        "popularity": 188.6189,
+        "overview": "В центре событий — молодая женщина-хирург Мередит Грей, дочь известного врача Эллис Грей. Она работает в городской больнице Сиэтла, и её коллеги, такие же начинающие врачи, как она. Хирурги оперируют и влюбляются, заводят истории болезни и служебные романы, хранят свои врачебные тайны, борются с осложнениями у пациентов и в собственной личной жизни. И зачастую отношения с противоположным полом волнуют их не меньше, чем вопрос приобретения ими профессионального опыта.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9LIuxUjJ2Cc4DMXFRN2ReCMBKDD.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1416",
+        "vote_average": 8.2,
+        "runtime_minutes": null,
+        "number_of_seasons": 22
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1408208,
+        "title": "Выход 8",
+        "original_title": "Exit 8",
+        "tagline": "«Следуй за аномалиями»",
+        "lead_actors": [
+          "Кадзунари Ниномия",
+          "Кавачи Ямато"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-04-10",
+        "popularity": 26.3811,
+        "overview": "Мужчина оказывается заперт в бесконечных коридорах метро, которые начинают сводить его с ума. Единственная возможность выбраться — не упустить ни одной аномалии и найти выход №8.",
+        "genres": [
+          "ужасы",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/afORML1iggGkWf8M0Jsf2PPpIHv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1408208",
+        "vote_average": 6.6,
+        "runtime_minutes": 95,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "21:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1434,
+        "title": "Гриффины",
+        "original_title": "Family Guy",
+        "tagline": null,
+        "lead_actors": [
+          "Сет МакФарлейн",
+          "Алекс Борштейн"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1999-01-31",
+        "popularity": 123.8456,
+        "overview": "Типичная американская семья, члены которой способны разбить все возможные стереотипы. А говорящая собака с сигаретой и сухим мартини... А грудной малыш, мечтающий поработить весь мир... Разве это отклонение? Это катарсис в каждом эпизоде!",
+        "genres": [
+          "мультфильм",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9zdZeAxt7Xxu5omPufFu1TMl8BP.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1434",
+        "vote_average": 7.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 24
+      }
+    }
+  ]
+}
