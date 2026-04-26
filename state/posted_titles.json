@@ -20,6 +20,15 @@
       "published_at": "2026-04-25T14:33:27.196752+00:00"
     },
     {
+      "key": "tmdb:movie:550:movie_now_playing:1999-10-15",
+      "dedupe_key": "tmdb:movie:550",
+      "media_type": "movie",
+      "tmdb_id": 550,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1999-10-15",
+      "published_at": "2026-04-26T12:32:24.046546+00:00"
+    },
+    {
       "key": "tmdb:tv:4614:tv_on_the_air:2003-09-23",
       "dedupe_key": "tmdb:tv:4614",
       "media_type": "tv",
