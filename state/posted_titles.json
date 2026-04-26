@@ -20,6 +20,15 @@
       "published_at": "2026-04-25T14:33:27.196752+00:00"
     },
     {
+      "key": "tmdb:tv:4614:tv_on_the_air:2003-09-23",
+      "dedupe_key": "tmdb:tv:4614",
+      "media_type": "tv",
+      "tmdb_id": 4614,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2003-09-23",
+      "published_at": "2026-04-26T10:06:10.758611+00:00"
+    },
+    {
       "key": "tmdb:tv:79744:tv_on_the_air:2018-10-16",
       "dedupe_key": "tmdb:tv:79744",
       "media_type": "tv",
