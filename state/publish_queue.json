@@ -1,0 +1,188 @@
+{
+  "business_date": "2026-04-27",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1318447,
+        "title": "Вершина",
+        "original_title": "Apex",
+        "tagline": "«Охота. Выживание»",
+        "lead_actors": [
+          "Шарлиз Терон",
+          "Тэрон Эджертон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-04-24",
+        "popularity": 455.2368,
+        "overview": "Скорбящая женщина проверяет себя на прочность в австралийской пустыне и оказывается втянутой в изощренную игру с коварным убийцей, считающим ее своей добычей.",
+        "genres": [
+          "триллер",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7XnAejHy822FWpv8krqh6pYhWCP.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1318447",
+        "vote_average": 6.556,
+        "runtime_minutes": 96,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 33238,
+        "title": "Бегущий человек",
+        "original_title": "Running Man",
+        "tagline": null,
+        "lead_actors": [
+          "Ю Чэ Сок",
+          "Чжи Сок Чжин"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2010-07-11",
+        "popularity": 152.3409,
+        "overview": "Развлекательное шоу в совершенно новом жанре «городской погони». Постоянные участники сталкиваются в различных испытаниях и играх с лучшими артистами Кореи, будь то идолы, актеры или просто шоу-мэны. Участники и гости оказываются запертыми в различных городских объектах (университет, театр, музей, стадион и т. д.) на неопределённое время. Разделившись на команды они должны наперегонки выполнять различные задания и конкурсы на получение выигрышных призов. В финале проигравшая команда несёт унизительное наказание.",
+        "genres": [
+          "комедия",
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/15SMnscZqd7HZ0bzruatOcKUlOV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/33238",
+        "vote_average": 8.249,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1317149,
+        "title": "Я ругаюсь",
+        "original_title": "I Swear",
+        "tagline": null,
+        "lead_actors": [
+          "Роберт Арамайо",
+          "Максин Пик"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-04-24",
+        "popularity": 18.9352,
+        "overview": "1983 год. Подросток из Шотландии Джон мечтает о футболе, но внезапно появившиеся тики делают его жертвой школьной травли. После нервного срыва ему диагностируют синдром Туретта. Вскоре о болезни Джона выходит документальный фильм, который приносит ему известность, но навсегда меняет жизнь семьи и осложняет отношения с матерью.",
+        "genres": [
+          "драма",
+          "история"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/lP3WZIsuAaJ4C2Bj4ag753XsJga.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1317149",
+        "vote_average": 8.26,
+        "runtime_minutes": 121,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 202411,
+        "title": "«Монарх»: Наследие монстров",
+        "original_title": "Monarch: Legacy of Monsters",
+        "tagline": "И появится новая угроза.",
+        "lead_actors": [
+          "Анна Саваи",
+          "Кирси Клемонс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-11-16",
+        "popularity": 130.679,
+        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
+        "genres": [
+          "НФ и Фэнтези",
+          "драма",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/202411",
+        "vote_average": 7.715,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1242332,
+        "title": "Нормал",
+        "original_title": "Normal",
+        "tagline": null,
+        "lead_actors": [
+          "Боб Оденкёрк",
+          "Генри Уинклер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-04-17",
+        "popularity": 18.7799,
+        "overview": "Улисс приезжает в небольшой городок Нормал, чтобы временно занять должность шерифа. Город кажется безопасным, почти сонным и дружелюбным. Но после ограбления банка Улисс обнаруживает преступный заговор, в который вовлечён весь город. Теперь ему предстоит решить, готов ли он пойти до конца и разрушить кажущуюся идиллию.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1GXYen1mBGlNeIVes6sJHvgLeLC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1242332",
+        "vote_average": 7.2,
+        "runtime_minutes": 90,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "21:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1433,
+        "title": "Американский папаша!",
+        "original_title": "American Dad!",
+        "tagline": null,
+        "lead_actors": [
+          "Сет МакФарлейн",
+          "Уэнди Шаал"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2005-02-06",
+        "popularity": 127.6459,
+        "overview": "Агент ЦРУ Стэн Смит постоянно отбивается от террористов, угрожающих безопасности США (иногда принося больше вреда, чем пользы). Его жена Франсин — обычная домохозяйка с двумя детьми: Хейли, обычный бунтующий подросток, и Стив, компьютерщик, который любит «Подземелья и драконы», игры и комиксы. Ещё есть Роджер, нелегальный (космический) пришелец, которого Смиты защищают. И последнее, но не менее важное: это остроумная говорящая рыба Смитов Клаус — на самом деле, мозг у рыбки — человеческий  и его много лет назад ЦРУ извлекло из человеческого тела.",
+        "genres": [
+          "мультфильм",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6Oz0DW4H6f1LH0UWsdjVeZyalDH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1433",
+        "vote_average": 7.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 22
+      }
+    }
+  ]
+}
