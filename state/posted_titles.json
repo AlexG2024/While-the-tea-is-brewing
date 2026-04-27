@@ -180,6 +180,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-04-24",
       "published_at": "2026-04-27T07:21:19.640825+00:00"
+    },
+    {
+      "key": "tmdb:movie:1317149:movie_now_playing:2026-04-24",
+      "dedupe_key": "tmdb:movie:1317149",
+      "media_type": "movie",
+      "tmdb_id": 1317149,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-04-24",
+      "published_at": "2026-04-27T12:59:47.608579+00:00"
     }
   ]
 }
