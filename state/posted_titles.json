@@ -2,6 +2,15 @@
   "version": 1,
   "entries": [
     {
+      "key": "tmdb:movie:10835:movie_now_playing:1990-09-01",
+      "dedupe_key": "tmdb:movie:10835",
+      "media_type": "movie",
+      "tmdb_id": 10835,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1990-09-01",
+      "published_at": "2026-04-28T13:09:05.756631+00:00"
+    },
+    {
       "key": "tmdb:tv:549:tv_on_the_air:1990-09-13",
       "dedupe_key": "tmdb:tv:549",
       "media_type": "tv",
