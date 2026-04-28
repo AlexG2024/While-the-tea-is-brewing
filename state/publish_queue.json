@@ -1,0 +1,188 @@
+{
+  "business_date": "2026-04-28",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1292695,
+        "title": "Они придут за тобой",
+        "original_title": "They Will Kill You",
+        "tagline": "«Пусть попробуют»",
+        "lead_actors": [
+          "Зази Битц",
+          "Патриша Аркетт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-27",
+        "popularity": 129.582,
+        "overview": "Домработница откликается на вакансию в одном из престижных домов Нью-Йорка. Начиная работать на новых обеспеченных хозяев, она, сама того не подозревая, попадает в тайное сообщество, связанное с исчезновениями людей.",
+        "genres": [
+          "ужасы",
+          "боевик",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xCDqSY3cxVQbZULUgpoqRMNLvFQ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1292695",
+        "vote_average": 6.5,
+        "runtime_minutes": 94,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 44006,
+        "title": "Чикаго в огне",
+        "original_title": "Chicago Fire",
+        "tagline": "\"Почувствуй жар\"",
+        "lead_actors": [
+          "Taylor Kinney",
+          "Дэвид Эйгенберг"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2012-10-10",
+        "popularity": 114.6629,
+        "overview": "Сериал рассказывает о самой тяжелой и опасной работе — пожарных и спасателей чикагского отделения Firehouse 51. Несмотря на повседневные геройства мужчин и женщин, их огромная самоотдача приводит к личным потерям. Главный герой Мэтью Кейси, прирожденный лидер и настоящий пожарный. Однако расставание с девушкой заставляет его взглянуть по-новому на многие вещи. Кроме этого, Кейси постоянно находится в конфронтации с другим членом своей команды — лейтенантом Келли Северайдом.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pfz9fm6XOorOFkxmin7tqFMv14g.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/44006",
+        "vote_average": 8.391,
+        "runtime_minutes": null,
+        "number_of_seasons": 14
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10835,
+        "title": "Наемный убийца",
+        "original_title": "The Killer",
+        "tagline": null,
+        "lead_actors": [
+          "Чоу Юнь-Фат",
+          "李修賢"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1990-09-01",
+        "popularity": 9.3116,
+        "overview": "История о двух мужчинах, которые становятся друзьями, потому что не желают продаваться, не желают вести жизнь, не отвечающую их чувствам и устремлениям. Джеффри — профессиональный убийца, который, выполняя задание, случайно лишает зрения певицу Дженни.  Между слепой певицей и убийцей возникает взаимная привязанность, но самые близкие отношения у Джеффри завязываются с идущим по его следу полицейским инспектором, который признает в наемном убийце родственную душу.  Джеффри хочет оплатить Дженни операцию по восстановлению зрения, но, чтобы добыть деньги, он должен согласиться на совершение еще одного, последнего, как он надеется, задания.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "драма",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gWRJmylz94gmmJO7jo3qdeDLf1R.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10835",
+        "vote_average": 7.6,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 278573,
+        "title": "Жена принца XXI века",
+        "original_title": "Perfect Crown",
+        "tagline": null,
+        "lead_actors": [
+          "IU (Айю)",
+          "Пён У Сок"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-04-10",
+        "popularity": 114.4043,
+        "overview": "В условиях конституционной монархии XXI века, женщина, имеющая всё, но остающаяся простолюдинкой, встречает принца, который, несмотря на своё королевское происхождение, чувствует себя бессильным, — и это приводит к любви, которая бросает вызов социальному статусу.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/j37wlFXIPcSVEjWOi1KBxzWK0in.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/278573",
+        "vote_average": 8.25,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1244517,
+        "title": "На обочине жизни",
+        "original_title": "Tow",
+        "tagline": null,
+        "lead_actors": [
+          "Роуз Бирн",
+          "Доминик Сесса"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-20",
+        "popularity": 8.5716,
+        "overview": "Жизнь Аманды, сосредоточенная вокруг её старенькой Toyota Camry 1991 года, которая была для неё и домом, и средством передвижения, резко меняется, когда её автомобиль угоняют, а затем эвакуируют. Аманда сталкивается с необходимостью заплатить немыслимую сумму в 21 000 долларов за возвращение транспортного средства. Не желая мириться с этим вопиющим произволом, она находит молодого адвоката и начинает судебную тяжбу. На протяжении многих месяцев Аманда отчаянно борется за то, чтобы вернуть машину, но сталкивается с бюрократическими препонами. На этом нелёгком пути она обретает поддержку со стороны женщин, которым довелось пережить похожие трудности.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1244517",
+        "vote_average": 6.813,
+        "runtime_minutes": 105,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "21:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 202555,
+        "title": "Сорвиголова: Рождённый заново",
+        "original_title": "Daredevil: Born Again",
+        "tagline": "«Работа дьявола никогда не заканчивается»",
+        "lead_actors": [
+          "Чарли Кокс",
+          "Винсент Д’Онофрио"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-03-04",
+        "popularity": 113.2877,
+        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
+        "genres": [
+          "драма",
+          "Боевик и Приключения",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/202555",
+        "vote_average": 8.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
