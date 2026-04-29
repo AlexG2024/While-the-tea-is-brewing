@@ -1,0 +1,188 @@
+{
+  "business_date": "2026-04-29",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1314481,
+        "title": "Дьявол носит Prada 2",
+        "original_title": "The Devil Wears Prada 2",
+        "tagline": "«Иконы правят вечно.»",
+        "lead_actors": [
+          "Мэрил Стрип",
+          "Энн Хэтэуэй"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-01",
+        "popularity": 67.8527,
+        "overview": "Редактор модного журнала Миранда Пристли борется со своей бывшей помощницей Эмили Чарлтон, ныне руководительницей конкурирующего издания, за рекламные контракты. Пока печатные СМИ переживают кризис, Миранда готовится уйти на пенсию.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/z43CIDZXSXP2sY8YjiNmeoMIy2y.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1314481",
+        "vote_average": 8.1,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 65334,
+        "title": "Леди Баг и Супер-кот",
+        "original_title": "Miraculous: Tales of Ladybug & Cat Noir",
+        "tagline": "\"Время избавляться от зла!\"",
+        "lead_actors": [
+          "Анук Отбуа",
+          "Бенжамен Боллен"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2015-10-19",
+        "popularity": 112.0649,
+        "overview": "Леди Баг и Супер-Кот столкнутся с новым врагом — таинственным, тревожным, неуловимым и все же близким к ним. Очень близким, но они об этом не догадываются. К тому же, Маринетт и Эдриан никогда не были так близки друг к другу, но это не обязательно делает их повседневную жизнь ложем из роз, поскольку они хранят тайны друг от друга. Самая большая тайна в том, что они все еще не знают, что они Леди Баг и Супер-Кот. В новом и образцовом зеленом Париже, в самом сердце новой и революционной школы, наши герои переживут учебный год, полный эмоций и откровений.",
+        "genres": [
+          "Боевик и Приключения",
+          "мультфильм",
+          "Детский"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pJKWBSVPebRcyLe3pM5awvMioy8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/65334",
+        "vote_average": 8.049,
+        "runtime_minutes": null,
+        "number_of_seasons": 6
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1450527,
+        "title": "Запретный плод",
+        "original_title": "Forbidden Fruits",
+        "tagline": null,
+        "lead_actors": [
+          "Лили Рейнхарт",
+          "Лола Танг"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-27",
+        "popularity": 25.8901,
+        "overview": "Молодая работница одного из магазинов в торговом центре возглавляет тайное сообщество ведьм, в котором состоят её коллеги. Когда появление новой сотрудницы ставит под сомнение их показное общество, девушкам приходится столкнуться с собственными демонами или погибнуть.",
+        "genres": [
+          "ужасы",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ykBRLP4dc1HjISb0s0GjY1qYgUF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1450527",
+        "vote_average": 6.816,
+        "runtime_minutes": 103,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 80748,
+        "title": "ФБР",
+        "original_title": "FBI",
+        "tagline": "«Верность, смелость, честность»",
+        "lead_actors": [
+          "Мисси Перегрим",
+          "Зико Заки"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2018-09-25",
+        "popularity": 92.0683,
+        "overview": "Нью-Йорк. Огромный город, жизнь в котором кипит. Каждый день отделение полиции борется с десятками тысяч случаев мелких и крупных преступлений. Самые серьезные дела берут на себя агенты федерального бюро расследований. Будни этих людей по-настоящему сложны, опасны и интересны одновременно. Каждый раз приходится расследовать сложные дела, путаница в которых может ввести в заблуждение даже бывалых детективов. Проект \"ФБР\" сконцентрирован на повседневной службе агентов бюро, которые работают над раскрытием дел, поступающих один за другим без остановки,а также проводят опасные операции по захвату подозреваемых.",
+        "genres": [
+          "криминал",
+          "Боевик и Приключения",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/s5UpIET8YeVa8gI3r78F0h98UnF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/80748",
+        "vote_average": 7.909,
+        "runtime_minutes": null,
+        "number_of_seasons": 8
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 55721,
+        "title": "Девичник в Вегасе",
+        "original_title": "Bridesmaids",
+        "tagline": "Отжиг по полной - мальчики отдыхают!",
+        "lead_actors": [
+          "Кристен Уиг",
+          "Майя Рудольф"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2011-05-13",
+        "popularity": 7.5532,
+        "overview": "У Энни в личной жизни полный бардак, и ей совсем не до веселья. Но девушке придется забыть о своих проблемах: ведь вскоре ей предстоит отправиться на девичник к лучшей подруге. Девочки оторвутся так, как мальчикам и не снилось…",
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dLcHboNVJtcUziHB067rlS3R4Wf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/55721",
+        "vote_average": 6.506,
+        "runtime_minutes": 125,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "21:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 58841,
+        "title": "Полиция Чикаго",
+        "original_title": "Chicago P.D.",
+        "tagline": null,
+        "lead_actors": [
+          "Джейсон Беге",
+          "Marina Squerciati"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2014-01-08",
+        "popularity": 90.052,
+        "overview": "Сериал о полиции Чикаго повествует нам о будничной жизни этой структуры. Там работают замечательные, бравые и смелые парни, но каждый из них имеет свой, порой нелёгкий, характер, ведь в такую структуру идут люди, сильные морально. В сериале есть несколько остросюжетных линий. Основная - это общение двух групп полицейских между собой. Они имеют различную степень власти и разную квалификацию, но постоянно должны решать вопросы вместе, иначе работа не будет выполнена. Второстепенные линии - раскрытие характеров героев-полицейских, а также уголовные дела, раскрытием которых они занимаются с упорством и по совести.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nMSL6PGiHOKefKWfS2UFV7mOIX4.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/58841",
+        "vote_average": 8.41,
+        "runtime_minutes": null,
+        "number_of_seasons": 13
+      }
+    }
+  ]
+}
