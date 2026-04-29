@@ -101,6 +101,15 @@
       "published_at": "2026-04-28T09:36:46.745267+00:00"
     },
     {
+      "key": "tmdb:tv:58841:tv_on_the_air:2014-01-08",
+      "dedupe_key": "tmdb:tv:58841",
+      "media_type": "tv",
+      "tmdb_id": 58841,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2014-01-08",
+      "published_at": "2026-04-29T19:02:40.388628+00:00"
+    },
+    {
       "key": "tmdb:tv:65334:tv_on_the_air:2015-10-19",
       "dedupe_key": "tmdb:tv:65334",
       "media_type": "tv",
