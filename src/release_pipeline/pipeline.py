@@ -437,7 +437,7 @@ class ReleasePipeline:
             lines.append(f"<b>{date_label}:</b> {_format_release_date_us(item.event_date_us)}")
             vote_percent = _format_vote_percent(item.vote_average)
             if vote_percent:
-                lines.append(f"<b>Оценка пользователей TMDB:</b> {vote_percent}")
+                lines.append(f"<b>Оценка пользователей:</b> {vote_percent}")
             lines.append(
                 f"<b>Жанр:</b> {html.escape(', '.join(item.genres) if item.genres else 'Не указаны')}"
             )
