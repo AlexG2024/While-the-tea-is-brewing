@@ -40,13 +40,12 @@ class TMDbClient:
         response.raise_for_status()
         return response.json()
 
-    def get_now_playing_movies(self, *, region: str, page: int = 1) -> list[dict[str, Any]]:
+    def get_popular_movies(self, *, page: int = 1) -> list[dict[str, Any]]:
         payload = self._get(
-            "/movie/now_playing",
+            "/movie/popular",
             params={
                 "language": "ru-RU",
                 "page": page,
-                "region": region,
             },
         )
         return payload.get("results", [])

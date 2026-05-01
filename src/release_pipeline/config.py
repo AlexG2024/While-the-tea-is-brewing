@@ -43,6 +43,8 @@ class Settings:
     timezone_name: str
     max_movie_posts_per_day: int
     max_tv_posts_per_day: int
+    max_movie_candidate_pages: int
+    max_tv_candidate_pages: int
     movie_dedupe_days: int
     tv_dedupe_days: int
     min_tmdb_user_score_percent: int
@@ -87,6 +89,10 @@ class Settings:
             timezone_name=timezone_name,
             max_movie_posts_per_day=int(os.getenv("MAX_MOVIE_POSTS_PER_DAY", "3")),
             max_tv_posts_per_day=int(os.getenv("MAX_TV_POSTS_PER_DAY", "3")),
+            max_movie_candidate_pages=int(
+                os.getenv("MAX_MOVIE_CANDIDATE_PAGES", "10")
+            ),
+            max_tv_candidate_pages=int(os.getenv("MAX_TV_CANDIDATE_PAGES", "10")),
             movie_dedupe_days=int(
                 os.getenv("MOVIE_DEDUPE_DAYS", str(shared_dedupe_days))
             ),

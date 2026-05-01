@@ -13,8 +13,12 @@ from release_pipeline.state import PublishedStateStore
 
 class FakeTMDbClient:
     def __init__(self) -> None:
-        self.now_playing_results = []
+        self.popular_movie_results = []
+        self.popular_movie_results_by_page = {}
         self.on_the_air_results = []
+        self.on_the_air_results_by_page = {}
+        self.popular_movie_pages_called = []
+        self.on_the_air_pages_called = []
         self.movie_details = {}
         self.movie_alternative_titles = {}
         self.movie_credits = {}
@@ -22,10 +26,16 @@ class FakeTMDbClient:
         self.tv_details = {}
         self.tv_credits = {}
 
-    def get_now_playing_movies(self, region, page=1):
-        return self.now_playing_results if page == 1 else []
+    def get_popular_movies(self, page=1):
+        self.popular_movie_pages_called.append(page)
+        if page in self.popular_movie_results_by_page:
+            return self.popular_movie_results_by_page[page]
+        return self.popular_movie_results if page == 1 else []
 
     def get_on_the_air_tv(self, page=1):
+        self.on_the_air_pages_called.append(page)
+        if page in self.on_the_air_results_by_page:
+            return self.on_the_air_results_by_page[page]
         return self.on_the_air_results if page == 1 else []
 
     def get_movie_details(self, movie_id, language):
@@ -70,6 +80,8 @@ def make_settings(tmp_path: Path, *, dry_run: bool = False) -> Settings:
         timezone_name="Europe/Moscow",
         max_movie_posts_per_day=3,
         max_tv_posts_per_day=3,
+        max_movie_candidate_pages=10,
+        max_tv_candidate_pages=10,
         movie_dedupe_days=120,
         tv_dedupe_days=60,
         min_tmdb_user_score_percent=65,
@@ -121,7 +133,7 @@ def add_movie(
     release_date: str = "2026-04-24",
     tagline: str = "",
 ) -> None:
-    tmdb.now_playing_results.append(
+    tmdb.popular_movie_results.append(
         {
             "id": movie_id,
             "title": en_title,
@@ -324,7 +336,7 @@ def test_repeat_run_skips_duplicates(tmp_path: Path) -> None:
 
     first_summary = pipeline.run()
     second_pipeline, second_tmdb, second_telegram, _, _ = make_pipeline(tmp_path)
-    second_tmdb.now_playing_results = tmdb.now_playing_results
+    second_tmdb.popular_movie_results = tmdb.popular_movie_results
     second_tmdb.movie_details = tmdb.movie_details
     second_tmdb.movie_credits = tmdb.movie_credits
     second_tmdb.movie_release_dates = tmdb.movie_release_dates
@@ -394,7 +406,7 @@ def test_skips_movies_without_russian_title(tmp_path: Path) -> None:
 
 def test_missing_poster_skips_title(tmp_path: Path) -> None:
     pipeline, tmdb, telegram, _, _ = make_pipeline(tmp_path)
-    tmdb.now_playing_results = [
+    tmdb.popular_movie_results = [
         {
             "id": 404,
             "title": "No Poster",
@@ -420,6 +432,8 @@ def test_daily_caps_limit_movies_and_tv_independently(tmp_path: Path) -> None:
         timezone_name="Europe/Moscow",
         max_movie_posts_per_day=2,
         max_tv_posts_per_day=1,
+        max_movie_candidate_pages=10,
+        max_tv_candidate_pages=10,
         movie_dedupe_days=120,
         tv_dedupe_days=60,
         min_tmdb_user_score_percent=65,
@@ -563,6 +577,115 @@ def test_prepare_queue_interleaves_movies_and_tv_by_slots(tmp_path: Path) -> Non
     assert [entry.slot_time for entry in queue.items] == ["09:15", "12:20", "15:15", "17:20"]
     assert [entry.item.media_type for entry in queue.items] == ["movie", "tv", "movie", "tv"]
     assert [entry.item.title for entry in queue.items] == ["Фильм 1", "Сериал 1", "Фильм 2", "Сериал 2"]
+
+
+def test_collect_movie_candidates_reads_all_configured_pages(tmp_path: Path) -> None:
+    pipeline, tmdb, _, _, _ = make_pipeline(tmp_path)
+    pipeline.settings = Settings(
+        tmdb_api_token="tmdb",
+        telegram_bot_token="telegram",
+        telegram_chat_id="@channel",
+        timezone_name="Europe/Moscow",
+        max_movie_posts_per_day=3,
+        max_tv_posts_per_day=3,
+        max_movie_candidate_pages=3,
+        max_tv_candidate_pages=10,
+        movie_dedupe_days=120,
+        tv_dedupe_days=60,
+        min_tmdb_user_score_percent=65,
+        state_path=tmp_path / "posted_titles.json",
+        queue_path=tmp_path / "publish_queue.json",
+        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "21:05"),
+        dry_run=False,
+        force_business_date=date(2026, 4, 24),
+    )
+    tmdb.popular_movie_results_by_page = {
+        1: [
+            {
+                "id": 1,
+                "title": "Movie 1",
+                "release_date": "2026-04-24",
+                "poster_path": "/1.jpg",
+                "popularity": 100,
+                "adult": False,
+            }
+        ],
+        2: [
+            {
+                "id": 2,
+                "title": "Movie 2",
+                "release_date": "2026-04-23",
+                "poster_path": "/2.jpg",
+                "popularity": 90,
+                "adult": False,
+            }
+        ],
+        3: [
+            {
+                "id": 3,
+                "title": "Movie 3",
+                "release_date": "2026-04-22",
+                "poster_path": "/3.jpg",
+                "popularity": 80,
+                "adult": False,
+            }
+        ],
+    }
+
+    candidates = pipeline.collect_movie_candidates(date(2026, 4, 24))
+
+    assert [candidate.tmdb_id for candidate in candidates] == [1, 2, 3]
+    assert tmdb.popular_movie_pages_called == [1, 2, 3]
+
+
+def test_prepare_queue_stops_fetching_extra_pages_after_reaching_daily_caps(tmp_path: Path) -> None:
+    pipeline, tmdb, _, _, queue_store = make_pipeline(tmp_path)
+    for movie_id, popularity in ((1, 100), (2, 95), (3, 90)):
+        add_movie(
+            tmdb,
+            movie_id,
+            popularity=popularity,
+            ru_title=f"Фильм {movie_id}",
+            en_title=f"Movie {movie_id}",
+            vote_average=7.5,
+        )
+    tmdb.popular_movie_results_by_page[2] = [
+        {
+            "id": 4,
+            "title": "Movie 4",
+            "release_date": "2026-04-21",
+            "poster_path": "/4.jpg",
+            "popularity": 85,
+            "adult": False,
+        }
+    ]
+    for tv_id, popularity in ((11, 100), (12, 95), (13, 90)):
+        add_tv_show(
+            tmdb,
+            tv_id,
+            popularity=popularity,
+            ru_name=f"Сериал {tv_id}",
+            en_name=f"Show {tv_id}",
+            vote_average=7.5,
+        )
+    tmdb.on_the_air_results_by_page[2] = [
+        {
+            "id": 14,
+            "name": "Show 14",
+            "first_air_date": "2026-04-20",
+            "poster_path": "/tv-14.jpg",
+            "popularity": 85,
+        }
+    ]
+
+    summary = pipeline.prepare_queue()
+    queue = queue_store.load()
+
+    assert summary.queue_items == 6
+    assert queue is not None
+    assert len(queue.items) == 6
+    assert tmdb.popular_movie_pages_called == [1]
+    assert tmdb.on_the_air_pages_called == [1]
 
 
 def test_publish_next_publishes_only_first_due_item_from_queue(tmp_path: Path) -> None:

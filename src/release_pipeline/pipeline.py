@@ -248,49 +248,71 @@ class ReleasePipeline:
     def current_time(self) -> datetime:
         return self.now_fn(self.settings.timezone)
 
+    def _movie_candidate_from_row(self, row: dict) -> Candidate | None:
+        release_date = _parse_iso_date(row.get("release_date"))
+        if not row.get("title") or release_date is None or not row.get("poster_path"):
+            return None
+        if row.get("adult"):
+            return None
+        return Candidate(
+            source="tmdb",
+            media_type="movie",
+            tmdb_id=int(row["id"]),
+            event_type="movie_now_playing",
+            event_date_us=release_date,
+            title=row["title"],
+            popularity=float(row.get("popularity") or 0.0),
+            poster_path=row["poster_path"],
+        )
+
+    def _tv_candidate_from_row(self, row: dict) -> Candidate | None:
+        first_air_date = _parse_iso_date(row.get("first_air_date"))
+        name = row.get("name") or row.get("original_name")
+        if not name or first_air_date is None or not row.get("poster_path"):
+            return None
+        return Candidate(
+            source="tmdb",
+            media_type="tv",
+            tmdb_id=int(row["id"]),
+            event_type="tv_on_the_air",
+            event_date_us=first_air_date,
+            title=name,
+            popularity=float(row.get("popularity") or 0.0),
+            poster_path=row["poster_path"],
+        )
+
+    def _collect_movie_candidates_for_page(self, page: int) -> list[Candidate]:
+        candidates: list[Candidate] = []
+        for row in self.tmdb.get_popular_movies(page=page):
+            candidate = self._movie_candidate_from_row(row)
+            if candidate is not None:
+                candidates.append(candidate)
+        return self._dedupe_candidates(candidates)
+
+    def _collect_tv_candidates_for_page(self, page: int) -> list[Candidate]:
+        candidates: list[Candidate] = []
+        for row in self.tmdb.get_on_the_air_tv(page=page):
+            candidate = self._tv_candidate_from_row(row)
+            if candidate is not None:
+                candidates.append(candidate)
+        return self._dedupe_candidates(candidates)
+
     def collect_movie_candidates(self, business_date) -> list[Candidate]:
         candidates: list[Candidate] = []
-        for page in (1, 2):
-            for row in self.tmdb.get_now_playing_movies(region="US", page=page):
-                release_date = _parse_iso_date(row.get("release_date"))
-                if not row.get("title") or release_date is None or not row.get("poster_path"):
-                    continue
-                if row.get("adult"):
-                    continue
-                candidates.append(
-                    Candidate(
-                        source="tmdb",
-                        media_type="movie",
-                        tmdb_id=int(row["id"]),
-                        event_type="movie_now_playing",
-                        event_date_us=release_date,
-                        title=row["title"],
-                        popularity=float(row.get("popularity") or 0.0),
-                        poster_path=row["poster_path"],
-                    )
-                )
+        for page in range(1, self.settings.max_movie_candidate_pages + 1):
+            page_candidates = self._collect_movie_candidates_for_page(page)
+            if not page_candidates:
+                break
+            candidates.extend(page_candidates)
         return self._dedupe_candidates(candidates)
 
     def collect_tv_candidates(self, business_date) -> list[Candidate]:
         candidates: list[Candidate] = []
-        for page in (1, 2):
-            for row in self.tmdb.get_on_the_air_tv(page=page):
-                first_air_date = _parse_iso_date(row.get("first_air_date"))
-                name = row.get("name") or row.get("original_name")
-                if not name or first_air_date is None or not row.get("poster_path"):
-                    continue
-                candidates.append(
-                    Candidate(
-                        source="tmdb",
-                        media_type="tv",
-                        tmdb_id=int(row["id"]),
-                        event_type="tv_on_the_air",
-                        event_date_us=first_air_date,
-                        title=name,
-                        popularity=float(row.get("popularity") or 0.0),
-                        poster_path=row["poster_path"],
-                    )
-                )
+        for page in range(1, self.settings.max_tv_candidate_pages + 1):
+            page_candidates = self._collect_tv_candidates_for_page(page)
+            if not page_candidates:
+                break
+            candidates.extend(page_candidates)
         return self._dedupe_candidates(candidates)
 
     def _dedupe_candidates(self, candidates: Iterable[Candidate]) -> list[Candidate]:
@@ -461,17 +483,17 @@ class ReleasePipeline:
         self,
         business_date: date,
     ) -> tuple[list[Candidate], list[Candidate], list[PublishableItem], list[PublishableItem]]:
-        raw_movie_candidates = self.collect_movie_candidates(business_date)
-        raw_tv_candidates = self.collect_tv_candidates(business_date)
-        publishable_movies = self._select_publishable_items(
-            raw_movie_candidates,
+        raw_movie_candidates, publishable_movies = self._collect_publishable_candidates(
+            self._collect_movie_candidates_for_page,
             business_date,
             self.settings.max_movie_posts_per_day,
+            self.settings.max_movie_candidate_pages,
         )
-        publishable_tv = self._select_publishable_items(
-            raw_tv_candidates,
+        raw_tv_candidates, publishable_tv = self._collect_publishable_candidates(
+            self._collect_tv_candidates_for_page,
             business_date,
             self.settings.max_tv_posts_per_day,
+            self.settings.max_tv_candidate_pages,
         )
         return raw_movie_candidates, raw_tv_candidates, publishable_movies, publishable_tv
 
@@ -667,25 +689,37 @@ class ReleasePipeline:
         publishable_items: list[PublishableItem] = []
         seen_run_keys: set[str] = set()
         for candidate in candidates:
-            if candidate.state_key in seen_run_keys:
-                continue
-            if self.state_store.has_event(candidate.state_key):
-                continue
-            if self.state_store.was_recently_published(
-                candidate.dedupe_key,
-                business_date,
-                candidate.media_type,
-            ):
-                continue
-            item = self.enrich_candidate(candidate)
-            if item is None:
-                continue
-            if item.state_key in seen_run_keys:
-                continue
-            publishable_items.append(item)
-            seen_run_keys.add(item.state_key)
+            if len(publishable_items) >= limit:
+                break
+            item = self._select_publishable_candidate(candidate, business_date, seen_run_keys)
+            if item is not None:
+                publishable_items.append(item)
         publishable_items.sort(key=lambda item: item.popularity, reverse=True)
         return publishable_items[:limit]
+
+    def _select_publishable_candidate(
+        self,
+        candidate: Candidate,
+        business_date: date,
+        seen_run_keys: set[str],
+    ) -> PublishableItem | None:
+        if candidate.state_key in seen_run_keys:
+            return None
+        if self.state_store.has_event(candidate.state_key):
+            return None
+        if self.state_store.was_recently_published(
+            candidate.dedupe_key,
+            business_date,
+            candidate.media_type,
+        ):
+            return None
+        item = self.enrich_candidate(candidate)
+        if item is None:
+            return None
+        if item.state_key in seen_run_keys:
+            return None
+        seen_run_keys.add(item.state_key)
+        return item
 
     def run(self) -> RunSummary:
         business_date = self.business_date()
@@ -736,3 +770,39 @@ class ReleasePipeline:
             published_count=published_count,
             failures=failures,
         )
+    def _collect_publishable_candidates(
+        self,
+        fetch_page: Callable[[int], list[Candidate]],
+        business_date: date,
+        limit: int,
+        max_pages: int,
+    ) -> tuple[list[Candidate], list[PublishableItem]]:
+        raw_candidates: list[Candidate] = []
+        publishable_items: list[PublishableItem] = []
+        seen_raw_keys: set[str] = set()
+        seen_run_keys: set[str] = set()
+
+        for page in range(1, max_pages + 1):
+            page_candidates = fetch_page(page)
+            if not page_candidates:
+                break
+            for candidate in page_candidates:
+                if candidate.state_key in seen_raw_keys:
+                    continue
+                seen_raw_keys.add(candidate.state_key)
+                raw_candidates.append(candidate)
+                if len(publishable_items) >= limit:
+                    break
+                item = self._select_publishable_candidate(
+                    candidate,
+                    business_date,
+                    seen_run_keys,
+                )
+                if item is not None:
+                    publishable_items.append(item)
+            if len(publishable_items) >= limit:
+                break
+
+        raw_candidates.sort(key=lambda item: item.popularity, reverse=True)
+        publishable_items.sort(key=lambda item: item.popularity, reverse=True)
+        return raw_candidates, publishable_items

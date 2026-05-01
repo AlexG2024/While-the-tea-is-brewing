@@ -26,6 +26,8 @@ def test_caption_is_trimmed_to_telegram_limit(tmp_path: Path) -> None:
         timezone_name="America/New_York",
         max_movie_posts_per_day=3,
         max_tv_posts_per_day=3,
+        max_movie_candidate_pages=10,
+        max_tv_candidate_pages=10,
         movie_dedupe_days=120,
         tv_dedupe_days=60,
         min_tmdb_user_score_percent=65,
