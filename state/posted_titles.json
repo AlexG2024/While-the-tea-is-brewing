@@ -2,6 +2,15 @@
   "version": 1,
   "entries": [
     {
+      "key": "tmdb:tv:1667:tv_on_the_air:1975-10-11",
+      "dedupe_key": "tmdb:tv:1667",
+      "media_type": "tv",
+      "tmdb_id": 1667,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1975-10-11",
+      "published_at": "2026-05-01T15:12:36.455542+00:00"
+    },
+    {
       "key": "tmdb:movie:10835:movie_now_playing:1990-09-01",
       "dedupe_key": "tmdb:movie:10835",
       "media_type": "movie",
