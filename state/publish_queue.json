@@ -1,0 +1,190 @@
+{
+  "business_date": "2026-05-02",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1523145,
+        "title": "Твоё сердце будет разбито",
+        "original_title": "Your Heart Will Be Broken",
+        "tagline": null,
+        "lead_actors": [
+          "Даниэль Вегас",
+          "Вероника Журавлёва"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-26",
+        "popularity": 256.1399,
+        "overview": "Старшеклассница Полина спасается от травли в новой школе и идёт на сделку с главным хулиганом Барсом: он должен притворяться её парнем и защищать, а она делать всё, что он скажет. В ходе этой игры у пары появляются настоящие чувства, но у её семьи и одноклассников есть причины разлучить влюблённых.",
+        "genres": [
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1523145",
+        "vote_average": 6.9,
+        "runtime_minutes": 134,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 56570,
+        "title": "Чужестранка",
+        "original_title": "Outlander",
+        "tagline": null,
+        "lead_actors": [
+          "Катрина Балф",
+          "Сэм Хьюэн"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2014-08-09",
+        "popularity": 104.4146,
+        "overview": "Клэр, работавшая медсестрой во время Второй мировой войны, случайно перемещается во времени и попадает в 1743 год. В этом мире, полном приключений, она знакомится с шотландским рыцарем Джейми. У героев завязывается страстный роман, несмотря на то, что сердце Клэр разрывается между двумя мужчинами — Джейми и ее мужем Фрэнком, который остался в другом времени.",
+        "genres": [
+          "драма",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/5HdUN4MvDegqDNLAjJDTjFRWfVR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/56570",
+        "vote_average": 8.176,
+        "runtime_minutes": null,
+        "number_of_seasons": 8
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1198994,
+        "title": "Пришлите помощь",
+        "original_title": "Send Help",
+        "tagline": "«Познакомьтесь с Линдой Лиддл»",
+        "lead_actors": [
+          "Рэйчел МакАдамс",
+          "Дилан О'Брайен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-01-30",
+        "popularity": 245.0573,
+        "overview": "Линда Лиддл, сотрудница отдела стратегического развития, справедливо считает себя очень полезной сотрудницей и рассчитывает на повышение. Вот только в офисе она всех раздражает, и когда после смерти пожилого президента компании это место занимает его сын Брэдли, обещанная Линде должность уходит другому. Вскоре делегация фирмы отправляется в командировку в Бангкок, самолёт терпит крушение, и единственными выжившими на небольшом тайском острове оказываются Линда и Брэдли. Будучи фанаткой шоу о выживании, женщина сразу берёт ситуацию в свои руки.",
+        "genres": [
+          "ужасы",
+          "триллер",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kGJilE2EIiFsxUGR96AV1C5tYdt.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1198994",
+        "vote_average": 7.022,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 70672,
+        "title": "Всеведущие братья",
+        "original_title": "Men on a Mission",
+        "tagline": null,
+        "lead_actors": [
+          "김영철",
+          "민경훈"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2015-12-05",
+        "popularity": 65.3361,
+        "overview": "Участники шоу получают вопросы от зрителей, их задача - ответить на вопросы, используя тело и мозг. Шоу изменило свою концепцию на школьную после 16 эпизода. Многие зрители считают, что изменения только к лучшему.",
+        "genres": [
+          "Реалити-шоу",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/70672",
+        "vote_average": 7.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 83533,
+        "title": "Аватар 3",
+        "original_title": "Avatar: Fire and Ash",
+        "tagline": "«Пламя и пепел»",
+        "lead_actors": [
+          "Сэм Уортингтон",
+          "Зои Салдана"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-12-19",
+        "popularity": 202.1445,
+        "overview": "Джейк Салли, Нейтири и их дети переживают смерть Нетейама. Противостояние с корпорацией RDA обостряется, и теперь семье предстоит столкнуться с враждебным племенем На`ви во главе с Варанг.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kpxYvaCnbRi7btNnpLCJrehy77e.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/83533",
+        "vote_average": 7.373,
+        "runtime_minutes": 192,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "21:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 65942,
+        "title": "Re: Жизнь в другом мире с нуля",
+        "original_title": "Re:ZERO -Starting Life in Another World-",
+        "tagline": "Чтобы спасти тебя, я готов умирать снова и снова.",
+        "lead_actors": [
+          "Юсукэ Кобаяси",
+          "Риэ Такахаси"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2016-04-04",
+        "popularity": 64.4139,
+        "overview": "Субару Нацуки, ничем не примечательный затворник, вдруг попадает в другой мир! Казалось бы, всё теперь ему по плечу, а рядом будет красавица-призывательница. Да только вот реальность оказалась жестока: с магией он всё ещё не в ладах, сил не прибавилось, да и никакой красавицы рядом не предвидится. А тут ещё и разбойники напали! Вот только на помощь ему пришла сребровласая девушка, и встреча с ней изменила жизнь Субару... Но в лучшую ли сторону?",
+        "genres": [
+          "мультфильм",
+          "Боевик и Приключения",
+          "НФ и Фэнтези",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4BZmlkvpQL87RlZuvpZLQa0ABNd.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/65942",
+        "vote_average": 7.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    }
+  ]
+}
