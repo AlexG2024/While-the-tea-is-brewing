@@ -196,8 +196,11 @@ def add_tv_show(
     vote_average: float = 7.4,
     first_air_date: str = "2026-04-01",
     number_of_seasons: int = 2,
+    origin_country: list[str] | None = None,
     tagline: str = "",
 ) -> None:
+    if origin_country is None:
+        origin_country = ["US"]
     tmdb.on_the_air_results.append(
         {
             "id": tv_id,
@@ -217,6 +220,7 @@ def add_tv_show(
         "genres": [{"name": "Драма"}],
         "vote_average": vote_average,
         "number_of_seasons": number_of_seasons,
+        "origin_country": origin_country,
     }
     tmdb.tv_details[(tv_id, "en-US")] = {
         "name": en_name,
@@ -228,6 +232,7 @@ def add_tv_show(
         "genres": [{"name": "Drama"}],
         "vote_average": vote_average,
         "number_of_seasons": number_of_seasons,
+        "origin_country": origin_country,
     }
     tmdb.tv_credits[(tv_id, "ru-RU")] = {
         "cast": [
@@ -298,7 +303,7 @@ def test_prefers_ru_alternative_title_when_it_differs_from_api_title(tmp_path: P
 
     assert summary.published_count == 1
     assert "Project Hail Mary (Проект «Конец света»)" in telegram.sent[0]["caption"]
-    assert "<b>Дата выпуска:</b> 03/20/2026 (US)" in telegram.sent[0]["caption"]
+    assert "<b>Дата выпуска:</b> 20/03/2026" in telegram.sent[0]["caption"]
     assert "<b>В главных ролях:</b> Райан Гослинг, Сандра Хюллер" in telegram.sent[0]["caption"]
     assert "<i>Спасти Землю любой ценой.</i>" in telegram.sent[0]["caption"]
 
@@ -327,7 +332,7 @@ def test_keeps_cyrillic_ru_title_when_alternative_is_latin_transliteration(tmp_p
 
     assert summary.published_count == 1
     assert "Fight Club (Бойцовский клуб)" in telegram.sent[0]["caption"]
-    assert "<b>Дата выпуска:</b> 10/15/1999 (US)" in telegram.sent[0]["caption"]
+    assert "<b>Дата выпуска:</b> 15/10/1999" in telegram.sent[0]["caption"]
 
 
 def test_repeat_run_skips_duplicates(tmp_path: Path) -> None:
@@ -499,10 +504,100 @@ def test_tv_caption_uses_first_air_date_and_seasons(tmp_path: Path) -> None:
     caption = telegram.sent[0]["caption"]
     assert "Сериал - Severance (Разделение)" in caption
     assert "<i>Русский слоган сериала.</i>" in caption
-    assert "<b>Дата первого выхода:</b> 02/18/2022 (US)" in caption
+    assert "<b>Дата первого выхода:</b> 18/02/2022" in caption
     assert "<b>Количество сезонов:</b> 2" in caption
     assert "<b>В главных ролях:</b> Адам Скотт, Бритт Лоуэр" in caption
     assert "<b>Длительность:</b>" not in caption
+
+
+def test_transliterates_latin_actor_names_from_ru_credits(tmp_path: Path) -> None:
+    pipeline, tmdb, telegram, _, _ = make_pipeline(tmp_path)
+    add_tv_show(
+        tmdb,
+        777,
+        ru_name="Сериал 777",
+        en_name="Show 777",
+        ru_overview="Русское описание сериала.",
+        vote_average=8.0,
+    )
+    tmdb.tv_credits[(777, "ru-RU")] = {
+        "cast": [
+            {"name": "Aytac Sasmaz", "order": 0},
+            {"name": "Helin Kandemir", "order": 1},
+        ]
+    }
+
+    summary = pipeline.run()
+
+    assert summary.published_count == 1
+    caption = telegram.sent[0]["caption"]
+    assert "<b>В главных ролях:</b> Айтак Сасмаз, Хелин Кандемир" in caption
+
+
+def test_transliterates_extended_latin_actor_names(tmp_path: Path) -> None:
+    pipeline, tmdb, telegram, _, _ = make_pipeline(tmp_path)
+    add_tv_show(
+        tmdb,
+        779,
+        ru_name="Сериал 779",
+        en_name="Show 779",
+        ru_overview="Русское описание сериала.",
+        vote_average=8.0,
+    )
+    tmdb.tv_credits[(779, "ru-RU")] = {
+        "cast": [
+            {"name": "Demet Özdemir", "order": 0},
+            {"name": "Çağla Şimşek", "order": 1},
+        ]
+    }
+
+    summary = pipeline.run()
+
+    assert summary.published_count == 1
+    caption = telegram.sent[0]["caption"]
+    assert "<b>В главных ролях:</b> Демет Оздемир, Чагла Шимшек" in caption
+
+
+def test_genres_are_lowercased_and_split_on_conjunction(tmp_path: Path) -> None:
+    pipeline, tmdb, telegram, _, _ = make_pipeline(tmp_path)
+    add_tv_show(
+        tmdb,
+        778,
+        ru_name="Сериал 778",
+        en_name="Show 778",
+        ru_overview="Русское описание сериала.",
+        vote_average=8.0,
+    )
+    tmdb.tv_details[(778, "ru-RU")]["genres"] = [
+        {"name": "мультфильм"},
+        {"name": "Боевик и Приключения"},
+        {"name": "НФ и Фэнтези"},
+        {"name": "детектив"},
+    ]
+
+    summary = pipeline.run()
+
+    assert summary.published_count == 1
+    caption = telegram.sent[0]["caption"]
+    assert "<b>Жанр:</b> мультфильм, боевик, приключения, нф, фэнтези, детектив" in caption
+
+
+def test_skips_non_us_tv_shows(tmp_path: Path) -> None:
+    pipeline, tmdb, telegram, _, _ = make_pipeline(tmp_path)
+    add_tv_show(
+        tmdb,
+        780,
+        ru_name="Турецкий сериал",
+        en_name="Turkish Show",
+        ru_overview="Русское описание сериала.",
+        vote_average=8.0,
+        origin_country=["TR"],
+    )
+
+    summary = pipeline.run()
+
+    assert summary.published_count == 0
+    assert telegram.sent == []
 
 
 def test_skips_tv_without_russian_overview_or_title(tmp_path: Path) -> None:

@@ -31,6 +31,23 @@ def _pick_genres(primary: dict, fallback: dict) -> list[str]:
     return [genre["name"] for genre in genres if genre.get("name")]
 
 
+def _format_genres(genres: list[str]) -> str:
+    if not genres:
+        return "Не указаны"
+    normalized: list[str] = []
+    for genre in genres:
+        value = re.sub(r"\s+", " ", genre.strip())
+        if not value:
+            continue
+        parts = [
+            part.strip().lower()
+            for part in re.split(r"\s+и\s+", value, flags=re.IGNORECASE)
+            if part.strip()
+        ]
+        normalized.extend(parts)
+    return ", ".join(normalized) if normalized else "Не указаны"
+
+
 def _trim_sentences(text: str, *, max_sentences: int = 3, max_chars: int = 420) -> str:
     parts = [part.strip() for part in SENTENCE_SPLIT_RE.split(text.strip()) if part.strip()]
     if not parts:
@@ -60,7 +77,127 @@ def _has_cyrillic(value: str | None) -> bool:
 
 
 def _format_release_date_us(value) -> str:
-    return value.strftime("%m/%d/%Y") + " (US)"
+    return value.strftime("%d/%m/%Y")
+
+
+def _transliterate_latin_name(value: str) -> str:
+    digraphs = [
+        ("sch", "щ"),
+        ("shch", "щ"),
+        ("yo", "ё"),
+        ("zh", "ж"),
+        ("kh", "х"),
+        ("ts", "ц"),
+        ("ch", "ч"),
+        ("sh", "ш"),
+        ("yu", "ю"),
+        ("ya", "я"),
+        ("ye", "е"),
+        ("yi", "и"),
+        ("iy", "ий"),
+        ("ey", "ей"),
+        ("oy", "ой"),
+        ("uy", "уй"),
+        ("ay", "ай"),
+        ("ck", "к"),
+        ("ph", "ф"),
+        ("th", "т"),
+        ("wh", "в"),
+        ("qu", "кв"),
+    ]
+    special_chars = {
+        "ö": "о",
+        "Ö": "О",
+        "ü": "ю",
+        "Ü": "Ю",
+        "ç": "ч",
+        "Ç": "Ч",
+        "ş": "ш",
+        "Ş": "Ш",
+        "ı": "ы",
+        "I": "Ы",
+        "İ": "И",
+        "ğ": "г",
+        "Ğ": "Г",
+    }
+    single_chars = {
+        "a": "а",
+        "b": "б",
+        "c": "к",
+        "d": "д",
+        "e": "е",
+        "f": "ф",
+        "g": "г",
+        "h": "х",
+        "i": "и",
+        "j": "дж",
+        "k": "к",
+        "l": "л",
+        "m": "м",
+        "n": "н",
+        "o": "о",
+        "p": "п",
+        "q": "к",
+        "r": "р",
+        "s": "с",
+        "t": "т",
+        "u": "у",
+        "v": "в",
+        "w": "в",
+        "x": "кс",
+        "y": "и",
+        "z": "з",
+    }
+    word_pattern = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿĀ-ž][A-Za-zÀ-ÖØ-öø-ÿĀ-ž'`-]*")
+
+    def transliterate_word(word: str) -> str:
+        result: list[str] = []
+        index = 0
+        lowered = word.lower()
+        while index < len(word):
+            matched = False
+            for latin, cyrillic in digraphs:
+                if lowered.startswith(latin, index):
+                    result.append(cyrillic)
+                    index += len(latin)
+                    matched = True
+                    break
+            if matched:
+                continue
+            char = word[index]
+            if char in {"'", "`"}:
+                index += 1
+                continue
+            if char == "-":
+                result.append("-")
+                index += 1
+                continue
+            if char in special_chars:
+                result.append(special_chars[char])
+                index += 1
+                continue
+            replacement = single_chars.get(lowered[index], char)
+            result.append(replacement)
+            index += 1
+        transliterated = "".join(result)
+        if word.isupper():
+            return transliterated.upper()
+        if word[:1].isupper():
+            return transliterated[:1].upper() + transliterated[1:]
+        return transliterated
+
+    return word_pattern.sub(lambda match: transliterate_word(match.group(0)), value)
+
+
+def _normalize_person_name(value: str | None) -> str | None:
+    if not value:
+        return None
+    name = value.strip()
+    if not name:
+        return None
+    if _has_cyrillic(name):
+        return name
+    return _transliterate_latin_name(name)
 
 
 def _parse_iso_date(value: str | None) -> date | None:
@@ -137,7 +274,7 @@ def _pick_lead_actors(credits_ru: dict, credits_en: dict, limit: int = 2) -> lis
         )
         names: list[str] = []
         for person in sorted_cast:
-            name = (person.get("name") or "").strip()
+            name = _normalize_person_name(person.get("name"))
             if name and name not in names:
                 names.append(name)
             if len(names) >= limit:
@@ -378,6 +515,9 @@ class ReleasePipeline:
         details_en = self.tmdb.get_tv_details(candidate.tmdb_id, "en-US")
         credits_ru = self.tmdb.get_tv_credits(candidate.tmdb_id, "ru-RU")
         credits_en = self.tmdb.get_tv_credits(candidate.tmdb_id, "en-US")
+        origin_countries = details_en.get("origin_country") or details_ru.get("origin_country") or []
+        if "US" not in origin_countries:
+            return None
         overview = details_ru.get("overview")
         if not overview or not overview.strip():
             return None
@@ -438,9 +578,7 @@ class ReleasePipeline:
             vote_percent = _format_vote_percent(item.vote_average)
             if vote_percent:
                 lines.append(f"<b>Оценка пользователей:</b> {vote_percent}")
-            lines.append(
-                f"<b>Жанр:</b> {html.escape(', '.join(item.genres) if item.genres else 'Не указаны')}"
-            )
+            lines.append(f"<b>Жанр:</b> {html.escape(_format_genres(item.genres))}")
             if item.event_type == "movie_now_playing":
                 runtime_label = _format_runtime(item.runtime_minutes)
                 if runtime_label:

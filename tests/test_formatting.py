@@ -73,4 +73,5 @@ def test_caption_is_trimmed_to_telegram_limit(tmp_path: Path) -> None:
     assert "<b>Фильм - Long Movie Original (Long Movie)</b>" in caption
     assert "<b>Длительность:</b> 2ч 37м" in caption
     assert "\n\n<i>Tagline here</i>\n\n" in caption
+    assert "<b>Жанр:</b> drama, mystery" in caption
     assert "<b>В главных ролях:</b> Lead Actor, Second Actor" in caption
