@@ -33,7 +33,7 @@ def test_caption_is_trimmed_to_telegram_limit(tmp_path: Path) -> None:
         min_tmdb_user_score_percent=65,
         state_path=tmp_path / "posted_titles.json",
         queue_path=tmp_path / "publish_queue.json",
-        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "21:05"),
+        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "20:05"),
         dry_run=True,
         force_business_date=date(2026, 4, 24),
     )

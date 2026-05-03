@@ -78,7 +78,7 @@ class Settings:
             slot.strip()
             for slot in os.getenv(
                 "PUBLISH_SLOTS",
-                "09:15,12:20,15:15,17:20,19:15,21:05",
+                "09:15,12:20,15:15,17:20,19:15,20:05",
             ).split(",")
             if slot.strip()
         )
