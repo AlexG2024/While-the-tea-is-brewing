@@ -29,6 +29,15 @@
       "published_at": "2026-04-25T18:07:59.483080+00:00"
     },
     {
+      "key": "tmdb:tv:30983:tv_on_the_air:1996-01-08",
+      "dedupe_key": "tmdb:tv:30983",
+      "media_type": "tv",
+      "tmdb_id": 30983,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1996-01-08",
+      "published_at": "2026-05-03T18:43:30.806749+00:00"
+    },
+    {
       "key": "tmdb:tv:1434:tv_on_the_air:1999-01-31",
       "dedupe_key": "tmdb:tv:1434",
       "media_type": "tv",
