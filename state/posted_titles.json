@@ -56,6 +56,15 @@
       "published_at": "2026-04-26T12:32:24.046546+00:00"
     },
     {
+      "key": "tmdb:movie:10867:movie_now_playing:2000-12-25",
+      "dedupe_key": "tmdb:movie:10867",
+      "media_type": "movie",
+      "tmdb_id": 10867,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2000-12-25",
+      "published_at": "2026-05-03T07:33:06.529526+00:00"
+    },
+    {
       "key": "tmdb:tv:4614:tv_on_the_air:2003-09-23",
       "dedupe_key": "tmdb:tv:4614",
       "media_type": "tv",
