@@ -1,0 +1,190 @@
+{
+  "business_date": "2026-05-04",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1613798,
+        "title": "Месть",
+        "original_title": "Vengeance",
+        "tagline": null,
+        "lead_actors": [
+          "Омар Чапарро",
+          "Аледжандро Спеитзер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-04-17",
+        "popularity": 198.7116,
+        "overview": "Жизнь Карлоса, опытного бойца спецназа, меняется навсегда, когда он становится свидетелем жестокого убийства его жены. Вдовец решает добиться справедливости и отправляется мстить, но неожиданно становится богатым. С помощью своего состояния Карлос покупает лучшее оружие и собирает свой отряд, чтобы отомстить за смерть жены и найти тех, кто разрушил его жизнь.",
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ecxyV9GMxBaB9gv9NyUErgmDWXv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1613798",
+        "vote_average": 7.101,
+        "runtime_minutes": 103,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 32726,
+        "title": "Закусочная Боба",
+        "original_title": "Bob's Burgers",
+        "tagline": null,
+        "lead_actors": [
+          "Х. Джон Бенжамин",
+          "Джохн Роберц"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2011-01-09",
+        "popularity": 61.8823,
+        "overview": "Главный персонаж сериала — Боб. Он владеет небольшой закусочной, где продают гамбургеры. Боб занимается бизнесом со своей семьёй. Помогают ему жена-истеричка и трое детей, которые больше мешают процветанию дела Боба.",
+        "genres": [
+          "мультфильм",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/brZYpomaBk91PPzl87U2UGkDSEA.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/32726",
+        "vote_average": 7.846,
+        "runtime_minutes": null,
+        "number_of_seasons": 16
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1007757,
+        "title": "В чужой шкуре",
+        "original_title": "Swapped",
+        "tagline": "«Измените свою судьбу»",
+        "lead_actors": [
+          "Майкл Б. Джордан",
+          "Джуно Темпл"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-01",
+        "popularity": 198.5328,
+        "overview": "Крошечное лесное существо и величественная птица внезапно поменялись телами, и теперь им предстоит вместе пережить самое безумное приключение в своей жизни.",
+        "genres": [
+          "мультфильм",
+          "приключения",
+          "комедия",
+          "семейный",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gl112Rnih0fHcWBIKpVzeW84xov.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1007757",
+        "vote_average": 8.17,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 124101,
+        "title": "Хитрости",
+        "original_title": "Hacks",
+        "tagline": "«Она только начинает разогреваться»",
+        "lead_actors": [
+          "Джин Смарт",
+          "Ханна Айнбайндер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-05-13",
+        "popularity": 55.443,
+        "overview": "Легендарная комедиантка из Лас-Вегаса Дебора Вэнс берёт под своё крыло начинающую артистку и в своей манере делится с ней полезными профессиональными наставлениями.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/TplPXbstHskUfaLOxQp8lw0PuK.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/124101",
+        "vote_average": 7.426,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1297842,
+        "title": "GOAT: Мечтай по крупному",
+        "original_title": "GOAT",
+        "tagline": "«Он играет по-крупному»",
+        "lead_actors": [
+          "Калеб Маклафлин",
+          "Габриэль Юнион"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-02-13",
+        "popularity": 152.1252,
+        "overview": "Козёл Уилл Харрис получает уникальный шанс стать профессионалом в звероболе, контактном виде спорта, где доминируют самые большие и сильные животные. Его новые партнёры по команде не в восторге от того, что в их составе оказалась такая мелочь, но Уилл намерен изменить спорт раз и навсегда.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4WQ56hzt2M0coLGVMPwsoLzZZUE.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1297842",
+        "vote_average": 7.93,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 241609,
+        "title": "Друзья и соседи",
+        "original_title": "Your Friends & Neighbors",
+        "tagline": "Разве желать большего — преступление?",
+        "lead_actors": [
+          "Джон Хэмм",
+          "Аманда Пит"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-04-10",
+        "popularity": 48.336,
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/241609",
+        "vote_average": 7.597,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
