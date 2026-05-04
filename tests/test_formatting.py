@@ -75,3 +75,63 @@ def test_caption_is_trimmed_to_telegram_limit(tmp_path: Path) -> None:
     assert "\n\n<i>Tagline here</i>\n\n" in caption
     assert "<b>Жанр:</b> drama, mystery" in caption
     assert "<b>В главных ролях:</b> Lead Actor, Second Actor" in caption
+
+
+def test_caption_keeps_full_overview_when_it_fits(tmp_path: Path) -> None:
+    settings = Settings(
+        tmdb_api_token="tmdb",
+        telegram_bot_token="telegram",
+        telegram_chat_id="@channel",
+        timezone_name="America/New_York",
+        max_movie_posts_per_day=3,
+        max_tv_posts_per_day=3,
+        max_movie_candidate_pages=10,
+        max_tv_candidate_pages=10,
+        movie_dedupe_days=120,
+        tv_dedupe_days=60,
+        min_tmdb_user_score_percent=65,
+        state_path=tmp_path / "posted_titles.json",
+        queue_path=tmp_path / "publish_queue.json",
+        publish_slots=("09:15", "12:20", "15:15", "17:20", "19:15", "20:05"),
+        dry_run=True,
+        force_business_date=date(2026, 4, 24),
+    )
+    pipeline = ReleasePipeline(
+        settings,
+        DummyTMDb(),
+        DummyTelegram(),
+        PublishedStateStore(
+            settings.state_path,
+            movie_dedupe_days=settings.movie_dedupe_days,
+            tv_dedupe_days=settings.tv_dedupe_days,
+        ),
+        queue_store=PublishQueueStore(settings.queue_path),
+    )
+    overview = (
+        "Главный герой держит семейную закусочную и постоянно пытается удержать бизнес на плаву. "
+        "Ему помогают жена и дети, которые чаще создают хаос, чем порядок. "
+        "Из-за этого каждая серия превращается в смесь бытовой комедии и семейного безумия."
+    )
+    item = PublishableItem(
+        source="tmdb",
+        media_type="tv",
+        tmdb_id=1,
+        title="Закусочная Боба",
+        original_title="Bob's Burgers",
+        tagline=None,
+        lead_actors=["Актер 1", "Актер 2"],
+        event_type="tv_on_the_air",
+        event_date_us=date(2011, 1, 9),
+        popularity=100,
+        overview=overview,
+        genres=["мультфильм", "комедия"],
+        poster_url="https://image.tmdb.org/t/p/w780/test.jpg",
+        tmdb_url="https://www.themoviedb.org/tv/1",
+        vote_average=7.8,
+        runtime_minutes=None,
+        number_of_seasons=16,
+    )
+
+    caption = pipeline.format_caption(item)
+
+    assert overview in caption

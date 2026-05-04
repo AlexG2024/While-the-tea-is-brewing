@@ -594,13 +594,16 @@ class ReleasePipeline:
             lines.extend(["", "<b>Описание</b>", html.escape(overview_text)])
             return "\n".join(lines)
 
-        caption = build_caption(_trim_sentences(item.overview))
+        full_caption = build_caption(item.overview.strip())
+        if len(full_caption) <= 1024:
+            return full_caption
+
+        trimmed_overview = _trim_sentences(item.overview)
+        caption = build_caption(trimmed_overview)
         if len(caption) <= 1024:
             return caption
 
-        vote_percent = _format_vote_percent(item.vote_average)
-        _ = vote_percent
-        overview_budget = max(180, 1024 - (len(caption) - len(_trim_sentences(item.overview))) - 3)
+        overview_budget = max(180, 1024 - (len(caption) - len(trimmed_overview)) - 3)
         trimmed_overview = _trim_sentences(item.overview, max_chars=overview_budget)
         caption = build_caption(trimmed_overview)
         return caption[:1021].rstrip() + "..."
