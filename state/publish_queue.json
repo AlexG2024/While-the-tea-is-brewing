@@ -1,0 +1,190 @@
+{
+  "business_date": "2026-05-06",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1084242,
+        "title": "Зверополис: Змеиная история",
+        "original_title": "Zootopia 2",
+        "tagline": "«Не каждый, кто скользит в тени - враг»",
+        "lead_actors": [
+          "Джиннифер Гудвин",
+          "Джейсон Бейтман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-11-26",
+        "popularity": 115.6906,
+        "overview": "Джуди и Ник теперь полноценная команда в полиции. Но их спокойная служба резко меняется, когда в городе появляется загадочный преступник-рептилия, способный ставить под угрозу весь порядок в Зверополисе. Чтобы разобраться в деле, героям приходится углубиться в новые районы города, куда обычным жителям лучше не соваться. Расследование быстро выходит за рамки привычных правил: Джуди и Ник работают под прикрытием, сталкиваются с непредсказуемыми союзниками и опасными врагами, а также вынуждены доверять друг другу сильнее, чем когда-либо.",
+        "genres": [
+          "приключения",
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/j29hoRvpGshWDaOBVIogkRpi6JS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+        "vote_average": 7.611,
+        "runtime_minutes": 108,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 245318,
+        "title": "У Марго проблемы с деньгами",
+        "original_title": "Margo's Got Money Troubles",
+        "tagline": "Подработки бывают разными.",
+        "lead_actors": [
+          "Эль Фэннинг",
+          "Ник Офферман"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-04-14",
+        "popularity": 43.5463,
+        "overview": "Начинающая писательница Марго Миллет беременеет, что вынуждает ее бросить колледж и ввергает в финансовый крах. Но когда появляется ее отец, бывший профессиональный рестлер, живущий вдали от нее, Марго находит неожиданный способ извлечь выгоду из своего таланта к повествованию.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wgr7KfyFGUXYpoLXTyWhYZjGo6p.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/245318",
+        "vote_average": 8.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1242898,
+        "title": "Хищник: Планета смерти",
+        "original_title": "Predator: Badlands",
+        "tagline": "«Первая охота. Последний шанс»",
+        "lead_actors": [
+          "Эль Фэннинг",
+          "Димитриус Шустер-Колоаматанги"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-11-07",
+        "popularity": 106.5424,
+        "overview": "Изгнанный из клана хищник Дек отправляется на опасную планету Генна. Он стремится доказать своему отцу и всему племени, что достоин быть частью клана. Дек встречает загадочную девушку-андроида Тию и объединяется с ней, чтобы отправиться на поиски сверххищника Калиска, наиболее грозного противника на планете.",
+        "genres": [
+          "боевик",
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pu5Aj7nyx9ISKMcmWvUjZv68GLs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1242898",
+        "vote_average": 7.686,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 287527,
+        "title": "Заветы",
+        "original_title": "The Testaments",
+        "tagline": "«Дерзкая история взросления»",
+        "lead_actors": [
+          "Энн Дауд",
+          "Чейз Инфинити"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-04-08",
+        "popularity": 34.2757,
+        "overview": "Государство Гилеад, занимающее бывшую территорию США, спустя 15 лет после восстания стало ещё более закрытым, а его законы стали ещё более жёсткими. Агнес Маккензи, ученице элитной подготовительной школы Тёти Лидии для дочерей высокопоставленных военных и чиновников, поручено помочь освоиться новой воспитаннице Дейзи, приехавшей в Гилеад из Канады. Вскоре между девушками завязывается дружба, которая меняет их жизни, и взгляд извне помогает Агнес понять, насколько жестоко и несправедливо окружающее общество.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gmPP0A2zU2gok5U1MhooP24wqZO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/287527",
+        "vote_average": 6.571,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1171145,
+        "title": "Ограбление в Лос-Анджелесе",
+        "original_title": "Crime 101",
+        "tagline": "«Одно дело объединяет их всех»",
+        "lead_actors": [
+          "Крис Хемсворт",
+          "Марк Руффало"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-02-13",
+        "popularity": 97.7287,
+        "overview": "Дерзкие ограбления неуловимого вора Дэвиса вдоль знаменитого шоссе 101 поставили полицию в тупик. Планируя последнее дело, которое должно стать «ударом всей жизни», он сталкивается с разочаровавшимся страховым брокером Шэрон, переживающей собственный переломный момент. Неожиданное сотрудничество между ними привлекает внимание настойчивого детектива Лу, который стремится раскрыть дело любой ценой, повышая ставки до предела.",
+        "genres": [
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/41wzOKSPuwdFAZ7AbSOi2yElg4Q.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1171145",
+        "vote_average": 6.946,
+        "runtime_minutes": 140,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 208569,
+        "title": "Уилл Трент",
+        "original_title": "Will Trent",
+        "tagline": null,
+        "lead_actors": [
+          "Рамон Родригес",
+          "Эрика Кристенсен"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-01-03",
+        "popularity": 33.2252,
+        "overview": "Специальный агент Уилл Трент в детстве был брошен своими родителями и рос в приёмной семье. Благодаря этой травме он умеет замечать в некоторых преступлениях то, чего не видят другие полицейские. Выехав на очередное дело, он понимает, что в доме было совершено не только убийство, но и похищен ребёнок.",
+        "genres": [
+          "криминал",
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/cTUJrzt7p1qhromwDujf0i8AHMs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/208569",
+        "vote_average": 7.253,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    }
+  ]
+}
