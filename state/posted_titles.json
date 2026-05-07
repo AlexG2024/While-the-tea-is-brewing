@@ -272,6 +272,15 @@
       "published_at": "2026-05-04T16:12:30.338365+00:00"
     },
     {
+      "key": "tmdb:tv:126027:tv_on_the_air:2021-10-07",
+      "dedupe_key": "tmdb:tv:126027",
+      "media_type": "tv",
+      "tmdb_id": 126027,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2021-10-07",
+      "published_at": "2026-05-07T10:02:58.722614+00:00"
+    },
+    {
       "key": "tmdb:tv:124364:tv_on_the_air:2022-02-20",
       "dedupe_key": "tmdb:tv:124364",
       "media_type": "tv",
