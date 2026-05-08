@@ -738,6 +738,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-05-01",
       "published_at": "2026-05-04T14:07:35.807209+00:00"
+    },
+    {
+      "key": "tmdb:movie:931285:movie_now_playing:2026-05-08",
+      "dedupe_key": "tmdb:movie:931285",
+      "media_type": "movie",
+      "tmdb_id": 931285,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-05-08",
+      "published_at": "2026-05-08T06:16:38.165838+00:00"
     }
   ]
 }
