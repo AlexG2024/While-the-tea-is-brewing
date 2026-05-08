@@ -380,6 +380,15 @@
       "published_at": "2026-04-30T19:41:53.051348+00:00"
     },
     {
+      "key": "tmdb:tv:226285:tv_on_the_air:2024-02-29",
+      "dedupe_key": "tmdb:tv:226285",
+      "media_type": "tv",
+      "tmdb_id": 226285,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2024-02-29",
+      "published_at": "2026-05-08T18:20:40.170379+00:00"
+    },
+    {
       "key": "tmdb:tv:243875:tv_on_the_air:2024-10-17",
       "dedupe_key": "tmdb:tv:243875",
       "media_type": "tv",
