@@ -783,6 +783,50 @@ def test_prepare_queue_stops_fetching_extra_pages_after_reaching_daily_caps(tmp_
     assert tmdb.on_the_air_pages_called == [1]
 
 
+def test_prepare_queue_skips_candidate_when_enrichment_temporarily_fails(tmp_path: Path) -> None:
+    pipeline, tmdb, _, _, queue_store = make_pipeline(tmp_path)
+    add_movie(
+        tmdb,
+        1,
+        popularity=100,
+        ru_title="Фильм 1",
+        en_title="Movie 1",
+        vote_average=7.5,
+    )
+    add_movie(
+        tmdb,
+        2,
+        popularity=90,
+        ru_title="Фильм 2",
+        en_title="Movie 2",
+        vote_average=7.5,
+    )
+    add_tv_show(
+        tmdb,
+        11,
+        popularity=95,
+        ru_name="Сериал 1",
+        en_name="Show 1",
+        vote_average=7.5,
+    )
+
+    def flaky_enrich(candidate):
+        if candidate.tmdb_id == 1:
+            raise RuntimeError("tmdb temporary 502")
+        return ReleasePipeline.enrich_candidate(pipeline, candidate)
+
+    pipeline.enrich_candidate = flaky_enrich
+
+    summary = pipeline.prepare_queue()
+    queue = queue_store.load()
+
+    assert summary.queue_items == 2
+    assert summary.movie_items == 1
+    assert summary.tv_items == 1
+    assert queue is not None
+    assert [entry.item.tmdb_id for entry in queue.items] == [2, 11]
+
+
 def test_publish_next_publishes_only_first_due_item_from_queue(tmp_path: Path) -> None:
     now_local = datetime(2026, 4, 24, 15, 20, tzinfo=ZoneInfo("Europe/Moscow"))
     pipeline, tmdb, telegram, _, queue_store = make_pipeline(tmp_path, now_local=now_local)

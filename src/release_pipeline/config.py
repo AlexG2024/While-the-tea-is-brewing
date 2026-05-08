@@ -90,9 +90,9 @@ class Settings:
             max_movie_posts_per_day=int(os.getenv("MAX_MOVIE_POSTS_PER_DAY", "3")),
             max_tv_posts_per_day=int(os.getenv("MAX_TV_POSTS_PER_DAY", "3")),
             max_movie_candidate_pages=int(
-                os.getenv("MAX_MOVIE_CANDIDATE_PAGES", "10")
+                os.getenv("MAX_MOVIE_CANDIDATE_PAGES", "30")
             ),
-            max_tv_candidate_pages=int(os.getenv("MAX_TV_CANDIDATE_PAGES", "10")),
+            max_tv_candidate_pages=int(os.getenv("MAX_TV_CANDIDATE_PAGES", "30")),
             movie_dedupe_days=int(
                 os.getenv("MOVIE_DEDUPE_DAYS", str(shared_dedupe_days))
             ),

@@ -52,8 +52,8 @@ Python-пайплайн для Telegram-канала с дневной очер�
 - TMDb `tv/on_the_air`
 
 Поиск кандидатов:
-- до `10` страниц для фильмов
-- до `10` страниц для сериалов
+- до `30` страниц для фильмов
+- до `30` страниц для сериалов
 - если уже набраны `3 фильма` и `3 сериала`, дальнейший прогон по страницам останавливается
 
 Тайтл публикуется только если:
@@ -115,8 +115,8 @@ Python-пайплайн для Telegram-канала с дневной очер�
 - `TZ` — по умолчанию `Europe/Moscow`
 - `MAX_MOVIE_POSTS_PER_DAY` — по умолчанию `3`
 - `MAX_TV_POSTS_PER_DAY` — по умолчанию `3`
-- `MAX_MOVIE_CANDIDATE_PAGES` — по умолчанию `10`
-- `MAX_TV_CANDIDATE_PAGES` — по умолчанию `10`
+- `MAX_MOVIE_CANDIDATE_PAGES` — по умолчанию `30`
+- `MAX_TV_CANDIDATE_PAGES` — по умолчанию `30`
 - `MOVIE_DEDUPE_DAYS` — по умолчанию `120`
 - `TV_DEDUPE_DAYS` — по умолчанию `60`
 - `MIN_TMDB_USER_SCORE_PERCENT` — по умолчанию `65`
@@ -149,8 +149,8 @@ TELEGRAM_CHAT_ID="@your_channel"
 TZ="Europe/Moscow"
 MAX_MOVIE_POSTS_PER_DAY="3"
 MAX_TV_POSTS_PER_DAY="3"
-MAX_MOVIE_CANDIDATE_PAGES="10"
-MAX_TV_CANDIDATE_PAGES="10"
+MAX_MOVIE_CANDIDATE_PAGES="30"
+MAX_TV_CANDIDATE_PAGES="30"
 MOVIE_DEDUPE_DAYS="120"
 TV_DEDUPE_DAYS="60"
 MIN_TMDB_USER_SCORE_PERCENT="65"

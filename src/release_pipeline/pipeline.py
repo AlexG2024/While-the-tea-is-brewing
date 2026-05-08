@@ -854,7 +854,16 @@ class ReleasePipeline:
             candidate.media_type,
         ):
             return None
-        item = self.enrich_candidate(candidate)
+        try:
+            item = self.enrich_candidate(candidate)
+        except Exception:
+            LOGGER.exception(
+                "Failed to enrich %s candidate %s for %s",
+                candidate.media_type,
+                candidate.tmdb_id,
+                candidate.event_date_us.isoformat(),
+            )
+            return None
         if item is None:
             return None
         if item.state_key in seen_run_keys:
