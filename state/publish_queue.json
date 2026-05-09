@@ -67,8 +67,8 @@
     },
     {
       "slot_time": "15:15",
-      "published": false,
-      "published_at": null,
+      "published": true,
+      "published_at": "2026-05-09T12:38:33.113941+00:00",
       "item": {
         "source": "tmdb",
         "media_type": "movie",
