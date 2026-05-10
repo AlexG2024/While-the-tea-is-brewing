@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-05-10",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1330021,
+        "title": "Необычайно умные создания",
+        "original_title": "Remarkably Bright Creatures",
+        "tagline": null,
+        "lead_actors": [
+          "Салли Филд",
+          "Льюис Пуллман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-08",
+        "popularity": 125.2436,
+        "overview": "В этой трогательной драме по мотивам бестселлера вдова сближается с умным осьминогом и потерянным молодым мужчиной, работая по ночам в океанариуме.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3odwuuWv6v7RQpI4GtJdxDVlice.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1330021",
+        "vote_average": 8.257,
+        "runtime_minutes": 114,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 75191,
+        "title": "Террор",
+        "original_title": "The Terror",
+        "tagline": null,
+        "lead_actors": [
+          "Дэн Стивенс",
+          "Джудит Лайт"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2018-03-26",
+        "popularity": 21.7273,
+        "overview": "В 1845-ом году экспедиция под командованием полярного исследователя сэра Джона Франклина отправляется на судне «Террор» на поиск Северо-Западного прохода из Атлантического океана в Тихий - и бесследно исчезает.",
+        "genres": [
+          "детектив",
+          "драма",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hYzAXGmHXcz7YfUnhpsRxUa53Mk.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/75191",
+        "vote_average": 7.344,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 460465,
+        "title": "Мортал Комбат",
+        "original_title": "Mortal Kombat",
+        "tagline": "«Иди сюда!»",
+        "lead_actors": [
+          "Льюис Тан",
+          "Джессика Макнэми"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2021-04-23",
+        "popularity": 69.4748,
+        "overview": "Избранный боец Коул Янг узнаёт о своём предназначении участвовать в древнем турнире между Землёй и Внешним миром. Чтобы спасти человечество, он объединяется с легендарными воинами: Лю Каном, Соней Блейд и Джаксоном Бриггсом. Им предстоит дать отпор тёмным силам Внешнего мира во главе с коварным Шан Цзуном и ледяным убийцей Саб-Зиро.",
+        "genres": [
+          "боевик",
+          "фэнтези",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pMIixvHwsD5RZxbvgsDSNkpKy0R.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/460465",
+        "vote_average": 6.977,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 284736,
+        "title": "Голубая кровь: Бостон",
+        "original_title": "Boston Blue",
+        "tagline": null,
+        "lead_actors": [
+          "Донни Уолберг",
+          "Сонеква Мартин-греен"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-10-17",
+        "popularity": 21.3237,
+        "overview": "Дэнни Рейган переходит из полиции Нью-Йорка в полицию Бостона и становится партнером детектива Лены Питерс, старшей дочери известной в городе семьи представителей правоохранительных органов.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8w87GgZx8qFmPgn0hcBJFAoPyhW.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/284736",
+        "vote_average": 6.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10693,
+        "title": "Питер Пэн",
+        "original_title": "Peter Pan",
+        "tagline": null,
+        "lead_actors": [
+          "Бобби Дрисколл",
+          "Катрин Беаумонт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1953-02-05",
+        "popularity": 51.3089,
+        "overview": "Уолт Дисней зовет нас с собой в волшебную страну Неверленд, где живет удивительный мальчик, который умеет летать и отказывается взрослеть. Это веселый выдумщик, храбрец и проказник Питер Пэн!Однажды в поисках собственной тени Питер попадает в Лондон нашего мира и становится другом маленькой Венди и ее братьев Майкла и Джона, и, конечно же, он берет своих ночных друзей с собой в Неверленд, навстречу потрясающим приключениям.Героям предстоит встретиться с феей Тинкербелл и дружной ватагой Питера Пэна, спасти индейскую принцессу Тигровую Лилию из лап пиратов и сразиться с их демоническим главарем капитаном Крюком!..",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "приключения",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/h2IoheOnHRVkgHmqCYJrN1n5gvk.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10693",
+        "vote_average": 7.189,
+        "runtime_minutes": 77,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 3670,
+        "title": "Полицейские",
+        "original_title": "Cops",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1989-03-11",
+        "popularity": 19.8907,
+        "overview": "Здесь нет актеров и режиссера, все события взяты из реальной жизни. Фильм не рекомендуется смотреть детям и людям со слабой нервной системой.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zZy2Eg2ioxRgWc9WjMIu67ueT97.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/3670",
+        "vote_average": 6.624,
+        "runtime_minutes": null,
+        "number_of_seasons": 37
+      }
+    }
+  ]
+}
