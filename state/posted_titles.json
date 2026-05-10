@@ -2,6 +2,15 @@
   "version": 1,
   "entries": [
     {
+      "key": "tmdb:movie:10693:movie_now_playing:1953-02-05",
+      "dedupe_key": "tmdb:movie:10693",
+      "media_type": "movie",
+      "tmdb_id": 10693,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1953-02-05",
+      "published_at": "2026-05-10T16:32:14.136249+00:00"
+    },
+    {
       "key": "tmdb:tv:1667:tv_on_the_air:1975-10-11",
       "dedupe_key": "tmdb:tv:1667",
       "media_type": "tv",
