@@ -191,6 +191,15 @@
       "published_at": "2026-04-28T09:36:46.745267+00:00"
     },
     {
+      "key": "tmdb:tv:67482:tv_on_the_air:2012-10-22",
+      "dedupe_key": "tmdb:tv:67482",
+      "media_type": "tv",
+      "tmdb_id": 67482,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2012-10-22",
+      "published_at": "2026-05-11T20:09:57.518658+00:00"
+    },
+    {
       "key": "tmdb:tv:65282:tv_on_the_air:2013-03-22",
       "dedupe_key": "tmdb:tv:65282",
       "media_type": "tv",
