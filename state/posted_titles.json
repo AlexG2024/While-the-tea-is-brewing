@@ -74,6 +74,15 @@
       "published_at": "2026-04-26T18:28:54.141328+00:00"
     },
     {
+      "key": "tmdb:tv:387:tv_on_the_air:1999-05-01",
+      "dedupe_key": "tmdb:tv:387",
+      "media_type": "tv",
+      "tmdb_id": 387,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1999-05-01",
+      "published_at": "2026-05-12T19:15:02.956156+00:00"
+    },
+    {
       "key": "tmdb:tv:2734:tv_on_the_air:1999-09-20",
       "dedupe_key": "tmdb:tv:2734",
       "media_type": "tv",
