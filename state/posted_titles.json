@@ -164,6 +164,15 @@
       "published_at": "2026-04-27T09:33:44.561890+00:00"
     },
     {
+      "key": "tmdb:tv:40290:tv_on_the_air:2010-07-27",
+      "dedupe_key": "tmdb:tv:40290",
+      "media_type": "tv",
+      "tmdb_id": 40290,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2010-07-27",
+      "published_at": "2026-05-12T15:11:35.352461+00:00"
+    },
+    {
       "key": "tmdb:tv:32726:tv_on_the_air:2011-01-09",
       "dedupe_key": "tmdb:tv:32726",
       "media_type": "tv",
