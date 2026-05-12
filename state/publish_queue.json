@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-05-12",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 278,
+        "title": "Искупление Шоушенком",
+        "original_title": "The Shawshank Redemption",
+        "tagline": "«Страх — это кандалы. Надежда — это свобода»",
+        "lead_actors": [
+          "Тим Роббинс",
+          "Морган Фримен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1994-10-14",
+        "popularity": 50.8475,
+        "overview": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/278",
+        "vote_average": 8.72,
+        "runtime_minutes": 142,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 204024,
+        "title": "Камень, ножницы, бумага",
+        "original_title": "Rock, Paper, Scissors",
+        "tagline": null,
+        "lead_actors": [
+          "Рон Фанчес",
+          "Томас Леннон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-08-22",
+        "popularity": 16.3263,
+        "overview": "Три друга попадают в самые разные ситуации.",
+        "genres": [
+          "комедия",
+          "семейный",
+          "мультфильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/2DZI8fK4eFlKqAsroe3YlPCaXEo.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/204024",
+        "vote_average": 7.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 24428,
+        "title": "Мститeли",
+        "original_title": "The Avengers",
+        "tagline": "​«Мстители, общий сбор!»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Крис Эванс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2012-05-04",
+        "popularity": 48.5949,
+        "overview": "В погоне за могуществом бог Локи вступает в сговор с воинственной расой Читаури, которая обещает ему армию для захвата Земли в обмен на Тессеракт – небольшой куб, содержащий в себе огромную силу. Проникнув в секретный центр организации «Щ.И.Т.», он объявляет о своих намерениях, после чего похищает Тессеракт и берет под контроль нескольких агентов, обеспечивших ему побег. В ответ на угрозу глава «Щ.И.Т.’а» Ник Фьюри созывает сильнейших супергероев планеты, которыми оказываются Железный человек, Черная вдова, Капитан Америка, Халк и Тор. Чтобы дать противнику достойный отпор, им придется отложить все свои разногласия и научиться работать в команде, иначе человечество ждет неминуемая гибель…",
+        "genres": [
+          "фантастика",
+          "боевик",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ztkYgL0zHJLnEPY5VabK9OlmXxx.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/24428",
+        "vote_average": 8.018,
+        "runtime_minutes": 137,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 40290,
+        "title": "Лучший повар Америки",
+        "original_title": "MasterChef",
+        "tagline": null,
+        "lead_actors": [
+          "Гордон Рамзи"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2010-07-27",
+        "popularity": 13.6762,
+        "overview": "Огромное количество кулинаров принимает участие в состязаниях, главным призом которых является статус «Лучшего повара Америки». Помимо этого, они получают 250 000 долларов, а также возможность за счет издательства выпустить книгу, в которой будут представлены их рецепты. Судят участников лучшие кулинары. Рекомендуем к просмотру! Шоу вам непременно понравится.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/42gO1qCC6GPtHKNXvOdhunhzyS3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/40290",
+        "vote_average": 7.068,
+        "runtime_minutes": null,
+        "number_of_seasons": 16
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 184314,
+        "title": "Молода и красива",
+        "original_title": "Young & Beautiful",
+        "tagline": null,
+        "lead_actors": [
+          "Марина Вакт",
+          "Гéралдине Паилхас"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2014-04-25",
+        "popularity": 48.2826,
+        "overview": "Семнадцатилетняя Изабель погружается в бездонный мир любви, в поиски себя. Не столько из-за денег, сколько ради удовольствия, она встречается с немолодыми клиентами в гостиничных номерах. Близкие Изабель не подозревают, чем одержима умная и тонкая девушка. Но однажды умирает один из ее постоянных клиентов…",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/rJAhoHeBlLGr5EQncLXChfZ1ePY.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/184314",
+        "vote_average": 6.506,
+        "runtime_minutes": 95,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 387,
+        "title": "Губка Боб Квадратные Штаны",
+        "original_title": "SpongeBob SquarePants",
+        "tagline": "«Квадратные Штаны»",
+        "lead_actors": [
+          "Том Кенни",
+          "Билл Фагербакке"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1999-05-01",
+        "popularity": 12.4413,
+        "overview": "Глубоко в Тихом океане в подземном городе Бикини Боттом живет квадратная желтая губка по имени Спанч Боб Квадратные Штаны. Спанч Боб живет в ананасе со своей домашней улиткой Гэри, любит свою работу поваром в Красти Краб и имеет талант ввязываться в самые разные неприятности, даже не прикладывая к этому особых усилий. Когда он не действует на нервы своему капризному соседу Сквидварду, Спанч Боба обычно можно найти в гуще всевозможных странных ситуаций со своим лучшим другом, простой, но милой морской звездой Патриком или его ищущей острых ощущений подругой-серфершей-белкой Сэнди Чикс.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nm6f8EP0IUqGPEnDxacTAnoW6hC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/387",
+        "vote_average": 7.707,
+        "runtime_minutes": null,
+        "number_of_seasons": 17
+      }
+    }
+  ]
+}
