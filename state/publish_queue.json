@@ -1,0 +1,185 @@
+{
+  "business_date": "2026-05-16",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 803796,
+        "title": "Кейпоп-охотницы на демонов",
+        "original_title": "KPop Demon Hunters",
+        "tagline": "«Они поют. Они танцуют. Они сражаются с демонами»",
+        "lead_actors": [
+          "Арден Чо",
+          "Мэй Хонг"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-08-23",
+        "popularity": 39.2023,
+        "overview": "Между концертами на стадионах суперзвёзды кей-попа Руми, Мира и Зои защищают фанатов от сверхъестественных угроз с помощью своих тайных способностей.",
+        "genres": [
+          "фэнтези",
+          "музыка",
+          "комедия",
+          "мультфильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vspMmox0F2pdiNr68BTfYLeDNd8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/803796",
+        "vote_average": 8.024,
+        "runtime_minutes": 95,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 113085,
+        "title": "Величайшие загадки истории",
+        "original_title": "History's Greatest Mysteries",
+        "tagline": null,
+        "lead_actors": [
+          "Лоренс Фишбёрн"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-11-14",
+        "popularity": 6.8367,
+        "overview": "Документальный сериал исследует широкий круг захватывающих тем и загадок, таких как крушение “Титаника”, исчезновение Ди Би Купера, что происходит в Розуэлле и прочих. Рассматривая эти случаи с новой перспективы, используя новые свидетельства, не публиковавшиеся ранее документы и дневники, программа представляет совершенно новые данные о некоторых из самых известных и загадочных главах истории.",
+        "genres": [
+          "документальный",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/lo2RNy38zs422CaOCUcuaqMmZdc.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/113085",
+        "vote_average": 7.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 7
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1010581,
+        "title": "Моя вина",
+        "original_title": "My Fault",
+        "tagline": "«Опасная связь, меняющая всё.»",
+        "lead_actors": [
+          "Николь Уоллес",
+          "Габриель Гевара"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-06-08",
+        "popularity": 39.1884,
+        "overview": "Ноа вынуждена оставить свой город, парня и друзей и переехать в особняк нового богатого мужа своей матери. Там она встречает Ника, своего нового сводного брата. Втайне они безумно влюбляются друг в друга.",
+        "genres": [
+          "драма",
+          "мелодрама",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/A7DVPPR5JS8o4fR9NGfv0M9Gilv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1010581",
+        "vote_average": 7.741,
+        "runtime_minutes": 117,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1054,
+        "title": "Молодые и дерзкие",
+        "original_title": "The Young and the Restless",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1973-03-26",
+        "popularity": 4.9537,
+        "overview": "Действие сосредоточено главным образом на истории о жизни двух богатых семейств американского города Генуи, занятых в косметической индустрии, а также затрагивает множество актуальных проблем жителей города.",
+        "genres": [
+          "Мыльная опера",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1054",
+        "vote_average": 7.006,
+        "runtime_minutes": null,
+        "number_of_seasons": 53
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 155,
+        "title": "Темный рыцарь",
+        "original_title": "The Dark Knight",
+        "tagline": "«Добро пожаловать в мир Хаоса!»",
+        "lead_actors": [
+          "Кристиан Бейл",
+          "Хит Леджер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2008-07-18",
+        "popularity": 38.5044,
+        "overview": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы от преступности, отравляющей город. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным испуганным горожанам под именем Джокер.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/155",
+        "vote_average": 8.53,
+        "runtime_minutes": 152,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 242945,
+        "title": "Путешествие с Джейсоном",
+        "original_title": "On the Roam",
+        "tagline": null,
+        "lead_actors": [
+          "Джейсон Момоа"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-01-18",
+        "popularity": 4.5077,
+        "overview": "Джейсон Момоа путешествует по стране, чтобы встретиться с необыкновенными личностями, прокладывающими свой собственный путь — от ремесленников и создателей мотоциклов до музыкантов и спортсменов.",
+        "genres": [
+          "документальный",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gUiODjPOFhJygwsWvxADr3EjMfs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/242945",
+        "vote_average": 6.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
