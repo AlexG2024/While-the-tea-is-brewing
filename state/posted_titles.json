@@ -20,6 +20,15 @@
       "published_at": "2026-05-14T14:40:17.580475+00:00"
     },
     {
+      "key": "tmdb:tv:1054:tv_on_the_air:1973-03-26",
+      "dedupe_key": "tmdb:tv:1054",
+      "media_type": "tv",
+      "tmdb_id": 1054,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1973-03-26",
+      "published_at": "2026-05-16T15:13:35.831458+00:00"
+    },
+    {
       "key": "tmdb:tv:1667:tv_on_the_air:1975-10-11",
       "dedupe_key": "tmdb:tv:1667",
       "media_type": "tv",
