@@ -1,0 +1,96 @@
+{
+  "business_date": "2026-05-17",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 938150,
+        "title": "Взлом на миллион",
+        "original_title": "Wardriver",
+        "tagline": "Взламывать. Воровать. Выживать.",
+        "lead_actors": [
+          "Дэйн Дехаан",
+          "Саша Калле"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-20",
+        "popularity": 71.0921,
+        "overview": "Коул — мастер дистанционных ограблений. Он виртуозно управляет ими с ноутбука, сидя в машине. Переезжая по городу, он взламывает сети и системы, чтобы украсть деньги на ходу. Однажды его навыки замечает Оскар — криминальный авторитет с мрачным прошлым. Оскар поручает Коулу взломать аккаунт Сары, молодой и состоятельной девушки. Его цель — перевести почти миллион долларов. Но вскоре Коул понимает, что дело сложнее: адвокат, связанный с мафией, использует Сару для прикрытия своих незаконных операций. Чтобы защитить девушку, Коул разрабатывает план по возврату денег. Постепенно он проникается к ней. Несмотря на тревожные знаки, он всё глубже погружается в опасную игру, полную обмана, интриг и предательства.",
+        "genres": [
+          "триллер",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ke0ozXKrZf5JTCUdPOzn9wVayts.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/938150",
+        "vote_average": 6.7,
+        "runtime_minutes": 94,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1582770,
+        "title": "Специалист: Месть",
+        "original_title": "Dhurandhar: The Revenge",
+        "tagline": null,
+        "lead_actors": [
+          "Ранвир Сингх",
+          "Арджун Рампал"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-18",
+        "popularity": 45.5363,
+        "overview": "По мере того как враждующие банды, коррумпированные чиновники и безжалостный майор Икбал начинают преследовать Хамзу, его миссия на благо страны перерастает в кровавую личную войну, где на улицах Лиари стирается грань между патриотом и чудовищем.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1582770",
+        "vote_average": 7.359,
+        "runtime_minutes": 229,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1038392,
+        "title": "Заклятие 4: Последний обряд",
+        "original_title": "The Conjuring: Last Rites",
+        "tagline": "«Готовьтесь к концу!»",
+        "lead_actors": [
+          "Патрик Уилсон",
+          "Вера Фармига"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-09-05",
+        "popularity": 39.5376,
+        "overview": "Исследователи паранормальных явлений Эд и Лоррейн Уоррен берутся за самый тревожный случай в своей практике. Семья переезжает в новый дом своей мечты, но вскоре их жилище начинает проявлять признаки демонической активности, превращая жизнь в кошмар.",
+        "genres": [
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1DPYceqs7OuKgUD13vrPFZ2SYRd.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1038392",
+        "vote_average": 6.886,
+        "runtime_minutes": 135,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
