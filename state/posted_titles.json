@@ -290,6 +290,15 @@
       "published_at": "2026-05-07T19:50:45.193080+00:00"
     },
     {
+      "key": "tmdb:tv:60625:tv_on_the_air:2013-12-02",
+      "dedupe_key": "tmdb:tv:60625",
+      "media_type": "tv",
+      "tmdb_id": 60625,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2013-12-02",
+      "published_at": "2026-05-18T12:43:27.383726+00:00"
+    },
+    {
       "key": "tmdb:tv:58841:tv_on_the_air:2014-01-08",
       "dedupe_key": "tmdb:tv:58841",
       "media_type": "tv",
