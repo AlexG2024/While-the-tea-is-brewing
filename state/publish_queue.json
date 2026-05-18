@@ -1,0 +1,154 @@
+{
+  "business_date": "2026-05-18",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 258216,
+        "title": "Нимфоманка Часть 1",
+        "original_title": "Nymphomaniac: Vol. I",
+        "tagline": "«Забудь о любви»",
+        "lead_actors": [
+          "Шарлотта Генсбур",
+          "Стеллан Скарсгард"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2014-03-06",
+        "popularity": 43.6869,
+        "overview": "Это светлая и поэтичная история эротических переживаний женщины от рождения до пятидесятилетия, рассказанная от лица главной героини, женщины по имени Джо, поставившей себе диагноз — нимфомания. Холодным зимним утром Селигман, немолодой одинокий холостяк, натыкается в переулке на Джо, избитую и находящуюся в полубессознательном состоянии. Доставив женщину домой, он рассматривает ее раны и задается вопросом, как дошла она до такой жизни. Джо рассказывает Селигману историю своей насыщенной молодости, изобилующую параллельными сюжетами и неожиданными отступлениями.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mEKbMxxxAAilYefEaM0GrgDAqe8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/258216",
+        "vote_average": 6.8,
+        "runtime_minutes": 118,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 60625,
+        "title": "Рик и Морти",
+        "original_title": "Rick and Morty",
+        "tagline": "«Зачем семья, когда есть наука?»",
+        "lead_actors": [
+          "Крис Парнелл",
+          "Спенсер Грэммер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2013-12-02",
+        "popularity": 78.6651,
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "НФ и Фэнтези",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3kniCPsO7ziszMiNvXxe0T1ciym.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/60625",
+        "vote_average": 8.675,
+        "runtime_minutes": null,
+        "number_of_seasons": 9
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 425274,
+        "title": "Иллюзия обмана 3",
+        "original_title": "Now You See Me: Now You Don't",
+        "tagline": "«Раскрой тайну иллюзии»",
+        "lead_actors": [
+          "Джесси Айзенберг",
+          "Доминик Сесса"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-11-14",
+        "popularity": 40.9484,
+        "overview": "«4 всадника» возвращаются вместе с молодым поколением иллюзионистов, демонстрируя головокружительные трюки, магию и превращения, каких ещё не видел мир.",
+        "genres": [
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/681ne20BQP8urbDD15EuS2R8UOh.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/425274",
+        "vote_average": 6.514,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 72071,
+        "title": "Чи",
+        "original_title": "The Chi",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2018-01-07",
+        "popularity": 19.2985,
+        "overview": "Герои сериала — жители бедных южных районов Чикаго со сложной криминогенной обстановкой. Афроамериканцы, живущие здесь, вынуждены каждый день рисковать жизнью и искать возможность заработать. Подростки, живущие в Чикаго, быстро взрослеют. Таков и Алекс Хибберт: мальчику придётся рано распрощаться с детскими мечтами и приложить серьёзные усилия, чтобы чего-то добиться в жизни.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/72071",
+        "vote_average": 7.874,
+        "runtime_minutes": null,
+        "number_of_seasons": 8
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1272837,
+        "title": "28 лет спустя: Храм костей",
+        "original_title": "28 Years Later: The Bone Temple",
+        "tagline": "Страх - это новая вера",
+        "lead_actors": [
+          "Рэйф Файнс",
+          "Джек О'Коннелл"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-01-16",
+        "popularity": 40.0436,
+        "overview": "Спайк оказывается в банде отморозков Джимми, которые находят выживших и жестоко их убивают. А тем временем доктор Келсон, усмиряющий здоровенного альфу своим седативным коктейлем, замечает, что тот начинает проявлять признаки сознания.",
+        "genres": [
+          "ужасы",
+          "триллер",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/lCel0uHnVgCGihg4xrWSPzOMnV4.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1272837",
+        "vote_average": 7.133,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
