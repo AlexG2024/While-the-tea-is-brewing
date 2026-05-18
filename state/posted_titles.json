@@ -299,6 +299,15 @@
       "published_at": "2026-04-29T19:02:40.388628+00:00"
     },
     {
+      "key": "tmdb:movie:258216:movie_now_playing:2014-03-06",
+      "dedupe_key": "tmdb:movie:258216",
+      "media_type": "movie",
+      "tmdb_id": 258216,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2014-03-06",
+      "published_at": "2026-05-18T09:01:41.818257+00:00"
+    },
+    {
       "key": "tmdb:movie:249397:movie_now_playing:2014-03-20",
       "dedupe_key": "tmdb:movie:249397",
       "media_type": "movie",
