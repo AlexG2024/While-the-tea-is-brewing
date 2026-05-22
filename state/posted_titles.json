@@ -191,6 +191,15 @@
       "published_at": "2026-04-26T10:06:10.758611+00:00"
     },
     {
+      "key": "tmdb:movie:122:movie_now_playing:2003-12-17",
+      "dedupe_key": "tmdb:movie:122",
+      "media_type": "movie",
+      "tmdb_id": 122,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2003-12-17",
+      "published_at": "2026-05-22T18:12:09.533452+00:00"
+    },
+    {
       "key": "tmdb:tv:1433:tv_on_the_air:2005-02-06",
       "dedupe_key": "tmdb:tv:1433",
       "media_type": "tv",
