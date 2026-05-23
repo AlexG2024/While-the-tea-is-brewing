@@ -1,0 +1,159 @@
+{
+  "business_date": "2026-05-23",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1291608,
+        "title": "Специалист",
+        "original_title": "Dhurandhar",
+        "tagline": null,
+        "lead_actors": [
+          "Ранвир Сингх",
+          "Акшайе Ханна"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-12-05",
+        "popularity": 58.2831,
+        "overview": "Секретный агент Аджит Довал выполняет опасную миссию, связанную с геополитическими конфликтами.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1291608",
+        "vote_average": 7.112,
+        "runtime_minutes": 212,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 320430,
+        "title": "Элли и Энди",
+        "original_title": "You're Killing Me",
+        "tagline": null,
+        "lead_actors": [
+          "Брук Шилдс",
+          "Амалиа Виллиамсон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-05-18",
+        "popularity": 5.5448,
+        "overview": "Популярная писательница Эллисон Чандлер переживает непростой период: продажи её книг падают, а интерес публики постепенно угасает. Ещё одним ударом становится загадочная смерть близкой подруги. Героиня решает использовать все знания, накопленные за годы работы в детективном жанре, и самостоятельно разобраться в произошедшем. Однако на своём пути она сталкивается с упрямым детективом Джеком Керриганом и молодой амбициозной ведущей подкаста Энди Уокер, мечтающей прославиться на громком деле. Герои решают объединить усилия, но чем глубже они погружаются в расследование, тем яснее становится, что старые конфликты и тщательно спрятанные тайны совсем скоро дадут о себе знать.",
+        "genres": [
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/320430",
+        "vote_average": 7.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 980477,
+        "title": "Нэчжа побеждает Царя драконов",
+        "original_title": "Ne Zha 2",
+        "tagline": null,
+        "lead_actors": [
+          "吕艳婷",
+          "囧森瑟夫"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-02-14",
+        "popularity": 56.7257,
+        "overview": "После катастрофы, хотя души Нечжи и Аобина были спасены, их тела вскоре были разрушены. Тайи Чжэньжэнь планировал использовать семицветный лотос для восстановления своих тел.",
+        "genres": [
+          "мультфильм",
+          "боевик",
+          "фэнтези",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6hEshZzRcOzzZQ7f0rA8Nbo8xWU.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/980477",
+        "vote_average": 8.2,
+        "runtime_minutes": 143,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 226346,
+        "title": "Парни из Дели",
+        "original_title": "Deli Boys",
+        "tagline": null,
+        "lead_actors": [
+          "Асиф Али",
+          "Саагар Шайх"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-03-06",
+        "popularity": 5.2953,
+        "overview": "Братья Мир и Радж привыкли к жизни в достатке благодаря семейному бизнесу — сети магазинов. Однако их мир рушится, когда отец внезапно умирает, а братья обнаруживают, что он был не просто бизнесменом, а криминальным авторитетом. Теперь им придется взять управление делами на себя, а еще разобраться в темных делишках их отца.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/226346",
+        "vote_average": 6.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 424,
+        "title": "Список Шиндлера",
+        "original_title": "Schindler's List",
+        "tagline": "«Этот список — жизнь»",
+        "lead_actors": [
+          "Лиам Нисон",
+          "Бен Кингсли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1994-02-04",
+        "popularity": 35.9583,
+        "overview": "Оскар Шиндлер, член национал-социалистической немецкой рабочей партии и преуспевающий промышленник, во время Второй мировой войны спасает евреев от ужасной смерти в концлагерях.",
+        "genres": [
+          "драма",
+          "история",
+          "военный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dB7edCQIuExWErWXFVqR7ORnZRS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/424",
+        "vote_average": 8.569,
+        "runtime_minutes": 195,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
