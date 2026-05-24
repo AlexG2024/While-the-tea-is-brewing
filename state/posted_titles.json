@@ -38,6 +38,15 @@
       "published_at": "2026-05-01T15:12:36.455542+00:00"
     },
     {
+      "key": "tmdb:tv:1181:tv_on_the_air:1988-10-04",
+      "dedupe_key": "tmdb:tv:1181",
+      "media_type": "tv",
+      "tmdb_id": 1181,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1988-10-04",
+      "published_at": "2026-05-24T10:05:14.216745+00:00"
+    },
+    {
       "key": "tmdb:tv:3670:tv_on_the_air:1989-03-11",
       "dedupe_key": "tmdb:tv:3670",
       "media_type": "tv",
