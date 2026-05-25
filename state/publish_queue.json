@@ -1,0 +1,127 @@
+{
+  "business_date": "2026-05-25",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 634649,
+        "title": "Человек-паук: Нет пути домой",
+        "original_title": "Spider-Man: No Way Home",
+        "tagline": "«Мультивселенная на свободе»",
+        "lead_actors": [
+          "Том Холланд",
+          "Зендея"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2021-12-17",
+        "popularity": 38.454,
+        "overview": "Жизнь и репутация Питера Паркера оказываются под угрозой, поскольку Мистерио раскрыл всему миру тайну личности Человека-паука. Пытаясь исправить ситуацию, Питер обращается за помощью к Стивену Стрэнджу, но вскоре всё становится намного опаснее.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/qad0kyRLHG1Qccp2A0YCCUbvhiD.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/634649",
+        "vote_average": 7.934,
+        "runtime_minutes": 148,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 292985,
+        "title": "Опасная история с Генри Уинклером",
+        "original_title": "Hazardous History with Henry Winkler",
+        "tagline": null,
+        "lead_actors": [
+          "Генри Уинклер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-06-15",
+        "popularity": 2.1392,
+        "overview": "Документальный сериал, в котором актёр Генри Уинклер вспоминает опасные вещи из своего прошлого: кока-колу с кокаином, курение везде, токсичные холодильники, игрушки с радиоактивными элементами и асбестовые украшения, показывая, как раньше не осознавали риски обыденных предметов, и как изменилось понимание безопасности за эти годы.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/p4Yxi41CIiwZz24p6qlVBOpeGku.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/292985",
+        "vote_average": 8.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 299534,
+        "title": "Мстители: Финал",
+        "original_title": "Avengers: Endgame",
+        "tagline": "«Часть путешествия – это конец»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Крис Эванс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2019-04-26",
+        "popularity": 38.0538,
+        "overview": "После разрушительных событий в «Мстители: Войны бесконечности», вселенная лежит в руинах. Оставшиеся в живых участники команды Мстителей снова объединяются в попытке восстановить баланс во вселенной.",
+        "genres": [
+          "приключения",
+          "фантастика",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dynnf8NGGfHTNMz8Vd3CzFtYjec.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/299534",
+        "vote_average": 8.235,
+        "runtime_minutes": 182,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 218,
+        "title": "Терминатор",
+        "original_title": "The Terminator",
+        "tagline": "«Твоё будущее в его руках»",
+        "lead_actors": [
+          "Арнольд Шварценеггер",
+          "Майкл Бин"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1984-10-26",
+        "popularity": 31.0248,
+        "overview": "В 2029 году, в разгар войны между людьми и роботами, машины-убийцы с помощью суперкомпьютера «Скайнет» отправили в прошлое, в 1984 год, киборга-терминатора, который должен был убить женщину по имени Сара Коннор, чтобы не появился на свет её сын, возглавивший в будущем восстание против роботов. Вслед за киборгом в 1984 год отправился и Кайл Рис, задача которого - остановить терминатора любой ценой!",
+        "genres": [
+          "боевик",
+          "триллер",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hcItc8IMO0WKyRWPGkI6xtKVu6X.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/218",
+        "vote_average": 7.682,
+        "runtime_minutes": 108,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
