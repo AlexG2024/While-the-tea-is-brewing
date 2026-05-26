@@ -524,6 +524,15 @@
       "published_at": "2026-05-18T18:12:03.670318+00:00"
     },
     {
+      "key": "tmdb:movie:337167:movie_now_playing:2018-02-09",
+      "dedupe_key": "tmdb:movie:337167",
+      "media_type": "movie",
+      "tmdb_id": 337167,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2018-02-09",
+      "published_at": "2026-05-26T14:18:12.664783+00:00"
+    },
+    {
       "key": "tmdb:tv:75191:tv_on_the_air:2018-03-26",
       "dedupe_key": "tmdb:tv:75191",
       "media_type": "tv",
