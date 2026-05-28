@@ -740,6 +740,15 @@
       "published_at": "2026-05-25T06:15:13.386395+00:00"
     },
     {
+      "key": "tmdb:tv:135934:tv_on_the_air:2022-01-27",
+      "dedupe_key": "tmdb:tv:135934",
+      "media_type": "tv",
+      "tmdb_id": 135934,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2022-01-27",
+      "published_at": "2026-05-28T11:24:06.189886+00:00"
+    },
+    {
       "key": "tmdb:tv:124364:tv_on_the_air:2022-02-20",
       "dedupe_key": "tmdb:tv:124364",
       "media_type": "tv",
