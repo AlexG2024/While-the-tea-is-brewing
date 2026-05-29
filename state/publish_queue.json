@@ -1,0 +1,99 @@
+{
+  "business_date": "2026-05-29",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 533535,
+        "title": "Дэдпул 3",
+        "original_title": "Deadpool & Wolverine",
+        "tagline": "«Каждый заслуживает счастливого конца»",
+        "lead_actors": [
+          "Райан Рейнольдс",
+          "Хью Джекман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-07-26",
+        "popularity": 37.3371,
+        "overview": "Уэйд Уилсон попадает в организацию \"Управление временными изменениями\", что вынуждает его вернуться к своему альтер-эго Дэдпулу и изменить историю с помощью Росомахи.",
+        "genres": [
+          "боевик",
+          "комедия",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4Li3gy8Ga6q0bAz2odg7ZFoRqLy.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/533535",
+        "vote_average": 7.569,
+        "runtime_minutes": 128,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 454639,
+        "title": "Властелины вселенной",
+        "original_title": "Masters of the Universe",
+        "tagline": "«Только один может обладать силой...»",
+        "lead_actors": [
+          "Камила Мендес",
+          "Николас Галицин"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-05",
+        "popularity": 36.7647,
+        "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
+        "genres": [
+          "боевик",
+          "фэнтези",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/454639",
+        "vote_average": 8.7,
+        "runtime_minutes": 141,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 13,
+        "title": "Форрест Гамп",
+        "original_title": "Forrest Gump",
+        "tagline": "«Мир уже никогда не будет прежним, после того как вы увидите его глазами Форреста Гампа»",
+        "lead_actors": [
+          "Том Хэнкс",
+          "Робин Райт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1994-07-06",
+        "popularity": 34.1886,
+        "overview": "Сидя на автобусной остановке, Форрест Гамп — не очень умный, но добрый и открытый парень — рассказывает случайным встречным историю своей необыкновенной жизни. С самого малолетства парень страдал от заболевания ног, соседские мальчишки дразнили его, но в один прекрасный день Форрест открыл в себе невероятные способности к бегу. Подруга детства Дженни всегда его поддерживала и защищала, но вскоре дороги их разошлись.",
+        "genres": [
+          "комедия",
+          "драма",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ejDjdjHHE1T0T7Bo8Ghj2y8gR02.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/13",
+        "vote_average": 8.465,
+        "runtime_minutes": 142,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
