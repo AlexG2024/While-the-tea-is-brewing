@@ -1,0 +1,126 @@
+{
+  "business_date": "2026-05-30",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 329505,
+        "title": "Грех Лолы",
+        "original_title": "Lola's Secret",
+        "tagline": null,
+        "lead_actors": [
+          "Донателла Дамиани",
+          "Скотт Коффей"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1984-05-04",
+        "popularity": 51.2114,
+        "overview": "Молодому человеку мать нанимает гувернантку, а сама уезжает путешествовать по Европе. Между юношей и гувернанткой завязываются близкие отношения…",
+        "genres": [
+          "драма",
+          "комедия",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iQt9Kydd8yn9xfBvYeKec56glyv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/329505",
+        "vote_average": 7.0,
+        "runtime_minutes": 88,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 316992,
+        "title": "Вторая мировая война с Томом Хэнксом",
+        "original_title": "World War II with Tom Hanks",
+        "tagline": null,
+        "lead_actors": [
+          "Том Хэнкс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-05-25",
+        "popularity": 10.1874,
+        "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/j0DG5uQrgwAubL4ALHMnU65iCOT.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/316992",
+        "vote_average": 7.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1404791,
+        "title": "Кукольный домик",
+        "original_title": "Dollhouse",
+        "tagline": null,
+        "lead_actors": [
+          "Масами Нагасава",
+          "Сэто Кодзи"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-07-14",
+        "popularity": 34.0721,
+        "overview": "Ёшие и Тадахико — супружеская пара, потерявшая 5-летнюю дочь Мэй. Огорчённая мать впадает в депрессию, но находит утешение в кукле, напоминающей дочь. Позже у пары появляется второй ребёнок, Май. Когда ей исполняется пять лет, она начинает играть с той самой куклой, и в семье происходят странные события.",
+        "genres": [
+          "ужасы",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gBCT1BbU5i0p9yj4M12Vvd2rVM2.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1404791",
+        "vote_average": 7.507,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1233413,
+        "title": "Грешники",
+        "original_title": "Sinners",
+        "tagline": "«Танец с дьяволом»",
+        "lead_actors": [
+          "Майкл Б. Джордан",
+          "Хейли Стайнфелд"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-04-18",
+        "popularity": 33.4755,
+        "overview": "1932 год. После долгих лет отсутствия близнецы Смок и Стэк возвращаются в родной городок в дельте Миссисипи. Они успели повоевать в траншеях Первой мировой, а потом стали гангстерами в Чикаго. Братья выкупают у белого расиста территорию с хозяйственными постройками, чтобы открыть там музыкальный бар для рабочих с плантации. Гвоздь программы на открытии — сын проповедника, которому близнецы когда-то подарили гитару, и он играет блюз так хорошо, что привлекает внимание оказавшегося поблизости ирландского вампира.",
+        "genres": [
+          "ужасы",
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ZpqkD0DOd6bpLpcV9oBY8YGcRj.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1233413",
+        "vote_average": 7.49,
+        "runtime_minutes": 137,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
