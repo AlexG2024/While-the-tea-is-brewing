@@ -155,6 +155,15 @@
       "published_at": "2026-05-03T18:43:30.806749+00:00"
     },
     {
+      "key": "tmdb:movie:145341:movie_now_playing:1996-05-10",
+      "dedupe_key": "tmdb:movie:145341",
+      "media_type": "movie",
+      "tmdb_id": 145341,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1996-05-10",
+      "published_at": "2026-05-31T08:09:51.052007+00:00"
+    },
+    {
       "key": "tmdb:movie:597:movie_now_playing:1997-12-19",
       "dedupe_key": "tmdb:movie:597",
       "media_type": "movie",
