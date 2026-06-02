@@ -1,0 +1,125 @@
+{
+  "business_date": "2026-06-02",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1273221,
+        "title": "Очень страшное кино",
+        "original_title": "Scary Movie",
+        "tagline": "«Он вернулся. Никто не удивлён»",
+        "lead_actors": [
+          "Марлон Уэйанс",
+          "Шон Уэйанс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-05",
+        "popularity": 46.1744,
+        "overview": "Двое друзей снова оказываются втянутыми в хаос, в котором участвуют убийцы, монстры и сверхъестественные существа.",
+        "genres": [
+          "комедия",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mHggwMptRO9dzmaLlYdxlh1eXpj.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1273221",
+        "vote_average": 8.5,
+        "runtime_minutes": 96,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 323903,
+        "title": "Террор: Дьявол в серебре",
+        "original_title": "The Terror: Devil in Silver",
+        "tagline": null,
+        "lead_actors": [
+          "Дэн Стивенс",
+          "Джудит Лайт"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-05-07",
+        "popularity": 8.1505,
+        "overview": "Несправедливо помещённый в психиатрическую больницу Нью-Хайд, мужчина сталкивается с скрытными врачами, опасными пациентами и чем-то ещё более страшным…",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bdLM06YJ4cjafK65JovJEx3RYrH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/323903",
+        "vote_average": 9.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1156594,
+        "title": "Наша вина",
+        "original_title": "Our Fault",
+        "tagline": null,
+        "lead_actors": [
+          "Николь Уоллес",
+          "Габриель Гевара"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-10-15",
+        "popularity": 34.0254,
+        "overview": "Спустя четыре года после расставания Ник и Ноа воссоединяются на свадьбе Лайона и Дженны, и возникает вопрос, сможет ли их любовь преодолеть злобу Ника.",
+        "genres": [
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/181frO8pQaK7UZUMycM3FodIBIf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1156594",
+        "vote_average": 7.366,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 672,
+        "title": "Гарри Поттер и Тайная комната",
+        "original_title": "Harry Potter and the Chamber of Secrets",
+        "tagline": "«Зло вернулось в Хогвартс»",
+        "lead_actors": [
+          "Дэниел Рэдклифф",
+          "Руперт Гринт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2002-11-15",
+        "popularity": 33.2267,
+        "overview": "Гарри Поттер переходит на второй курс Школы чародейства и волшебства Хогвартс. Эльф Добби предупреждает Гарри об опасности, которая поджидает его там, и просит больше не возвращаться в школу. Юный волшебник не следует совету эльфа и становится свидетелем таинственных событий, разворачивающихся в Хогвартсе. Вскоре Гарри и его друзья узнают о существовании Тайной Комнаты и сталкиваются с новыми приключениями, пытаясь победить тёмные силы.",
+        "genres": [
+          "приключения",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/33Wj3LSyoAqtqkeh7YXcVMvTQzc.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/672",
+        "vote_average": 7.704,
+        "runtime_minutes": 161,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
