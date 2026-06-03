@@ -542,6 +542,15 @@
       "published_at": "2026-05-24T15:33:38.140351+00:00"
     },
     {
+      "key": "tmdb:movie:285213:movie_now_playing:2014-08-06",
+      "dedupe_key": "tmdb:movie:285213",
+      "media_type": "movie",
+      "tmdb_id": 285213,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2014-08-06",
+      "published_at": "2026-06-03T20:25:55.979896+00:00"
+    },
+    {
       "key": "tmdb:tv:56570:tv_on_the_air:2014-08-09",
       "dedupe_key": "tmdb:tv:56570",
       "media_type": "tv",
