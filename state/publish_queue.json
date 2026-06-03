@@ -1,0 +1,130 @@
+{
+  "business_date": "2026-06-03",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1061474,
+        "title": "Супермен",
+        "original_title": "Superman",
+        "tagline": "«Взгляни наверх»",
+        "lead_actors": [
+          "Дэвид Коренсвет",
+          "Рэйчел Броснахэн"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-07-11",
+        "popularity": 30.8149,
+        "overview": "Кларк Кент, родившийся на планете Криптон, но выросший в простой американской семье, считает своим долгом служение человечеству в качестве Супермена. Он предотвращает вторжение сил Боравии в соседнюю страну, чем навлекает на себя гнев Лекса Лютора, который со своими приспешниками проникает в Крепость Одиночества Супермена и очерняет его перед общественностью.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ikbG08TQtkIWUVRVotHhndf72pL.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1061474",
+        "vote_average": 7.34,
+        "runtime_minutes": 129,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 277439,
+        "title": "Мыс страха",
+        "original_title": "Cape Fear",
+        "tagline": null,
+        "lead_actors": [
+          "Хавьер Бардем",
+          "Эми Адамс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-06-04",
+        "popularity": 9.3581,
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/277439",
+        "vote_average": 10.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10138,
+        "title": "Железный человек 2",
+        "original_title": "Iron Man 2",
+        "tagline": "«Не доспехи делают героя, а человек внутри них»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Гвинет Пэлтроу"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2010-05-07",
+        "popularity": 30.4445,
+        "overview": "Прошло полгода с тех пор, как мир узнал, что миллиардер-изобретатель Тони Старк является обладателем уникальной кибер-брони Железного человека. Общественность требует, чтобы Старк передал технологию брони правительству США, но Тони не хочет разглашать её секреты, потому что боится, что она попадёт не в те руки. Между тем, Иван Ванко — сын русского учёного когда-то работавшего на фирму Старка, но потом уволенного и лишенного всего, намерен отомстить Тони за беды своей семьи. Для чего сооружает своё высокотехнологичное оружие.",
+        "genres": [
+          "приключения",
+          "боевик",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/rT3JszXFT2C3iYJtXSSL4R0DkU7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10138",
+        "vote_average": 6.854,
+        "runtime_minutes": 125,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 285213,
+        "title": "Пираты",
+        "original_title": "The Pirates",
+        "tagline": null,
+        "lead_actors": [
+          "Сон Ё-чжин",
+          "Ким Нам Киль"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2014-08-06",
+        "popularity": 28.0621,
+        "overview": "Фильм рассказывает о эпохе Чосон. Банда пиратов под предводительством Сон Е Чжин соперничает с бандой горных разбойников, спустившихся на море в поисках фортуны, во главе с Ким Нам Гилем. Их ждет охота за призраком кита, проглотившем корабль с сокровищами, самым ценным из которых является «королевская печать» — подарок китайского императора корейскому.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "комедия",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yMydhXOFTKPxxFBJiBMKv2JM7sl.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/285213",
+        "vote_average": 7.027,
+        "runtime_minutes": 130,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
