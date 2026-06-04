@@ -1,0 +1,125 @@
+{
+  "business_date": "2026-06-04",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1430077,
+        "title": "Хокум",
+        "original_title": "Hokum",
+        "tagline": "«Мы вас ждали»",
+        "lead_actors": [
+          "Адам Скотт",
+          "Питер Кунан"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-01",
+        "popularity": 160.1667,
+        "overview": "Писатель романов ужасов Ом Бауман приезжает в ирландскую гостиницу, чтобы развеять прах родителей, не подозревая, что в этом месте, по слухам, обитает ведьма. С приближением ночи он сталкивается с необъяснимыми явлениями и тайнами прошлого, которые постепенно раскрывают зловещую природу этого уединённого уголка.",
+        "genres": [
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zt5cQrDQG12EeaoebhdQV94ZgFi.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1430077",
+        "vote_average": 7.08,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 133174,
+        "title": "Свита королевы",
+        "original_title": "All the Queen's Men",
+        "tagline": null,
+        "lead_actors": [
+          "Ева Маркилле",
+          "Ских Алвестер Блак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-09-09",
+        "popularity": 6.0198,
+        "overview": "Действие этой драмы разворачивается в Атланте и разворачивается вокруг жизни Мэрилин «мадам» Девиль (ее играет Ева Марсилье). Мадам чванится как яростная деловая женщина, которая правит всеми в прибыльной индустрии экзотических ночных клубов для мужчин. Мадам окружена группой доверенных сотрудников, которые заботятся о том, чтобы мадам и ее империя были успешными. По мере того, как ее путешествие продолжается, она упорно стремится расширить свой королевский титул. Однако мадам вскоре обнаруживает, что больше денег и больше власти означают больше проблем.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/eXswCm8rvJUQbU89ihb0CQVJGpS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/133174",
+        "vote_average": 8.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1122573,
+        "title": "Грязные деньги",
+        "original_title": "In the Grey",
+        "tagline": "«Когда крадут миллиарды, только эти парни могут украсть их обратно»",
+        "lead_actors": [
+          "Генри Кавилл",
+          "Джейк Джилленхол"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-15",
+        "popularity": 146.5599,
+        "overview": "Когда безжалостный магнат Салазар присваивает себе миллиард долларов, отряд элитных агентов под управлением проницательной Рэйчел получает задание вернуть деньги любой ценой. Сид, Бронко и их соратники начинают воплощать стратегию давления на афериста, а затем отправляются на остров Салазара, где проявляют все свои навыки обращения с оружием и взрывчаткой. Однако внезапно ситуация выходит из-под контроля.",
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/eX68co76w7wunCRunji7kyglqTG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1122573",
+        "vote_average": 6.579,
+        "runtime_minutes": 98,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1275779,
+        "title": "День раскрытия",
+        "original_title": "Disclosure Day",
+        "tagline": "«Мы заслуживаем знать»",
+        "lead_actors": [
+          "Эмили Блант",
+          "Джош О'Коннор"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-12",
+        "popularity": 58.2234,
+        "overview": "Человечество узнаёт о прибытии на Землю инопланетян, чьё существование долгое время тщательно скрывалось.",
+        "genres": [
+          "детектив",
+          "фантастика",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/rwsWNNJKqLdN0ymCPx1yJagMVi.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1275779",
+        "vote_average": 8.0,
+        "runtime_minutes": 120,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
