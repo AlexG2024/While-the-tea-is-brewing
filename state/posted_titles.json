@@ -650,6 +650,15 @@
       "published_at": "2026-05-08T09:47:44.046348+00:00"
     },
     {
+      "key": "tmdb:movie:372058:movie_now_playing:2017-04-07",
+      "dedupe_key": "tmdb:movie:372058",
+      "media_type": "movie",
+      "tmdb_id": 372058,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2017-04-07",
+      "published_at": "2026-06-06T15:39:41.119057+00:00"
+    },
+    {
       "key": "tmdb:tv:72071:tv_on_the_air:2018-01-07",
       "dedupe_key": "tmdb:tv:72071",
       "media_type": "tv",
