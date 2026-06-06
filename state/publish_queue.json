@@ -1,0 +1,129 @@
+{
+  "business_date": "2026-06-06",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1431071,
+        "title": "Система",
+        "original_title": "System",
+        "tagline": null,
+        "lead_actors": [
+          "Сонакши Синха",
+          "Джётика"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-22",
+        "popularity": 49.1935,
+        "overview": "Прокурор Неха из влиятельной семьи юристов и простая стенографистка Сарика сталкиваются в суровой судебной системе. В мире, где влиятельные люди диктуют свою правду, двум непохожим героиням придется переосмыслить свои убеждения и выяснить, что такое истинное правосудие.",
+        "genres": [
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1431071",
+        "vote_average": 7.5,
+        "runtime_minutes": 124,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 252107,
+        "title": "Звездный городок",
+        "original_title": "Star City",
+        "tagline": "«В погоне за славой каждая тайна имеет значение»",
+        "lead_actors": [
+          "Рис Иванс",
+          "Анна Максвелл Мартин"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-05-28",
+        "popularity": 82.1124,
+        "overview": "Откройте для себя новую главу, вдохновленную сериалом «Ради всего человечества». Та же альтернативная история, но с точки зрения Советского Союза. Загляните за «железный занавес» вместе с космонавтами, инженерами и сотрудниками разведки, которые рисковали всем в лунной гонке.",
+        "genres": [
+          "драма",
+          "НФ и Фэнтези",
+          "Война и Политика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/b4n7ygvB7gvBdV4KTJyHIWRslrh.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/252107",
+        "vote_average": 6.64,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1184918,
+        "title": "Дикий робот",
+        "original_title": "The Wild Robot",
+        "tagline": "«Открой для себя свою истинную природу»",
+        "lead_actors": [
+          "Лупита Нионго",
+          "Педро Паскаль"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-09-27",
+        "popularity": 30.1748,
+        "overview": "После кораблекрушения, умный робот по имени Роз оказывается на необитаемом острове. Чтобы выжить в суровых условиях, Роз налаживает связь с животными острова и заботится об одиноком гусенке-сироте.",
+        "genres": [
+          "семейный",
+          "мультфильм",
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/sDTumQBxhIyYbZ9acsTtoLfb5ZG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1184918",
+        "vote_average": 8.311,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 372058,
+        "title": "Твое имя",
+        "original_title": "Your Name.",
+        "tagline": "«Я ищу тебя, хотя не знаю, кто ты»",
+        "lead_actors": [
+          "Рюноскэ Камики",
+          "Монэ Камишираиши"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2017-04-07",
+        "popularity": 29.6965,
+        "overview": "Токийский парень Таки и провинциальная девушка Мицуха обнаруживают, что между ними существует странная связь. Во сне они меняются телами и проживают жизни друг друга. Но однажды эта способность исчезает так же внезапно, как появилась. Таки решает во что бы то ни стало отыскать Мицуху.",
+        "genres": [
+          "мультфильм",
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iH2WDCYLIUjc7oPWRT7Kxgxza6k.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/372058",
+        "vote_average": 8.48,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
