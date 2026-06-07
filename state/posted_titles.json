@@ -263,6 +263,15 @@
       "published_at": "2026-05-03T07:33:06.529526+00:00"
     },
     {
+      "key": "tmdb:movie:808:movie_now_playing:2001-05-18",
+      "dedupe_key": "tmdb:movie:808",
+      "media_type": "movie",
+      "tmdb_id": 808,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2001-05-18",
+      "published_at": "2026-06-07T09:42:38.999872+00:00"
+    },
+    {
       "key": "tmdb:movie:77:movie_now_playing:2001-05-25",
       "dedupe_key": "tmdb:movie:77",
       "media_type": "movie",
