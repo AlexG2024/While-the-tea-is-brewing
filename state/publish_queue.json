@@ -1,0 +1,100 @@
+{
+  "business_date": "2026-06-07",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 240,
+        "title": "Крестный отец 2",
+        "original_title": "The Godfather Part II",
+        "tagline": null,
+        "lead_actors": [
+          "Аль Пачино",
+          "Роберт Дюваль"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1974-12-20",
+        "popularity": 31.4238,
+        "overview": "В центре драмы представители нового поколения гангстерского клана — дона Корлеоне и его сына, для которых не существует моральных преград на пути достижения поставленых целей. Они превращают мафию, построенную по патриархальным, еще сицилийским законам, в весьма прагматичную, жесткую корпорацию, плавно интегрирующуюся в большой бизнес Америки.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tOLQ3iRDfbwhVaw3QjDzIOS7zcu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/240",
+        "vote_average": 8.572,
+        "runtime_minutes": 200,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 808,
+        "title": "Шрэк",
+        "original_title": "Shrek",
+        "tagline": "«Большой Зелёный Великан»",
+        "lead_actors": [
+          "Майк Майерс",
+          "Эдди Мёрфи"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2001-05-18",
+        "popularity": 30.0917,
+        "overview": "Жил да был в сказочном государстве большой зелёный великан по имени Шрек. Жил он в гордом одиночестве в лесу, на болоте, которое считал своим. Но однажды злобный коротышка - лорд Фаркуад, правитель волшебного королевства, безжалостно согнал на Шреково болото всех сказочных обитателей. И беспечной жизни зелёного тролля пришёл конец. Но лорд Фаркуад пообещал вернуть Шреку болото, если великан добудет ему прекрасную принцессу Фиону , которая томится в неприступной башне, охраняемой огнедышащим драконом...",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "фэнтези",
+          "приключения",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/5OPCH713UIEeWuvRZpVkkzrZ3Hd.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/808",
+        "vote_average": 7.764,
+        "runtime_minutes": 90,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 14836,
+        "title": "Коралина в Стране Кошмаров",
+        "original_title": "Coraline",
+        "tagline": "«Бойтесь своих желаний»",
+        "lead_actors": [
+          "Дакота Фэннинг",
+          "Тери Хэтчер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2009-02-06",
+        "popularity": 30.0399,
+        "overview": "Маленькая Коралина попадает в другой мир, скрытый за секретной дверцей. Этот мир — ее альтернативная жизнь, которая не перестает ее радовать, все здесь хорошо, но только до поры до времени. Однажды она понимает, что ее настоящим родителям за ее проделки угрожает смертельная опасность.",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kwgBclQIcghtYYoJiDTw48bHWUK.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/14836",
+        "vote_average": 7.91,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
