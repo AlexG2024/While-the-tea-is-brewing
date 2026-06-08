@@ -1,0 +1,161 @@
+{
+  "business_date": "2026-06-08",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1358005,
+        "title": "Служебный роман",
+        "original_title": "Office Romance",
+        "tagline": null,
+        "lead_actors": [
+          "Дженнифер Лопес",
+          "Бретт Голдстин"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-05",
+        "popularity": 237.2745,
+        "overview": "Следуя зову сердца, два трудоголика начинают тайный служебный роман и оказываются в абсолютном хаосе. Главные роли в ромкоме исполняют Дженнифер Лопес и Бретт Голдстин.",
+        "genres": [
+          "мелодрама",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ekzv3cgWww6BHLCeinQELQoO6Vf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1358005",
+        "vote_average": 6.568,
+        "runtime_minutes": 115,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 323411,
+        "title": "Вампир Лестат",
+        "original_title": "The Vampire Lestat",
+        "tagline": null,
+        "lead_actors": [
+          "Сэм Рид",
+          "Джейкоб Андерсон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-06-07",
+        "popularity": 19.2528,
+        "overview": "После публикации бестселлера \"Интервью с вампиром\" Лестат решает переписать историю и рассказать свою версию событий.",
+        "genres": [
+          "драма",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ljVJisH9eGGomAA6pu62PPtHANq.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/323411",
+        "vote_average": 9.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1340110,
+        "title": "Снова и снова",
+        "original_title": "Redux Redux",
+        "tagline": null,
+        "lead_actors": [
+          "Микаэла Макманус",
+          "Стелла Маркус"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-02-20",
+        "popularity": 47.9174,
+        "overview": "Айрин Келли путешествует по параллельным вселенным, раз за разом расправляясь с убийцей своей дочери. Но всё глубже погружаясь в пучину мести, она рискует потерять собственную человечность.",
+        "genres": [
+          "фантастика",
+          "триллер",
+          "ужасы",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dIx0J48wucX4oRI1OCmCT4XQZuE.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1340110",
+        "vote_average": 6.5,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 125928,
+        "title": "Мои приключения с Суперменом",
+        "original_title": "My Adventures with Superman",
+        "tagline": null,
+        "lead_actors": [
+          "Джек Куэйд",
+          "Элис Ли"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-07-07",
+        "popularity": 12.7294,
+        "overview": "Кларк Кент создает свою тайную личность Супермена и принимает свою роль героя Метрополиса, одновременно разделяя приключения и влюбляясь в Лоис, звездную журналистку, которая также берет под свое крыло Джимми Олсена.",
+        "genres": [
+          "мультфильм",
+          "Боевик и Приключения",
+          "НФ и Фэнтези",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/but1L2ZecRJwhoYl8IsH2z8S8D0.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/125928",
+        "vote_average": 8.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1295400,
+        "title": "Последний викинг",
+        "original_title": "The Last Viking",
+        "tagline": null,
+        "lead_actors": [
+          "Мадс Миккельсен",
+          "Николай Ли Каас"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-29",
+        "popularity": 33.0008,
+        "overview": "Анкер выходит на свободу после 14 лет тюрьмы за ограбление. Деньги, добытые в том деле, закопал его брат Манфред — только он знает, где спрятана добыча. Но за прошедшие годы у Манфреда развилось психическое расстройство, и теперь он ничего не помнит. Вместе братья отправляются на поиски денег и общего прошлого.",
+        "genres": [
+          "комедия",
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/w4EXykDFV6UeEOtL8SuSRtTEHMF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1295400",
+        "vote_average": 7.271,
+        "runtime_minutes": 116,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
