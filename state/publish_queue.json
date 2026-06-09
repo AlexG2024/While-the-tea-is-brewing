@@ -1,0 +1,129 @@
+{
+  "business_date": "2026-06-09",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 4232,
+        "title": "Крик",
+        "original_title": "Scream",
+        "tagline": "«Теперь все - жертвы и все - подозреваемые!»",
+        "lead_actors": [
+          "Дэвид Аркетт",
+          "Нив Кэмпбелл"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1996-12-20",
+        "popularity": 38.2045,
+        "overview": "По городу прокатилась волна жестоких убийств, жертвами становятся беззащитные люди. Новой жертвой телефонного маньяка из городка Вудсборо может стать ещё одна девушка — Сидни Прескотт. Год назад её мать была изнасилована и убита, а теперь маньяк угрожает ей самой. Но в первой ночной схватке с убийцей девушка смогла спастись. Полиция находит на месте покушения маску и плащ. Впрочем, такие маски можно купить в лавке ужасов, и проку для следствия от найденных улик нет никакого.",
+        "genres": [
+          "криминал",
+          "ужасы",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pV8EnIy3dZcTQBbA8uP74hcmdN6.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/4232",
+        "vote_average": 7.43,
+        "runtime_minutes": 111,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 252257,
+        "title": "Любимицы Америки: чирлидеры Dallas Cowboys",
+        "original_title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
+        "tagline": null,
+        "lead_actors": [
+          "Келли Фингласс",
+          "Джуди Траммелл"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-06-20",
+        "popularity": 3.0256,
+        "overview": "Посмотрите, как девушки борются за место в команде чирлидеров «Даллас Ковбойс»: от кастингов и тренировок до выступлений во время сезона НФЛ.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/252257",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 6312,
+        "title": "Братство волка",
+        "original_title": "Brotherhood of the Wolf",
+        "tagline": "«Сейчас 1766 год... Охота на убийцу началась»",
+        "lead_actors": [
+          "Самуел Ле Бихан",
+          "Венсан Кассель"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2002-01-25",
+        "popularity": 36.5246,
+        "overview": "Франция, 1766 год. В регионе Жеводан появляется страшное существо, прозванное жителями Зверем, которое безжалостно убивает женщин и детей. Зверь оказывается неуловимым, уходит от многочисленных облав и внезапно исчезает, поэтому лишь немногие выжившие способны описать его внешность.\r Сам король Людовик XV решает разобраться в происходящем и поручает расследовать жестокие убийства учёному и рыцарю Грегуару де Фронсаку. Сопровождает Грегуара молчаливый индеец Мани, его ближайший друг и брат по крови, с которым он познакомился в Новой Франции во время Семилетней войны.",
+        "genres": [
+          "приключения",
+          "ужасы",
+          "боевик",
+          "история"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uYXJiO1tBGEy2K0KnAxb6SFnUXf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/6312",
+        "vote_average": 6.741,
+        "runtime_minutes": 142,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 8587,
+        "title": "Король Лев",
+        "original_title": "The Lion King",
+        "tagline": "«Величайшее приключение в жизни — найти своё место в Круге жизни»",
+        "lead_actors": [
+          "Мэттью Бродерик",
+          "Моира Келли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1994-06-24",
+        "popularity": 28.018,
+        "overview": "У величественного Короля-Льва Муфасы рождается наследник по имени Симба. Уже в детстве любознательный малыш становится жертвой интриг своего завистливого дяди Шрама, мечтающего о власти. Симба познаёт горе утраты, предательство и изгнание, но в конце концов обретает верных друзей и находит любимую. Закалённый испытаниями, он в нелёгкой борьбе отвоёвывает своё законное место в «Круге жизни», осознав, что значит быть настоящим Королём.",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/j8tdiuhbF9p5mnAeA1YOUvz82xY.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/8587",
+        "vote_average": 8.254,
+        "runtime_minutes": 89,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
