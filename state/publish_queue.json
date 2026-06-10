@@ -1,0 +1,123 @@
+{
+  "business_date": "2026-06-10",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 12104,
+        "title": "Стена",
+        "original_title": "Pink Floyd: The Wall",
+        "tagline": null,
+        "lead_actors": [
+          "Боб Гелдоф",
+          "Чристине Харгреавес"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1982-09-17",
+        "popularity": 131.0862,
+        "overview": "Все смешалось в номере некоего лос-анджелесского отеля, в котором заперт рок-музыкант Пинк — пространство и время, реальность и кошмар. Каждый кирпич в «Стене» — его чувства, мысли, воспоминания.  Действие фильма основано на двойном альбоме группы «Pink Floyd» — «The Wall», 23 раза получавшем статус платинового и распроданном по всему миру общим тиражом 11,7 миллионов экземпляров.",
+        "genres": [
+          "музыка",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/12104",
+        "vote_average": 7.9,
+        "runtime_minutes": 95,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 63726,
+        "title": "В изоляции",
+        "original_title": "Alone",
+        "tagline": "Без съёмочных групп. Без уловок. Это высшее испытание человеческой воли.",
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2015-06-18",
+        "popularity": 7.375,
+        "overview": "В Изоляции является единственным в своем роде телесериалом, которое поместило людей против неизвестного в полной изоляции. Без продюсеров, начальников или съемочных команд, следующих за ними по пятам, эти эксперты по выживанию действительно собираются проверить свою выдержку. Это шоу чувствуется необработанным, но оно является подлинным – просто десять мужчин с их камерами и волей, чтобы выжить. Нет уловок и никакого контакта с внешним миром.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/a1r1KLEYFP1u0q5kH4mHDQaOOvF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/63726",
+        "vote_average": 7.2,
+        "runtime_minutes": null,
+        "number_of_seasons": 13
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1280738,
+        "title": "Яростный",
+        "original_title": "The Furious",
+        "tagline": null,
+        "lead_actors": [
+          "Ксие Миао",
+          "Джо Таслим"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-12",
+        "popularity": 62.6799,
+        "overview": "Когда дочь мастера-ремесленника Ван Вэя похищает преступная группировка, тот самостоятельно отправляется на поиски. Его единственным союзником становится Навин — неутомимый журналист, чья жена таинственно исчезла. Мужчинам из разных слоёв общества предстоит научиться доверять друг другу и сотрудничать, используя навыки рукопашного боя, полученные благодаря их тайному прошлому.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/jAN5WQstlgSMsbLISH59Sx7cYfu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1280738",
+        "vote_average": 8.0,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 391713,
+        "title": "Леди Бёрд",
+        "original_title": "Lady Bird",
+        "tagline": null,
+        "lead_actors": [
+          "Сирша Ронан",
+          "Лори Меткаф"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2017-12-01",
+        "popularity": 48.8252,
+        "overview": "История старшеклассницы, которая провела год в Сакраменто. Главная героиня пытается сбежать из своего маленького городка в Нью-Йорк, заручившись поддержкой приёмного старшего брата.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/98Ny99D4TFpPyMctru8djcid7lG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/391713",
+        "vote_average": 7.2,
+        "runtime_minutes": 94,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
