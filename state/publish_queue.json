@@ -1,0 +1,160 @@
+{
+  "business_date": "2026-06-11",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1084244,
+        "title": "История игрушек 5",
+        "original_title": "Toy Story 5",
+        "tagline": "«Привет! Давай играть!»",
+        "lead_actors": [
+          "Том Хэнкс",
+          "Тим Аллен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-19",
+        "popularity": 68.956,
+        "overview": "Вуди, Джесси и Базз Лайтер сталкиваются с новой угрозой — планшетом «ЛилиПад», который стал любимой игрушкой 8-летней Бонни и занимает всё больше её времени.",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "комедия",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/84igQj0DU3TgPrtQ7bHXHCio1sV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+        "vote_average": 7.0,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 456,
+        "title": "Симпсоны",
+        "original_title": "The Simpsons",
+        "tagline": "Просто продукт общества, утратившего хорошие манеры",
+        "lead_actors": [
+          "Дэн Кастелланета",
+          "Джулия Кавнер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1989-12-17",
+        "popularity": 204.6617,
+        "overview": "Семейство Симпсонов — папаша Гомер, мама Мардж, дочери Лиза и маленькая Мэгги, и несносный подросток Барт — проживают в среднестатистическом городке Спрингфилд. Гомер трудится на местной атомной станции, Мардж занимается домом и детьми, любознательная Лиза отлично учится в школе, а Барт постоянно попадает во всякие переделки.",
+        "genres": [
+          "семейный",
+          "мультфильм",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/171yRAHGCziNjtO53sEil1PH64v.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/456",
+        "vote_average": 8.019,
+        "runtime_minutes": null,
+        "number_of_seasons": 37
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1560681,
+        "title": "Цвета зла: Чёрный",
+        "original_title": "Colors of Evil: Black",
+        "tagline": null,
+        "lead_actors": [
+          "Джакуб Гиерсзаł",
+          "Марианна Зидек"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-10",
+        "popularity": 45.3011,
+        "overview": "Прокурор Леопольд Бильский получает новое назначение в небольшой городок в регионе Кашубия. Там исчезает мальчик по имени Пиотрус. По мере расследования Бильский обнаруживает связь с давним делом о пропавших людях и раскрывает многолетние тайны, скрытые в этом сообществе. По одноименному роману Малгожаты Оливии Собчак.",
+        "genres": [
+          "триллер",
+          "детектив",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1560681",
+        "vote_average": 8.6,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 203744,
+        "title": "Шугар",
+        "original_title": "Sugar",
+        "tagline": "Некоторые мужчины полны загадок.",
+        "lead_actors": [
+          "Колин Фаррелл",
+          "Чин Ха"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-04-04",
+        "popularity": 8.4917,
+        "overview": "Загадочный частный детектив борется с собственными демонами, расследуя исчезновение любимой внучки голливудского продюсера.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3lezQDqlUbnFfp7PQSpMFLi99qY.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/203744",
+        "vote_average": 7.273,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 673,
+        "title": "Гарри Поттер и узник Азкабана",
+        "original_title": "Harry Potter and the Prisoner of Azkaban",
+        "tagline": "«Что-то зловещее приближается»",
+        "lead_actors": [
+          "Дэниел Рэдклифф",
+          "Руперт Гринт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2004-06-04",
+        "popularity": 34.5444,
+        "overview": "В третьей части экранизации бестселлера о юном волшебнике, полюбившиеся всем герои — Гарри Поттер, Рон и Гермиона — возвращаются уже на третий курс школы чародейства и волшебства «Хогвартс». На этот раз они должны раскрыть тайну узника, сбежавшего из зловещей тюрьмы Азкабан, чьё пребывание на воле создаёт для Гарри смертельную опасность...",
+        "genres": [
+          "приключения",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mncDize7FLO9RBovXKZ7LefUkbu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/673",
+        "vote_average": 8.0,
+        "runtime_minutes": 136,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
