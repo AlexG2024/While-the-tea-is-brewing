@@ -101,6 +101,15 @@
       "published_at": "2026-05-10T17:31:42.136194+00:00"
     },
     {
+      "key": "tmdb:tv:456:tv_on_the_air:1989-12-17",
+      "dedupe_key": "tmdb:tv:456",
+      "media_type": "tv",
+      "tmdb_id": 456,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1989-12-17",
+      "published_at": "2026-06-11T12:52:30.756584+00:00"
+    },
+    {
       "key": "tmdb:movie:10835:movie_now_playing:1990-09-01",
       "dedupe_key": "tmdb:movie:10835",
       "media_type": "movie",
