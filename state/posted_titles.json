@@ -137,6 +137,15 @@
       "published_at": "2026-04-25T18:07:59.483080+00:00"
     },
     {
+      "key": "tmdb:movie:769:movie_now_playing:1990-09-21",
+      "dedupe_key": "tmdb:movie:769",
+      "media_type": "movie",
+      "tmdb_id": 769,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1990-09-21",
+      "published_at": "2026-06-14T13:08:01.314431+00:00"
+    },
+    {
       "key": "tmdb:movie:11012:movie_now_playing:1992-12-02",
       "dedupe_key": "tmdb:movie:11012",
       "media_type": "movie",
