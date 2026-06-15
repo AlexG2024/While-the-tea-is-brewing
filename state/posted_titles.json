@@ -506,6 +506,15 @@
       "published_at": "2026-06-07T13:02:29.299343+00:00"
     },
     {
+      "key": "tmdb:movie:767:movie_now_playing:2009-07-15",
+      "dedupe_key": "tmdb:movie:767",
+      "media_type": "movie",
+      "tmdb_id": 767,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2009-07-15",
+      "published_at": "2026-06-15T18:05:37.961568+00:00"
+    },
+    {
       "key": "tmdb:movie:19995:movie_now_playing:2009-12-18",
       "dedupe_key": "tmdb:movie:19995",
       "media_type": "movie",
