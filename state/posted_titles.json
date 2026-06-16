@@ -893,6 +893,15 @@
       "published_at": "2026-04-24T19:06:16.234501+00:00"
     },
     {
+      "key": "tmdb:movie:301528:movie_now_playing:2019-06-21",
+      "dedupe_key": "tmdb:movie:301528",
+      "media_type": "movie",
+      "tmdb_id": 301528,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2019-06-21",
+      "published_at": "2026-06-16T07:08:52.641989+00:00"
+    },
+    {
       "key": "tmdb:tv:90521:tv_on_the_air:2019-07-09",
       "dedupe_key": "tmdb:tv:90521",
       "media_type": "tv",
