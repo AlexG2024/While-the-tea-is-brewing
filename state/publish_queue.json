@@ -1,0 +1,161 @@
+{
+  "business_date": "2026-06-16",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 301528,
+        "title": "Теттесен историйĕ 4",
+        "original_title": "Toy Story 4",
+        "tagline": "«Собирайтесь в Дорогу»",
+        "lead_actors": [
+          "Том Хэнкс",
+          "Тим Аллен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2019-06-21",
+        "popularity": 33.1818,
+        "overview": "После поступления в колледж, Энди передал свои игрушки на сохранение маленькой Бонни. Шериф Вуди, космический рейнджер Базз Лайтер и остальные обрадовались возможности оказаться в руках новой хозяйки, которая будет находить время с ними играть, но их мечты сбылись лишь на половину. Девочка смастерила себе из столового прибора новую игрушку по имени Вилкинс, с которой играет большую часть времени. Когда семья Бонни отправляется на автомобиле к парку аттракционов, самодельную игрушку сдувает ветром, что вынуждает главных героев организовать операцию по спасению Вилкинса.",
+        "genres": [
+          "семейный",
+          "комедия",
+          "мультфильм",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/flLgw8DJKbjSblWnZvTvvYL2pRr.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/301528",
+        "vote_average": 7.463,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 219971,
+        "title": "Агентство",
+        "original_title": "The Agency",
+        "tagline": null,
+        "lead_actors": [
+          "Майкл Фассбендер",
+          "Джеффри Райт"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-12-01",
+        "popularity": 17.54,
+        "overview": "Тайный агент ЦРУ, известный как Марсианин, получает приказ бросить работу под прикрытием и вернуться в Лондон. Однако вскоре в его жизнь врывается возлюбленная, которую ему пришлось оставить. Карьера, тайна личности и миссия оперативника оказываются под угрозой из-за любви.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/219971",
+        "vote_average": 7.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 863,
+        "title": "История игрушек 2",
+        "original_title": "Toy Story 2",
+        "tagline": "«Игрушки снова в деле»",
+        "lead_actors": [
+          "Том Хэнкс",
+          "Тим Аллен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1999-11-24",
+        "popularity": 28.0308,
+        "overview": "Ковбой Вуди и другие игрушки мальчика Энди продолжают жить, радуясь каждому дню. Но неожиданно всё меняется, когда Вуди похищает коварный коллекционер. Оказывается, что Вуди - очень ценная игрушка из коллекции, за которую японский музей игрушек готов заплатить огромную сумму. В доме коллекционера он находит своих родственников. В это время игрушки во главе с Баззом Лайтером отправляются на помощь. Вуди узнаёт о своём знаменитом прошлом, и перед ним встаёт непростой выбор. Блистать в витрине музея или же вернуться к любимому хозяину?",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/descLErszABnAy79SDTzupmPD7e.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/863",
+        "vote_average": 7.609,
+        "runtime_minutes": 92,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 227144,
+        "title": "Контрабанда: изъята на границе",
+        "original_title": "Contraband: Seized at the Border",
+        "tagline": null,
+        "lead_actors": [
+          "Дан Начтраб"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-05-23",
+        "popularity": 1.5706,
+        "overview": "Сериал рассказывает о работе сотрудников Таможенной и Пограничной службы на границе между Соединенными Штатами и Мексикой в ​​их непрекращающейся борьбе с контрабандистами, пересекающими границу, включая мексиканские наркокартели.",
+        "genres": [
+          "документальный",
+          "криминал",
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hlCLRojglopcOtPKY1621oFH0kB.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/227144",
+        "vote_average": 9.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 9
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1556616,
+        "title": "Летний дом",
+        "original_title": "Summer House",
+        "tagline": null,
+        "lead_actors": [
+          "Деря Пынар Ак",
+          "Онур Сейит Яран"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-06",
+        "popularity": 27.3978,
+        "overview": "Селин переносится в прошлое и оказывается в летнем доме в годы юности своей матери. Меняя судьбу своей семьи, она получает шанс заново построить и собственную жизнь.",
+        "genres": [
+          "мелодрама",
+          "семейный",
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kA6e4wmyulZn76xBd5Bq29PZwnb.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1556616",
+        "vote_average": 8.438,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
