@@ -1,0 +1,154 @@
+{
+  "business_date": "2026-06-17",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1318413,
+        "title": "Давление",
+        "original_title": "Pressure",
+        "tagline": "«Один прогноз изменит мир»",
+        "lead_actors": [
+          "Эндрю Скотт",
+          "Брендан Фрейзер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-29",
+        "popularity": 53.8353,
+        "overview": "Июнь 1944 года. Высадка в Нормандии, крупнейшая в истории морская десантная операция, уже подготовлена, и любая задержка грозит тем, что немецкая разведка раскроет планы союзников. Главному метеорологу Великобритании Джеймсу Стэггу предстоит убедить все командование союзных сил во главе с генералом Дуайтом Эйзенхауэром довериться его нестандартным методам и изменить планы операции. У ученых остается лишь 72 часа на точный прогноз сразу двух надвигающихся штормов, но от этого зависит судьба всего Западного фронта.",
+        "genres": [
+          "триллер",
+          "история",
+          "военный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xYLbAshji6VK0vQjtLZg2E9bea.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1318413",
+        "vote_average": 8.3,
+        "runtime_minutes": 104,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 95738,
+        "title": "За кулисами Диснейленда",
+        "original_title": "Behind the Attraction",
+        "tagline": null,
+        "lead_actors": [
+          "Пагет Бревстер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-07-21",
+        "popularity": 2.4431,
+        "overview": "Погружение в историю создания и развития тематических аттракционов в развлекательных парках Disney. Программа содержит ранее не публиковавшиеся фото- и видеоматериалы, демонстрирующие, как создавались различные аттракционы и как они совершенствовались по мере развития технологий, а также интервью c различными людьми, включая редкое архивное интервью с Уолтом Диснеем.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/5rDQ4EnYHnWuvqsheosOOzIFUoR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/95738",
+        "vote_average": 7.2,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10193,
+        "title": "История игрушек 3",
+        "original_title": "Toy Story 3",
+        "tagline": "«Ни одна игрушка не останется без внимания»",
+        "lead_actors": [
+          "Том Хэнкс",
+          "Тим Аллен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2010-06-18",
+        "popularity": 30.5409,
+        "overview": "Энди почти 18 лет, ему остаётся 3 дня до отправки в колледж, в то время как его игрушки, в том числе Вуди и Базз Лайтер, гадают о своём будущем. Куда забросит их судьба? На чердак, на свалку или, может быть, в детский сад «Солнышко»?",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/2IWIk34c9fMv7xJQ5ur4Z3O1Hh9.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10193",
+        "vote_average": 7.807,
+        "runtime_minutes": 103,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 287291,
+        "title": "Рассекреченные тайны с Дэвидом Духовны",
+        "original_title": "Secrets Declassified with David Duchovny",
+        "tagline": null,
+        "lead_actors": [
+          "Дэвид Духовны"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-04-04",
+        "popularity": 2.2368,
+        "overview": "От тайн неба и загадочных объектов до негласных научных экспериментов и странных видов оружия – проект раскроет секретные программы, которые правительства проводили, тестируя пределы человеческого воображения. Дэвид Духовны расследует как известные, так и малоизвестные истории: заговоры вокруг Зоны 51, реальные события, вдохновившие фильм «Арго», и гонку за сверхзвуковыми технологиями в эпоху холодной войны. В эфире появятся дешифрованные документы и свидетельства расследователей, чтобы раскрыть скрытые факты.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6NjOcMCbzSqCCFhqrkoejMjONmz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/287291",
+        "vote_average": 6.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1156593,
+        "title": "Твоя вина",
+        "original_title": "Your Fault",
+        "tagline": null,
+        "lead_actors": [
+          "Николь Уоллес",
+          "Габриель Гевара"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-12-26",
+        "popularity": 28.5374,
+        "overview": "Ноа и Николас влюблены и счастливы, но это прекрасное чувство очень хрупко. Достаточно одной искры, чтобы пламя недоверия все разрушило. Смогут ли влюбленные преодолеть попытки родителей их разлучить? Удастся ли им сохранить чувства, несмотря на появление бывшей девушки Ника, новых друзей Ноа из колледжа и другие испытания?",
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dj0x6mPhLzPlcnYjIPV2Wnh7Jvp.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1156593",
+        "vote_average": 7.076,
+        "runtime_minutes": 117,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
