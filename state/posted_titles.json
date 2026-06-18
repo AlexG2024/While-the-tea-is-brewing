@@ -1028,6 +1028,15 @@
       "published_at": "2026-05-04T16:12:30.338365+00:00"
     },
     {
+      "key": "tmdb:tv:124394:tv_on_the_air:2021-07-18",
+      "dedupe_key": "tmdb:tv:124394",
+      "media_type": "tv",
+      "tmdb_id": 124394,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2021-07-18",
+      "published_at": "2026-06-18T12:31:32.692085+00:00"
+    },
+    {
       "key": "tmdb:tv:95738:tv_on_the_air:2021-07-21",
       "dedupe_key": "tmdb:tv:95738",
       "media_type": "tv",
