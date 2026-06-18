@@ -1,0 +1,189 @@
+{
+  "business_date": "2026-06-18",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 315635,
+        "title": "Человек-паук: Возвращение домой",
+        "original_title": "Spider-Man: Homecoming",
+        "tagline": "«Когда заканчивается одна история, начинается другая»",
+        "lead_actors": [
+          "Том Холланд",
+          "Майкл Китон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2017-07-07",
+        "popularity": 28.32,
+        "overview": "Казалось бы, Питер Паркер всего лишь обычный школьник, живущий в Нью-Йорке, и занимающийся абсолютно тем же, что и его многочисленные сверстники. Но это только обман зрения, ведь на самом деле, он обладает особыми способностями после того, как его укусил радиоактивный паук. Следуя кредо его дяди Бэна «с великой силой приходит великая ответственность», Питер становится Человеком-пауком — героем, который пытается помогать людям. Но каково это быть героем в таком юном возрасте, особенно, когда ты находишься в мире, где существуют Мстители? Преследуемого подобными мыслями Человека-паука ждёт встреча с новым могущественным врагом, чьи действия могут уничтожить весь город.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gBCq5vt7XXUMjfxi2OguArduUKP.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/315635",
+        "vote_average": 7.331,
+        "runtime_minutes": 133,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 124394,
+        "title": "Власть в ночном городе. Книга третья: юность Кэнена",
+        "original_title": "Power Book III: Raising Kanan",
+        "tagline": null,
+        "lead_actors": [
+          "Мекаи Куртис",
+          "Патина Миллер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-07-18",
+        "popularity": 20.5968,
+        "overview": "Приквел криминальной драмы, спродюсированный рэпером 50 Cent. Предыстория Кэнена, подростка из Квинса 90-х, чья мать имеет силу в криминальном мире, но хочет оградить своего сына от преступного бизнеса. Сам же 15-летний Кэнен намерен пойти по семейным стопам. Зайти в этот мир легко, особенно с такими связями, но выйти уже не получится никогда.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/goTm4Kyc62c8Mxenz5mQBNwMebE.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/124394",
+        "vote_average": 8.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 519182,
+        "title": "Гадкий я 4",
+        "original_title": "Despicable Me 4",
+        "tagline": "«Мега-Миньоны. Мега-Безумие»",
+        "lead_actors": [
+          "Стив Карелл",
+          "Кристен Уиг"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-07-03",
+        "popularity": 27.9447,
+        "overview": "Грю, с недавних пор ставший агентом Антизлодейской лиги, способствует аресту своего давнего врага Максима Ле Маль, который после инъекции специальной сыворотки превратился в гибрид человека и таракана. Злодей почти сразу же сбегает из тюрьмы, поэтому Грю вместе с семьей попадает под программу защиты свидетелей: после смены места жительства он становится Четом, продавцом солнечных батарей. Тем временем Максим Ле Маль, вместе со своей сообщницей Валентиной возглавляющий армию тараканов, стремится во что бы то ни стало отомстить.",
+        "genres": [
+          "боевик",
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tHqeQqruCLFA0CO7gzyyHoZlZgo.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/519182",
+        "vote_average": 7.0,
+        "runtime_minutes": 94,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 322803,
+        "title": "Выстоять: джунгли",
+        "original_title": "Outlast: The Jungle",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-06-10",
+        "popularity": 11.0457,
+        "overview": "На отдаленном тропическом острове 16 участников должны выдержать стихию, обойти соперников и остаться частью команды, чтобы побороться за приз в 1 миллион долларов.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/322803",
+        "vote_average": 8.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1556616,
+        "title": "Летний дом",
+        "original_title": "Summer House",
+        "tagline": null,
+        "lead_actors": [
+          "Деря Пынар Ак",
+          "Онур Сейит Яран"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-06",
+        "popularity": 23.4499,
+        "overview": "Селин переносится в прошлое и оказывается в летнем доме в годы юности своей матери. Меняя судьбу своей семьи, она получает шанс заново построить и собственную жизнь.",
+        "genres": [
+          "мелодрама",
+          "семейный",
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kA6e4wmyulZn76xBd5Bq29PZwnb.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1556616",
+        "vote_average": 8.438,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 226745,
+        "title": "Лагерь Снупи",
+        "original_title": "Camp Snoopy",
+        "tagline": "Счастье — это отдых на природе.",
+        "lead_actors": [
+          "Етиенне Келлики",
+          "Терри Макгуррин"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-06-13",
+        "popularity": 5.2815,
+        "overview": "Узнав, что их отряд под угрозой расформирования, Снупи и скауты отправляются на природу зарабатывать значки. Тем временем Чарли Браун и его друзья наслаждаются каникулами в летнем лагере.",
+        "genres": [
+          "мультфильм",
+          "Детский",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iqdw79n3PDda5NYaX7VpXcOPrpL.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/226745",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
