@@ -2378,6 +2378,15 @@
       "published_at": "2026-06-11T16:42:55.995069+00:00"
     },
     {
+      "key": "tmdb:tv:322803:tv_on_the_air:2026-06-10",
+      "dedupe_key": "tmdb:tv:322803",
+      "media_type": "tv",
+      "tmdb_id": 322803,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2026-06-10",
+      "published_at": "2026-06-18T18:31:59.133593+00:00"
+    },
+    {
       "key": "tmdb:movie:1275779:movie_now_playing:2026-06-12",
       "dedupe_key": "tmdb:movie:1275779",
       "media_type": "movie",
