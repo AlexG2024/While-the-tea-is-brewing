@@ -893,6 +893,15 @@
       "published_at": "2026-05-08T15:54:14.390357+00:00"
     },
     {
+      "key": "tmdb:tv:82428:tv_on_the_air:2018-10-10",
+      "dedupe_key": "tmdb:tv:82428",
+      "media_type": "tv",
+      "tmdb_id": 82428,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2018-10-10",
+      "published_at": "2026-06-19T20:11:01.218160+00:00"
+    },
+    {
       "key": "tmdb:tv:79744:tv_on_the_air:2018-10-16",
       "dedupe_key": "tmdb:tv:79744",
       "media_type": "tv",
