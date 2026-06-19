@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-06-19",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1477317,
+        "title": "Твоя вина: Лондон",
+        "original_title": "Your Fault: London",
+        "tagline": null,
+        "lead_actors": [
+          "Аша Банкс",
+          "Мэттью Брум"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-17",
+        "popularity": 195.2676,
+        "overview": "Ноа уезжает в Оксфорд, чтобы продолжить учёбу, а Ник погружается в работу. В их жизни появляются новые люди, что пробуждает неожиданные эмоции и ревность. Доверие подвергается испытаниям, а отношения, которые казались нерушимыми, начинают давать трещину.  Оказавшись на распутье, Ноа и Ник должны сделать выбор: бороться за любовь, которая их объединила, или рискнуть потерять её навсегда",
+        "genres": [
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kYWGLuLLnIYBvL2qCohhJGfRffU.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1477317",
+        "vote_average": 7.702,
+        "runtime_minutes": 120,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 82452,
+        "title": "Аватар: Легенда об Аанге",
+        "original_title": "Avatar the Last Airbender",
+        "tagline": "«Овладей Своей Стихией»",
+        "lead_actors": [
+          "Гордон Кормье",
+          "Киавентио Тарбелл"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-02-22",
+        "popularity": 32.2994,
+        "overview": "В мире существуют народы 4-ёх стихий: огня, воды, земли и воздуха. Представитель народа огня решил поработить остальные народы. Спасти мир и прекратить войну подвластно только Аватару, повелевающему всеми 4-мя стихиями. Ответственность внезапно ложится на плечи 19-ти летнего Аанга, которому предстоит отправиться в опасное путешествие.",
+        "genres": [
+          "Боевик и Приключения",
+          "драма",
+          "семейный",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/EdUABIsxRsYCousbtWeia8gVzD.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/82452",
+        "vote_average": 7.759,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1294203,
+        "title": "Моя вина: Лондон",
+        "original_title": "My Fault: London",
+        "tagline": null,
+        "lead_actors": [
+          "Аша Банкс",
+          "Мэттью Брум"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-02-12",
+        "popularity": 50.8961,
+        "overview": "18-летняя девушка переезжает из Америки в Лондон со своей матерью и богатым отчимом. Она встречает Ника, и между ними возникает взаимное влечение.",
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hQGMA2HS3WBEYZahBktX66oKsC8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1294203",
+        "vote_average": 7.402,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 136315,
+        "title": "Медведь",
+        "original_title": "The Bear",
+        "tagline": "«Вернулись за добавкой»",
+        "lead_actors": [
+          "Джереми Аллен Уайт",
+          "Эбон Мосс-Бакрак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2022-06-23",
+        "popularity": 31.9812,
+        "overview": "Молодой и амбициозный шеф-повар Карми после самоубийства старшего брата возвращается в родной Чикаго, чтобы руководить семейным бизнесом по продаже сэндвичей. Крохотная забегаловка сильно отличается от ресторанов изысканной кухни, в которых Карми привык работать. Он хочет сделать это место более престижным, но ему придётся столкнуться с множеством мелких проблем, от капризных клиентов до сломанного унитаза. А самая сложная задача — завоевать доверие несговорчивых сотрудников.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vOOXaq6ITcTSYGISVYhmJjcCyxz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/136315",
+        "vote_average": 8.151,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1127384,
+        "title": "Глубокие воды",
+        "original_title": "Deep Water",
+        "tagline": "«Выжить в этой авиакатастрофе, это только начало»",
+        "lead_actors": [
+          "Аарон Екгарт",
+          "Бен Кингсли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-01",
+        "popularity": 47.9514,
+        "overview": "Группа международных пассажиров на рейсе из Лос-Анджелеса в Шанхай вынуждена совершить аварийную посадку в водах, кишащих акулами. Испуганные люди должны объединиться и преодолеть свои разногласия, если они надеются выбраться из тонущего самолёта и избежать нападения акул, привлечённых обломками.",
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1127384",
+        "vote_average": 6.522,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 82428,
+        "title": "Всеамериканский",
+        "original_title": "All American",
+        "tagline": null,
+        "lead_actors": [
+          "Мичаел Еванс Бехлинг",
+          "Грета Ониеогоу"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2018-10-10",
+        "popularity": 24.4418,
+        "overview": "Спенсер — звезда школьной футбольной команды из Южного Централа, района Лос-Анджелеса, печально известного своей криминальной обстановкой и частыми конфликтами на почве расовой вражды. Парень не собирался уезжать из родных мест, пока тренер одной из школ Беверли-Хиллс не пригласил его в свою команду. Приняв предложение, Спенсер открывает для себя учебу в современной школе в богатом, престижном и безопасном районе, массу привилегий и большое спортивное будущее. Однако среди богатеньких школьников он чувствует себя лишним. Да и новые друзья по команде свысока смотрят на пришельца, на которого тренер возлагает большие надежды.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yvldnmope0rb07Tf7BpYEi4zJaR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/82428",
+        "vote_average": 8.115,
+        "runtime_minutes": null,
+        "number_of_seasons": 8
+      }
+    }
+  ]
+}
