@@ -1,0 +1,126 @@
+{
+  "business_date": "2026-06-20",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1699155,
+        "title": "Материнский инстинкт",
+        "original_title": "Maternal Instinct",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-12",
+        "popularity": 28.2957,
+        "overview": "Полиция останавливает женщину, которая утверждает, что только что родила. Но ни ребенок, ни кровь — не ее. Документальный фильм о запутанной лжи и реальном преступлении.",
+        "genres": [
+          "документальный",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1699155",
+        "vote_average": 7.263,
+        "runtime_minutes": 97,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 226745,
+        "title": "Лагерь Снупи",
+        "original_title": "Camp Snoopy",
+        "tagline": "Счастье — это отдых на природе.",
+        "lead_actors": [
+          "Етиенне Келлики",
+          "Терри Макгуррин"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-06-13",
+        "popularity": 5.6631,
+        "overview": "Узнав, что их отряд под угрозой расформирования, Снупи и скауты отправляются на природу зарабатывать значки. Тем временем Чарли Браун и его друзья наслаждаются каникулами в летнем лагере.",
+        "genres": [
+          "мультфильм",
+          "Детский",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iqdw79n3PDda5NYaX7VpXcOPrpL.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/226745",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 585,
+        "title": "Корпорация монстров",
+        "original_title": "Monsters, Inc.",
+        "tagline": "Мы пугаем, потому что заботимся",
+        "lead_actors": [
+          "Джон Гудман",
+          "Билли Кристал"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2001-11-02",
+        "popularity": 27.5899,
+        "overview": "Склизкий гад в сливном бачке, мохнатый зверь, похожий на чудовище из «Аленького цветочка», гигантские мокрицы под кроватью — все они существуют на самом деле. Все, что им нужно — пугать детей, потому что из детских криков они получают электричество. Полнометражный мультфильм рассказывает о кризисах в мире монстров, их жизни. Но однажды вся мирная жизнь монстров оказывается под угрозой: в их мир попадает ребенок. А с детьми столько хлопот, что они могут довести даже монстров.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zXIusESsQ7ZXP9MFwbvcTTZ3XWF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/585",
+        "vote_average": 7.851,
+        "runtime_minutes": 92,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 557,
+        "title": "Человек-паук",
+        "original_title": "Spider-Man",
+        "tagline": "«Переверните свой мир вверх дном»",
+        "lead_actors": [
+          "Тоби Магуайр",
+          "Уиллем Дефо"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2002-05-03",
+        "popularity": 27.5345,
+        "overview": "Еще вчера Питер Паркер был обычным школьником, которого все считали неудачником и занудой, но в один прекрасный день с ним происходит чудо. Питера кусает паук-мутант, после чего с нескладным юношей происходит фантастическая метаморфоза! И вскоре Человеку-Пауку придется сразиться с Зеленым Гоблином - терроризирующим город монстром на летающем глайдере. В этой великой битве решится не только их судьба, но и судьбы тысяч жителей города...",
+        "genres": [
+          "боевик",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uxNYgyfM9zeIQevvLON8zlPLocS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/557",
+        "vote_average": 7.332,
+        "runtime_minutes": 211,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
