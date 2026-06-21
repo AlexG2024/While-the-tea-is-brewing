@@ -2522,6 +2522,15 @@
       "published_at": "2026-06-21T06:59:53.739560+00:00"
     },
     {
+      "key": "tmdb:movie:614945:movie_now_playing:2026-06-20",
+      "dedupe_key": "tmdb:movie:614945",
+      "media_type": "movie",
+      "tmdb_id": 614945,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-06-20",
+      "published_at": "2026-06-21T12:27:45.537129+00:00"
+    },
+    {
       "key": "tmdb:movie:1375646:movie_now_playing:2026-08-28",
       "dedupe_key": "tmdb:movie:1375646",
       "media_type": "movie",
