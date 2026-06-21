@@ -1,0 +1,124 @@
+{
+  "business_date": "2026-06-21",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1451344,
+        "title": "Мужья в действии",
+        "original_title": "Husbands in Action",
+        "tagline": null,
+        "lead_actors": [
+          "Чин Сон Кю",
+          "Кон Мён"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-19",
+        "popularity": 120.5981,
+        "overview": "Детектив объединяется с новым мужем своей бывшей жены, чтобы выследить похитителей. Смогут ли они преодолеть свои разногласия ради безумной спасательной операции?",
+        "genres": [
+          "комедия",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1451344",
+        "vote_average": 6.5,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 258731,
+        "title": "В эпицентре бури",
+        "original_title": "In the Eye of the Storm",
+        "tagline": null,
+        "lead_actors": [
+          "Реед Тиммер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-07-14",
+        "popularity": 3.853,
+        "overview": "В эпицентре шторма такие мегаштормы, как ураган \"Ида\" в 2021 году и лесные пожары на острове Мауи в 2023 году, были запечатлены наблюдателями, которые оказались в неподходящее время в неподходящем месте и смело подняли камеры своих телефонов, чтобы запечатлеть свои впечатления.",
+        "genres": [
+          "документальный",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bp4qbjvLwIB0wIW3nUXyb8VDbgI.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/258731",
+        "vote_average": 8.2,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 614945,
+        "title": "Сообщения для Изабель",
+        "original_title": "Voicemails for Isabelle",
+        "tagline": null,
+        "lead_actors": [
+          "Зои Дойч",
+          "Ник Робинсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-20",
+        "popularity": 105.5354,
+        "overview": "Девушка отправляет забавные и искренние голосовые сообщения покойной сестре, не подозревая, что их получает незнакомый человек и влюбляется в нее на расстоянии.",
+        "genres": [
+          "мелодрама",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/614945",
+        "vote_average": 7.423,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1245398,
+        "title": "Первые ведьмы. Потомство",
+        "original_title": "True Fear",
+        "tagline": "«Они были первыми — кто станет последней»",
+        "lead_actors": [
+          "Ава Никоделл",
+          "Ребека Енхолм"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-09-06",
+        "popularity": 51.0056,
+        "overview": "Популярные блогерши отправляются на место самой массовой в истории казни ведьм. В XVII веке местный викарий проводил здесь самосуд над женщинами, считая, что они потомки самых первых ведьм. Но одна из жертв действительно была ведьмой и, умирая, прокляла священника и здешние земли. Прибыв на место, девушки сталкиваются с жуткими и необъяснимыми явлениями. Чтобы остановить зло, им нужно разгадать тайну первых ведьм.",
+        "genres": [
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bPMs08M4a4szc5IYsxPrb78yx5r.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1245398",
+        "vote_average": 6.556,
+        "runtime_minutes": 92,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
