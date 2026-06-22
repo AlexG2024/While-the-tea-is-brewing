@@ -92,6 +92,15 @@
       "published_at": "2026-05-25T16:14:22.006275+00:00"
     },
     {
+      "key": "tmdb:movie:11986:movie_now_playing:1986-11-07",
+      "dedupe_key": "tmdb:movie:11986",
+      "media_type": "movie",
+      "tmdb_id": 11986,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1986-11-07",
+      "published_at": "2026-06-22T07:40:35.664361+00:00"
+    },
+    {
       "key": "tmdb:tv:1181:tv_on_the_air:1988-10-04",
       "dedupe_key": "tmdb:tv:1181",
       "media_type": "tv",
