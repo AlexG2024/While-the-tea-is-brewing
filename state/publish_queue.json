@@ -1,0 +1,102 @@
+{
+  "business_date": "2026-06-23",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 575265,
+        "title": "Миссия невыполнима: Финальная расплата",
+        "original_title": "Mission: Impossible - The Final Reckoning",
+        "tagline": "«Наша жизнь – это совокупность наших решений»",
+        "lead_actors": [
+          "Том Круз",
+          "Хейли Этвелл"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-05-23",
+        "popularity": 27.9865,
+        "overview": "Искусственный интеллект Entity готовится уничтожить человечество, постепенно перехватывая контроль над ядерными арсеналами мировых держав. У Итана Ханта и его команды есть лишь 72 часа, чтобы найти устройство с исходным кодом Entity, которое находится на затонувшей российской подводной лодке «Севастополь», и предотвратить глобальную катастрофу.",
+        "genres": [
+          "боевик",
+          "триллер",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ypSREV9yyAAs5SwZLiC8G0qhY1a.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/575265",
+        "vote_average": 7.17,
+        "runtime_minutes": 169,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 569094,
+        "title": "Человек-паук: Паутина вселенных",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "tagline": null,
+        "lead_actors": [
+          "Шамик Мур",
+          "Хейли Стайнфелд"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-06-02",
+        "popularity": 26.7388,
+        "overview": "Майлз Моралес отправляется в приключение по мультивселенной вместе с Гвен Стейси и новой командой Людей-пауков, которым предстоит столкнуться с могущественным злодеем.",
+        "genres": [
+          "мультфильм",
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hsGAxOqbH0UNpIJPMsVRA6dFf85.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/569094",
+        "vote_average": 8.336,
+        "runtime_minutes": 140,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1241982,
+        "title": "Моана 2",
+        "original_title": "Moana 2",
+        "tagline": "«Океан Зовёт их Обратно»",
+        "lead_actors": [
+          "Аулии Кравалхо",
+          "Дуэйн 'Скала' Джонсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-11-27",
+        "popularity": 25.7877,
+        "overview": "Получив вызов от предков-искателей, Моана и Мауи отправляются в далёкие и опасные воды Океании.",
+        "genres": [
+          "приключения",
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wrg0C7sw1T1ogXvS8P4kiawY9xv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1241982",
+        "vote_average": 7.008,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
