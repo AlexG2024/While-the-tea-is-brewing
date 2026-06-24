@@ -1,0 +1,127 @@
+{
+  "business_date": "2026-06-24",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1081003,
+        "title": "Супергёрл",
+        "original_title": "Supergirl",
+        "tagline": "«Правда. Справедливость. Всё такое»",
+        "lead_actors": [
+          "Милли Олкок",
+          "Ив Ридли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-26",
+        "popularity": 80.0214,
+        "overview": "Во время празднования своего 21-го дня рождения Кара Зор-Эл отправляется в путешествие по галактике вместе со своим псом Крипто. В ходе этого путешествия она знакомится с юной Рути Мэри Нолл и пускается в «кровавый путь мести».",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gcAZ5f6Y40koGYcfPUqb2tmnVd.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1081003",
+        "vote_average": 6.7,
+        "runtime_minutes": 108,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 156993,
+        "title": "Гарри Уайлд",
+        "original_title": "Harry Wild",
+        "tagline": null,
+        "lead_actors": [
+          "Джейн Сеймур",
+          "Кевин Райан"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2022-04-04",
+        "popularity": 8.1805,
+        "overview": "Преподавательница английского выходит на пенсию и решает посвятить свободное время расследованиям, которыми занимается её сын-полицейский.",
+        "genres": [
+          "драма",
+          "детектив",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/diUV19YqRmytDpjefEOx3ex4MaZ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/156993",
+        "vote_average": 6.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1564614,
+        "title": "Левит",
+        "original_title": "Leviticus",
+        "tagline": null,
+        "lead_actors": [
+          "Джое Бирд",
+          "Стэйси Клаузен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-19",
+        "popularity": 39.0694,
+        "overview": "Двое несчастных подростков должны спастись от жестокой сущности, которая принимает облик того, кого они желают больше всего на свете, — друг друга.",
+        "genres": [
+          "ужасы",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/luuJMXVR2nAgI51TScvUmPfrAOM.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1564614",
+        "vote_average": 7.0,
+        "runtime_minutes": 88,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 515916,
+        "title": "Девочка",
+        "original_title": "Girl",
+        "tagline": null,
+        "lead_actors": [
+          "Виктор Полстер",
+          "Ариех Ворталтер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2019-03-15",
+        "popularity": 28.0187,
+        "overview": "Целеустремленная пятнадцатилетняя Лара решила стать профессиональной балериной. При поддержке отца она полностью отдается этому стремлению в новой школе. Но психологические подростковые проблемы Лары усиливаются, когда она понимает, что ее тело не хочет подчиняться  строгой дисциплине. А все дело в том, что родилась она мальчиком.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ccgjmikpoVRvpOYaWcdT7q8zc1K.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/515916",
+        "vote_average": 7.161,
+        "runtime_minutes": 105,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
