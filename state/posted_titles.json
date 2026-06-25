@@ -794,6 +794,15 @@
       "published_at": "2026-05-08T14:16:49.419684+00:00"
     },
     {
+      "key": "tmdb:tv:61833:tv_on_the_air:2015-01-08",
+      "dedupe_key": "tmdb:tv:61833",
+      "media_type": "tv",
+      "tmdb_id": 61833,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2015-01-08",
+      "published_at": "2026-06-25T17:22:36.272352+00:00"
+    },
+    {
       "key": "tmdb:tv:63726:tv_on_the_air:2015-06-18",
       "dedupe_key": "tmdb:tv:63726",
       "media_type": "tv",
