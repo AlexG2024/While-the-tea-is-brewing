@@ -1,0 +1,127 @@
+{
+  "business_date": "2026-06-27",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1084187,
+        "title": "Красотка со смертельным номером",
+        "original_title": "Pretty Lethal",
+        "tagline": "«Кровь, пот и пачки»",
+        "lead_actors": [
+          "Мэдди Зиглер",
+          "Лана Кондор"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-25",
+        "popularity": 35.9619,
+        "overview": "5 балерин едут на престижный конкурс, едва разговаривая друг с другом, как вдруг их автобус ломается в глухом лесу. Выбора нет — они вынуждены искать убежище в жутковатой придорожной гостинице, которой заправляет затворница и бывшая звезда балета Девора Касимер. С первого взгляда ясно: здесь что-то не так. И чутьё их не обманывает. Когда ситуация накаляется до предела, враждующим балеринам приходится забыть старые обиды и обратить годы изнурительных тренировок в оружие. Грация, дисциплина и даже пуанты становятся инструментами выживания.",
+        "genres": [
+          "музыка",
+          "триллер",
+          "боевик",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/obUC30QYZgAiewImvnNBoUD9n65.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1084187",
+        "vote_average": 6.761,
+        "runtime_minutes": 90,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 227139,
+        "title": "Выживание толстейших",
+        "original_title": "Survival of the Thickest",
+        "tagline": null,
+        "lead_actors": [
+          "Мишель Бюто"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-07-13",
+        "popularity": 5.6797,
+        "overview": "После тяжелого разрыва страстный стилист Мэвис Бомон использует возможность начать жизнь и полюбить заново, обретя счастье на собственных условиях.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/grUTMdwLTMiTwvlqbDqs5IC6Len.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/227139",
+        "vote_average": 6.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 438631,
+        "title": "Дюна",
+        "original_title": "Dune",
+        "tagline": "«Час настал»",
+        "lead_actors": [
+          "Тимоти Шаламе",
+          "Ребекка Фергюсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2021-10-22",
+        "popularity": 28.4605,
+        "overview": "Наследник знаменитого дома Атрейдесов Пол отправляется вместе с семьей на одну из самых опасных планет во Вселенной — Арракис. Здесь нет ничего, кроме песка, палящего солнца, гигантских чудовищ и основной причины межгалактических конфликтов — невероятно ценного ресурса, который называется меланж. В результате захвата власти Пол вынужден бежать и скрываться, и это становится началом его эпического путешествия. Враждебный мир Арракиса приготовил для него множество тяжелых испытаний, но только тот, кто готов взглянуть в глаза своему страху, достоин стать избранным.",
+        "genres": [
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3hbXNclcHaj5KiF6kK41GBMjyFr.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/438631",
+        "vote_average": 7.78,
+        "runtime_minutes": 155,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 872585,
+        "title": "Оппенгеймер",
+        "original_title": "Oppenheimer",
+        "tagline": "Мир навсегда изменится.",
+        "lead_actors": [
+          "Киллиан Мёрфи",
+          "Эмили Блант"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-07-21",
+        "popularity": 27.1989,
+        "overview": "История жизни американского физика-теоретика Роберта Оппенгеймера, который во времена Второй мировой войны руководил Манхэттенским проектом — секретными разработками ядерного оружия.",
+        "genres": [
+          "драма",
+          "история"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8OQzw8keE6sDNH25sOqPRTxhFTO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/872585",
+        "vote_average": 8.025,
+        "runtime_minutes": 181,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
