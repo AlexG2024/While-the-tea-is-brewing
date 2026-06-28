@@ -1,0 +1,129 @@
+{
+  "business_date": "2026-06-28",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1125257,
+        "title": "Чумовая пятница 2",
+        "original_title": "Freakier Friday",
+        "tagline": "«Ну вот опять!»",
+        "lead_actors": [
+          "Линдси Лохан",
+          "Джейми Ли Кёртис"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-08-08",
+        "popularity": 42.6497,
+        "overview": "Прошли годы с той пятницы, когда Анна и Тесс, её мать, наладили отношения после удивительного обмена телами. Теперь у самой Анны есть родная дочь и будущая падчерица, которым не удаётся найти общий язык. Анна и Тесс узнают, что чудо может повториться.",
+        "genres": [
+          "комедия",
+          "фэнтези",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/frTZz6rZayI9PL5roFCuWCEoaTz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1125257",
+        "vote_average": 6.797,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 39224,
+        "title": "Битва насмерть!",
+        "original_title": "Death Battle!",
+        "tagline": null,
+        "lead_actors": [
+          "Бен Сингер",
+          "Чад Джамес"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2010-12-06",
+        "popularity": 7.3875,
+        "overview": "Что будет, если самых прославленных и смертоносных персонажей современной поп-культуры столкнуть в поединке друг с другом? Какое оружие будет использовано, какие навыки применены? Сколько крови прольётся? И кто в итоге выживет?",
+        "genres": [
+          "комедия",
+          "мультфильм",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4VY2pLk5Jz5a8Vw9fqMbvQBqjHA.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/39224",
+        "vote_average": 6.778,
+        "runtime_minutes": null,
+        "number_of_seasons": 13
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 335984,
+        "title": "Бегущий по лезвию 2",
+        "original_title": "Blade Runner 2049",
+        "tagline": "«Ключ к будущему наконец-то найден»",
+        "lead_actors": [
+          "Райан Гослинг",
+          "Харрисон Форд"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2017-10-06",
+        "popularity": 31.1278,
+        "overview": "Содержимое тайной могилы вызывает интерес промышленного магната, а также офицера Кей из полиции Лос-Анджелеса, который отправляется на поиски пропавшей легенды.",
+        "genres": [
+          "фантастика",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/fnIJeT9GZvscKm5PbmAvhTYDsLh.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/335984",
+        "vote_average": 7.595,
+        "runtime_minutes": 164,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 76600,
+        "title": "Аватар 2",
+        "original_title": "Avatar: The Way of Water",
+        "tagline": "«Возвращение на Пандору»",
+        "lead_actors": [
+          "Сэм Уортингтон",
+          "Зои Салдана"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2022-12-16",
+        "popularity": 29.6365,
+        "overview": "Джейк становится предводителем народа на’ви и берёт на себя миссию по защите новых друзей от корыстных бизнесменов с Земли. Теперь ему есть за кого бороться - с Джейком его прекрасная возлюбленная Нейтири. Когда на Пандору возвращаются до зубов вооружённые земляне, Джейк готов дать им отпор.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yFNn7uWudLLWDJqfj3fwh5CcUdR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/76600",
+        "vote_average": 7.594,
+        "runtime_minutes": 192,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
