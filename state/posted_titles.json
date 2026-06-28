@@ -632,6 +632,15 @@
       "published_at": "2026-05-12T15:11:35.352461+00:00"
     },
     {
+      "key": "tmdb:tv:39224:tv_on_the_air:2010-12-06",
+      "dedupe_key": "tmdb:tv:39224",
+      "media_type": "tv",
+      "tmdb_id": 39224,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2010-12-06",
+      "published_at": "2026-06-28T11:21:07.951093+00:00"
+    },
+    {
       "key": "tmdb:tv:32726:tv_on_the_air:2011-01-09",
       "dedupe_key": "tmdb:tv:32726",
       "media_type": "tv",
