@@ -1,0 +1,127 @@
+{
+  "business_date": "2026-06-30",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1398050,
+        "title": "Драйв",
+        "original_title": "Driver's Ed",
+        "tagline": null,
+        "lead_actors": [
+          "Сам Нивола",
+          "Софие Телегадис"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-15",
+        "popularity": 54.8037,
+        "overview": "Подросток угоняет школьную учебную машину и вместе с друзьями отправляется в безумное дорожное путешествие через полстраны, чтобы успеть к девушке, которая вот-вот может стать для него просто воспоминанием.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1398050",
+        "vote_average": 6.654,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 100575,
+        "title": "Беспощадный",
+        "original_title": "Tyler Perry's Ruthless",
+        "tagline": null,
+        "lead_actors": [
+          "Мелисса Л. Виллиамс",
+          "Матт Кедеñо"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-03-19",
+        "popularity": 5.3203,
+        "overview": "Спин-офф сериала Овальный кабинет. В центре сюжета история женщины по имени Рут, которая похищает свою маленькую дочь, чтобы присоединиться к темному и преступному религиозному культу.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/qYgAnS5tMXMtckAjaj2xemzol4m.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/100575",
+        "vote_average": 8.3,
+        "runtime_minutes": null,
+        "number_of_seasons": 6
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10681,
+        "title": "ВАЛЛ-И",
+        "original_title": "WALL·E",
+        "tagline": "«Любовь - дело техники»",
+        "lead_actors": [
+          "Бен Бёртт",
+          "Елисса Книгхт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2008-06-27",
+        "popularity": 31.3397,
+        "overview": "Робот ВАЛЛ·И из года в год прилежно трудится на опустевшей Земле, очищая нашу планету от гор мусора, которые оставили после себя улетевшие в космос люди. Он и не представляет, что совсем скоро произойдут невероятные события, благодаря которым он встретит друзей, поднимется к звёздам и даже сумеет изменить к лучшему своих бывших хозяев, совсем позабывших родную Землю.",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uR79KoBwDMz1qbxwmuY0bpcDYtf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10681",
+        "vote_average": 8.114,
+        "runtime_minutes": 98,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1218925,
+        "title": "Человек-бензопила. Фильм: История Резе",
+        "original_title": "Chainsaw Man - The Movie: Reze Arc",
+        "tagline": null,
+        "lead_actors": [
+          "Кикуносукэ Тоя",
+          "Томори Кусуноки"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-10-24",
+        "popularity": 28.136,
+        "overview": "Молодой охотник на демонов Дэндзи, который ждал свидания со своей возлюбленной Макимой, попадает под ливень. Укрывшись от дождя, он случайно встречает девушку по имени Резе, работающую в соседнем кафе. Та добродушно ему улыбается, и разговор становится более непринужденным. После этой встречи повседневная жизнь Дэндзи начинает меняться.",
+        "genres": [
+          "мультфильм",
+          "боевик",
+          "мелодрама",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/f4Bv4JWv85zHSisuq7SD2WeuJGr.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1218925",
+        "vote_average": 8.4,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
