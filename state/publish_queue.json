@@ -1,0 +1,101 @@
+{
+  "business_date": "2026-07-01",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 324857,
+        "title": "Человек-паук: Через вселенные",
+        "original_title": "Spider-Man: Into the Spider-Verse",
+        "tagline": "«Не он один носит маску»",
+        "lead_actors": [
+          "Шамик Мур",
+          "Джейк Джонсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2018-12-14",
+        "popularity": 29.1211,
+        "overview": "В центре сюжета уникальной и инновационной в визуальном плане картины подросток из Нью-Йорка Майлз Моралес, который живет в мире безграничных возможностей вселенных Человека-паука, где костюм супергероя носит не только он.",
+        "genres": [
+          "мультфильм",
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wmEKJr81CABBU68Qy2wYPwQHn0L.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/324857",
+        "vote_average": 8.392,
+        "runtime_minutes": 117,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 77338,
+        "title": "Неприкасаемые",
+        "original_title": "The Intouchables",
+        "tagline": "Иногда, чтобы изменить чью-то жизнь, нужно просто быть рядом.",
+        "lead_actors": [
+          "Франсуа Клюзе",
+          "Омар Си"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2011-11-02",
+        "popularity": 28.9529,
+        "overview": "Пострадав в результате несчастного случая, богатый аристократ Филипп нанимает в помощники человека, который менее всего подходит для этой работы, – молодого жителя предместья Дрисса, только что освободившегося из тюрьмы. Несмотря на то, что Филипп прикован к инвалидному креслу, Дриссу удается привнести в размеренную жизнь аристократа дух приключений.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zQsq95pYgjhJwYKqoFdeXlVse88.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/77338",
+        "vote_average": 8.272,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 150540,
+        "title": "Головоломка",
+        "original_title": "Inside Out",
+        "tagline": "Нет слов, одни эмоции",
+        "lead_actors": [
+          "Эми Полер",
+          "Филлис Смит"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2015-06-19",
+        "popularity": 28.2989,
+        "overview": "Это история про обычную девочку, которую зовут Райли. Она, как и все другие дети или взрослые, имеет 5 основных видов эмоций, это — Страх, Гнев, Радость, Печаль и Брезгливость. Они помогают девочке разобраться в определённых ситуациях, в общем, руководят ею полностью, и, как правило действуют гармонично. Однажды родители героини решили переехать из маленького города в большой. Вот здесь-то гармония кардинально нарушается. Каждая эмоция считает, что для приспособления к новой среде должна действовать именно она. Но ничего из того не выйдет, пока взаимопонимание не восстановится между ними. Получится ли у них это сделать?",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "приключения",
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8wukxopBFO2Vrf50jlLpbrfj4OB.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/150540",
+        "vote_average": 7.908,
+        "runtime_minutes": 95,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
