@@ -731,6 +731,15 @@
       "published_at": "2026-05-07T19:50:45.193080+00:00"
     },
     {
+      "key": "tmdb:tv:44953:tv_on_the_air:2013-04-15",
+      "dedupe_key": "tmdb:tv:44953",
+      "media_type": "tv",
+      "tmdb_id": 44953,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2013-04-15",
+      "published_at": "2026-07-02T10:24:27.588110+00:00"
+    },
+    {
       "key": "tmdb:tv:57532:tv_on_the_air:2013-08-12",
       "dedupe_key": "tmdb:tv:57532",
       "media_type": "tv",
