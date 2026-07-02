@@ -1,0 +1,131 @@
+{
+  "business_date": "2026-07-02",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1202033,
+        "title": "Энола Холмс 3",
+        "original_title": "Enola Holmes 3",
+        "tagline": "Это я?",
+        "lead_actors": [
+          "Милли Бобби Браун",
+          "Генри Кавилл"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-01",
+        "popularity": 116.1365,
+        "overview": "Детектив Энола Холмс отправляется на Мальту, однако ее планы выйти замуж рушатся: из-за исчезновения Шерлока она втягивается в опасное дело.",
+        "genres": [
+          "детектив",
+          "триллер",
+          "приключения",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/eTjUnXaWpkQbuDcBQV8oI1IeC9r.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1202033",
+        "vote_average": 7.5,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 44953,
+        "title": "Повелитель небес",
+        "original_title": "El Señor de los Cielos",
+        "tagline": null,
+        "lead_actors": [
+          "Рафаел Амайа",
+          "Мигуел Гарза"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2013-04-15",
+        "popularity": 29.7208,
+        "overview": "Дамиан Торрес — мужчина бедного происхождения, который мечтал иметь все. Бесконечное желание и твердая решительность превращают его из бедного крестьянина в одного из самых богатых мужчин мира, по совместительству опасного и влиятельного торговца наркотиками, разыскиваемого DEA. Дамиан воплощает все на что только способна человеческая душа, от благородных поступков до преступных деяний, питаемых чрезмерной жаждой власти и богатства. Жизнь Дамиана превращается в выживание, когда охоту за ним начинают не только его старые враги, но и DEA. Он понимает, что у него единственный выход — начать жизнь с чистого листа новым человеком в буквальном смысле, и решает подвергнуться пластической операции. Дамиан обнаружит, что с того опасного пути к богатству сойти уже нельзя.",
+        "genres": [
+          "криминал",
+          "драма",
+          "Мыльная опера"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/44953",
+        "vote_average": 7.94,
+        "runtime_minutes": null,
+        "number_of_seasons": 10
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 857,
+        "title": "Спасти рядового Райана",
+        "original_title": "Saving Private Ryan",
+        "tagline": "«Фильм, который вдохновил мир на то, чтобы его помнили»",
+        "lead_actors": [
+          "Том Хэнкс",
+          "Том Сайзмор"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1998-07-24",
+        "popularity": 29.2113,
+        "overview": "Вторая мировая. Капитан Джон Миллер получает тяжелое задание. Вместе с отрядом из восьми человек он должен отправиться в тыл врага на поиски рядового Джеймса Райана, три родных брата которого почти одновременно погибли на полях сражений.\r Командование приняло решение демобилизовать Райана и отправить его на родину к безутешной матери. Но чтобы найти и спасти солдата, крошечному отряду придется пройти через все круги ада.",
+        "genres": [
+          "военный",
+          "драма",
+          "история"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pZDsEB9NrmIxo9aeEdJGG3BRJsl.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/857",
+        "vote_average": 8.228,
+        "runtime_minutes": 169,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 933260,
+        "title": "Субстанция",
+        "original_title": "The Substance",
+        "tagline": "«Если следовать инструкциям, что может пойти не так?»",
+        "lead_actors": [
+          "Деми Мур",
+          "Маргарет Куолли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-09-20",
+        "popularity": 27.7745,
+        "overview": "Слава голливудской звезды Элизабет Спаркл осталась в прошлом, хотя она всё ещё ведёт фитнес-шоу на телевидении. Когда её передачу собираются перезапустить с ведущей помоложе, от отчаяния Элизабет решает принять инновационный препарат, создатели которого обещают невероятное преображение, но при соблюдении правила одной недели. Так на свет появляется молодая красотка Сью. Девушка начинает делать карьеру в шоу-бизнесе и вскоре решает, что семи дней ей маловато.",
+        "genres": [
+          "ужасы",
+          "фантастика",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/x3yhBGbTqlAjxM450BANUNCHpOO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/933260",
+        "vote_average": 7.132,
+        "runtime_minutes": 140,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
