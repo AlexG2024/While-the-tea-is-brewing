@@ -1,0 +1,98 @@
+{
+  "business_date": "2026-07-04",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1279493,
+        "title": "Ночной бизнес",
+        "original_title": "The Get Out",
+        "tagline": null,
+        "lead_actors": [
+          "Рассел Кроу",
+          "Люк Эванс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-26",
+        "popularity": 101.6449,
+        "overview": "Манко владеет роскошным ночным клубом в сердце Лос-Анджелеса и управляет им вместе со своей не менее роскошной женой. Но за высокий статус в мире порока рано или поздно приходится платить. Когда его грабят посреди ночи, забирая отмытые деньги картеля, Манко понимает, что попал по полной. Теперь ему предстоит защитить семью, показать всем, кто тут авторитет — и желательно выжить в процессе.",
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wPZ8g69OylfL57ai1AgkQE1LLQy.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1279493",
+        "vote_average": 6.8,
+        "runtime_minutes": 96,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1367220,
+        "title": "Каруппа",
+        "original_title": "Karuppu",
+        "tagline": null,
+        "lead_actors": [
+          "சூர்யா",
+          "த்ரிஷா கிருஷ்ணன்"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-14",
+        "popularity": 53.242,
+        "overview": "Смертельно больная девочка нуждается в срочной пересадке печени. Её отчаявшийся отец приезжает из Кералы в Ченнаи с золотом, чтобы оплатить операцию, но становится жертвой ограбления, а дело погружается в коррумпированную судебную систему, где бесконечно откладывается. В молитве к деревенскому божеству-хранителю семья получает неожиданный ответ — Каруппа спускается на землю в человеческом облике адвоката. Теперь тому, кто вершил правосудие на небесах, предстоит сразиться с продажной системой, циничным прокурором и безжалостными воротилами, наживающимися на чужом горе. Сможет ли бог в человеческом обличье изменить судебную систему или даже высшие силы бессильны перед земной коррупцией?",
+        "genres": [
+          "боевик",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1367220",
+        "vote_average": 6.6,
+        "runtime_minutes": 152,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1108427,
+        "title": "Моана",
+        "original_title": "Moana",
+        "tagline": "«Океан выбрал её не просто так»",
+        "lead_actors": [
+          "Кэтрин Лагааиа",
+          "Дуэйн 'Скала' Джонсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-10",
+        "popularity": 45.5809,
+        "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+        "genres": [
+          "семейный",
+          "фэнтези",
+          "комедия",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1108427",
+        "vote_average": 6.9,
+        "runtime_minutes": 115,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
