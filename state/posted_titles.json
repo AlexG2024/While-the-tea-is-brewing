@@ -569,6 +569,15 @@
       "published_at": "2026-07-03T12:20:21.677686+00:00"
     },
     {
+      "key": "tmdb:tv:4086:tv_on_the_air:2007-04-23",
+      "dedupe_key": "tmdb:tv:4086",
+      "media_type": "tv",
+      "tmdb_id": 4086,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2007-04-23",
+      "published_at": "2026-07-05T10:36:20.880291+00:00"
+    },
+    {
       "key": "tmdb:movie:675:movie_now_playing:2007-07-11",
       "dedupe_key": "tmdb:movie:675",
       "media_type": "movie",
