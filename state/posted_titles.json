@@ -65,6 +65,15 @@
       "published_at": "2026-05-27T19:36:29.114196+00:00"
     },
     {
+      "key": "tmdb:movie:1091:movie_now_playing:1982-06-25",
+      "dedupe_key": "tmdb:movie:1091",
+      "media_type": "movie",
+      "tmdb_id": 1091,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1982-06-25",
+      "published_at": "2026-07-05T08:25:37.005015+00:00"
+    },
+    {
       "key": "tmdb:movie:12104:movie_now_playing:1982-09-17",
       "dedupe_key": "tmdb:movie:12104",
       "media_type": "movie",
