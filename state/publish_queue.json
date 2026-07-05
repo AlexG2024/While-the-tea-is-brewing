@@ -1,0 +1,127 @@
+{
+  "business_date": "2026-07-05",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1091,
+        "title": "Нечто",
+        "original_title": "The Thing",
+        "tagline": "«Предел инопланетного ужаса»",
+        "lead_actors": [
+          "Курт Рассел",
+          "Уилфорд Бримли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1982-06-25",
+        "popularity": 45.2481,
+        "overview": "Команде ученых американской исследовательской станции в Антарктике предстоит столкнуться с необъяснимым кошмаром. Отрезанные от остального мира полярники вступают в схватку с инопланетной тварью, способной принимать обличье земных существ.",
+        "genres": [
+          "ужасы",
+          "детектив",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/cxywW6Dl0IJfpywo8o9cqc4EApE.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1091",
+        "vote_average": 8.074,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 4086,
+        "title": "Кафе, закусочные и забегаловки",
+        "original_title": "Diners, Drive-Ins and Dives",
+        "tagline": null,
+        "lead_actors": [
+          "Гай Фиери"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2007-04-23",
+        "popularity": 20.872,
+        "overview": "Ведущий Гай Фиери отправляется в путешествие по стране, чтобы посетить некоторые из классических американских ресторанов быстрого питания — закусочные, рестораны с обслуживанием под открытым небом и забегаловки, — которые уже несколько десятилетий делают свое дело безупречно.",
+        "genres": [
+          "документальный",
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/fPpDR6kw8bA0iZ8a0dUbexVVzn3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/4086",
+        "vote_average": 6.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 55
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1083884,
+        "title": "Звёздный сигнал",
+        "original_title": "Signal One",
+        "tagline": null,
+        "lead_actors": [
+          "Изабель Фурман",
+          "Джош Хатчерсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-05",
+        "popularity": 39.4355,
+        "overview": "Миллиардер собирает на острове команду лучших ученых, чтобы установить связь с внеземной цивилизацией. Они отправляют сигнал в космос и получают ответ. Неизвестно, чем грозит человечеству пришествие расы, превосходящей его технически и ментально. Земля готовится встретить гостей с оружием в руках.",
+        "genres": [
+          "детектив",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uD8ROzzpNDPTXg5RhwzzRf6Ql39.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1083884",
+        "vote_average": 6.7,
+        "runtime_minutes": 112,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 497582,
+        "title": "Энола Холмс",
+        "original_title": "Enola Holmes",
+        "tagline": null,
+        "lead_actors": [
+          "Милли Бобби Браун",
+          "Генри Кавилл"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2020-09-23",
+        "popularity": 34.6385,
+        "overview": "В поисках пропавшей матери отважная девушка Энола Холмс использует свои детективные навыки, чтобы перехитрить старшего брата Шерлока и помочь беглому лорду.",
+        "genres": [
+          "приключения",
+          "детектив",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dj1CgfmgOm5Hj4rRyQMqdvO5x37.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/497582",
+        "vote_average": 7.223,
+        "runtime_minutes": 123,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
