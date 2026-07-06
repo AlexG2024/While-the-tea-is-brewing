@@ -20,6 +20,15 @@
       "published_at": "2026-06-13T13:07:21.844710+00:00"
     },
     {
+      "key": "tmdb:movie:429:movie_now_playing:1967-12-29",
+      "dedupe_key": "tmdb:movie:429",
+      "media_type": "movie",
+      "tmdb_id": 429,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1967-12-29",
+      "published_at": "2026-07-06T08:52:26.263629+00:00"
+    },
+    {
       "key": "tmdb:movie:238:movie_now_playing:1972-03-24",
       "dedupe_key": "tmdb:movie:238",
       "media_type": "movie",
