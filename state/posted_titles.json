@@ -1289,6 +1289,15 @@
       "published_at": "2026-06-17T12:40:09.319813+00:00"
     },
     {
+      "key": "tmdb:tv:127635:tv_on_the_air:2021-08-06",
+      "dedupe_key": "tmdb:tv:127635",
+      "media_type": "tv",
+      "tmdb_id": 127635,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2021-08-06",
+      "published_at": "2026-07-07T10:02:42.217789+00:00"
+    },
+    {
       "key": "tmdb:tv:133174:tv_on_the_air:2021-09-09",
       "dedupe_key": "tmdb:tv:133174",
       "media_type": "tv",
