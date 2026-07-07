@@ -1,0 +1,155 @@
+{
+  "business_date": "2026-07-07",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10997,
+        "title": "Прощай, моя наложница",
+        "original_title": "Farewell My Concubine",
+        "tagline": null,
+        "lead_actors": [
+          "張國榮",
+          "张丰毅"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1993-09-16",
+        "popularity": 37.8493,
+        "overview": "По роману Лилиан Ли. Китайская опера. Что это? Древние божества, цари и наложницы. Вечная притча о добре и зле, верности, любви и коварстве. Через столетия пронес китайский народ свои ценности. И вот череда лет с 20-х по 70-е. История двух актеров китайской оперы, сначала мальчиков, потом уже взрослых мужчин, проходит перед нами, история жертвенной, романтической любви.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/cJNXKybd4l8ILJ7sZTeiLdAIrZd.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10997",
+        "vote_average": 7.906,
+        "runtime_minutes": 171,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 127635,
+        "title": "Паучок и его удивительные друзья",
+        "original_title": "Spidey and His Amazing Friends",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-08-06",
+        "popularity": 24.7597,
+        "overview": "Юные люди-пауки Питер Паркер, Майлз Моралес и Гвен Стейси вместе с другими героями борются против злодеев.",
+        "genres": [
+          "мультфильм",
+          "Детский",
+          "НФ и Фэнтези",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/127635",
+        "vote_average": 7.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 27449,
+        "title": "Мордашка",
+        "original_title": "Baby Face",
+        "tagline": null,
+        "lead_actors": [
+          "Барбара Стэнвик",
+          "Георге Брент"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1933-07-13",
+        "popularity": 34.4147,
+        "overview": "Лили Пауэрс работает официанткой в баре собственного отца. Отец беспринципный человек, готовый ради выгоды продать и собственную дочь, что он и делает, заставляя ее уединяться с клиентами с 14 лет. Однажды ее отец погибает во время несчастного случая. Она решает с подружкой Чико уехать зайцами в товарном вагоне. Там их застает работник железной дороги и грозит сдать в полицию, но он сражен доступностью юной соблазнительницы. Попав в Нью-Йорк, девушка всеми правдами и неправдами сначала устраивается на работу, а потом активизирует свое восхождение наверх, не имея никакого опыта, но зато владея могучим оружием обольщения…",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ul4BLZAXepOQRwUtORmvEpZ4KW4.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/27449",
+        "vote_average": 7.2,
+        "runtime_minutes": 76,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 220998,
+        "title": "Квотербек",
+        "original_title": "Quarterback",
+        "tagline": null,
+        "lead_actors": [
+          "Бакер Майфиелд",
+          "Джайден Даниелс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-07-12",
+        "popularity": 9.7908,
+        "overview": "Выйдите с ними на поле и загляните в их дома — этот честный документальный сериал расскажет о жизни Патрика Махоумса, Кирка Казинса и Маркуса Мариоты во время сезона 2022/23.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/220998",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 438148,
+        "title": "Миньоны 2",
+        "original_title": "Minions: The Rise of Gru",
+        "tagline": "«Грядёт миньонотерапия»",
+        "lead_actors": [
+          "Стив Карелл",
+          "Пьер Коффен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2022-07-01",
+        "popularity": 30.3158,
+        "overview": "Миллион лет миньоны искали самого великого и ужасного предводителя, пока не встретили Грю. Пусть он ещё очень молод, но у него в планах по-настоящему гадкие дела, которые заставят планету содрогнуться.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "фантастика",
+          "криминал",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/19GXuePqcZSPD5JgT9MeVdeu9Tc.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/438148",
+        "vote_average": 7.263,
+        "runtime_minutes": 87,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
