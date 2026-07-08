@@ -776,6 +776,15 @@
       "published_at": "2026-07-01T11:45:59.982025+00:00"
     },
     {
+      "key": "tmdb:tv:65701:tv_on_the_air:2012-01-09",
+      "dedupe_key": "tmdb:tv:65701",
+      "media_type": "tv",
+      "tmdb_id": 65701,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2012-01-09",
+      "published_at": "2026-07-08T10:50:48.342319+00:00"
+    },
+    {
       "key": "tmdb:movie:24428:movie_now_playing:2012-05-04",
       "dedupe_key": "tmdb:movie:24428",
       "media_type": "movie",
