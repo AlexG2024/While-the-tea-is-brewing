@@ -1,0 +1,100 @@
+{
+  "business_date": "2026-07-10",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 807,
+        "title": "Семь",
+        "original_title": "Se7en",
+        "tagline": "«Он возомнил себя Богом и начал карать...»",
+        "lead_actors": [
+          "Морган Фримен",
+          "Брэд Питт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1995-09-22",
+        "popularity": 26.0071,
+        "overview": "Детектив Уильям Сомерсет — ветеран уголовного розыска, мечтающий уйти на пенсию и уехать подальше от города и его грешных обитателей. За семь дней до пенсии на Сомерсета сваливаются две неприятности: молодой напарник Миллс и особо изощренное убийство. Острый ум опытного следователя сразу определяет, что за этим преступлением, скорее всего, последуют другие.",
+        "genres": [
+          "криминал",
+          "детектив",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1e7WmKXLo6xqibkYBwwGWOcF43E.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/807",
+        "vote_average": 8.382,
+        "runtime_minutes": 127,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1087192,
+        "title": "Как приручить дракона",
+        "original_title": "How to Train Your Dragon",
+        "tagline": "«Легенда реальна»",
+        "lead_actors": [
+          "Мейсон Темз",
+          "Нико Паркер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-06-13",
+        "popularity": 25.6059,
+        "overview": "Подростку Иккингу не слишком близки традиции его героического племени, много лет ведущего войну с драконами. Парень неожиданно заводит дружбу с драконом Беззубиком, который поможет ему и другим викингам увидеть мир с совершенно другой стороны.",
+        "genres": [
+          "фэнтези",
+          "семейный",
+          "боевик",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hiLwtS68fCx9rd5GFK0QDqu4uBV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1087192",
+        "vote_average": 7.934,
+        "runtime_minutes": 125,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 855,
+        "title": "Падение черного ястреба",
+        "original_title": "Black Hawk Down",
+        "tagline": "«Спецназ не сдается. Он выполняет приказ или погибает»",
+        "lead_actors": [
+          "Джош Хартнетт",
+          "Эрик Бана"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2002-01-18",
+        "popularity": 24.8813,
+        "overview": "Сомали, 1993 год. Страна вымирает от голода, число жертв превысило триста тысяч человек. Миротворческие силы ООН пытаются восстановить порядок и организовать поставки продовольствия. В помощь им Вашингтон выслал полтысячи человек из элитных подразделений американской армии, знаменитые отряды «Дельта» и армейских рейнджеров.",
+        "genres": [
+          "боевик",
+          "военный",
+          "история"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pldx0WRjMNVUAEpGjObLhKz9kw3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/855",
+        "vote_average": 7.394,
+        "runtime_minutes": 144,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
