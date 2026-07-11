@@ -1,0 +1,97 @@
+{
+  "business_date": "2026-07-11",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 693134,
+        "title": "Дюна: Часть 2",
+        "original_title": "Dune: Part Two",
+        "tagline": "«Да здравствуют бесстрашные воители!»",
+        "lead_actors": [
+          "Тимоти Шаламе",
+          "Зендея"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-03-01",
+        "popularity": 29.4679,
+        "overview": "Герцог Пол Атрейдес присоединяется к фременам, чтобы стать Муад Дибом, одновременно пытаясь остановить наступление войны.",
+        "genres": [
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3aLghRkuJc9cs770fxo4a6YWht3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/693134",
+        "vote_average": 8.128,
+        "runtime_minutes": 166,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1305715,
+        "title": "Легенда навсегда",
+        "original_title": "Unexpected Family",
+        "tagline": null,
+        "lead_actors": [
+          "Джеки Чан",
+          "彭昱畅"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-02-06",
+        "popularity": 25.7364,
+        "overview": "Пенсионер Жэнь Цзицин, бывший тренер по тяжёлой атлетике, страдает болезнью Альцгеймера. Пенсионер по ошибке принимает своего арендатора Чжуна Буфаня, молодого парня из небольшого города, за сына, который много лет назад покинул его. Парню и его разношёрстной компании соседей приходится объединиться и притворяться, что они — родственники. Так незнакомцы, каждый из которых хранит по-своему тёмное прошлое, постепенно сближаются и становятся настоящей семьёй.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/rwdLcQeV9TB6Qc1JU0EC387bUQi.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1305715",
+        "vote_average": 6.825,
+        "runtime_minutes": 121,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 411088,
+        "title": "Невидимый гость",
+        "original_title": "The Invisible Guest",
+        "tagline": "«У каждой истории две стороны. Правда - только одна»",
+        "lead_actors": [
+          "Марио Касас",
+          "Ана Вахенер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2016-09-23",
+        "popularity": 25.6641,
+        "overview": "Молодого бизнесмена Адриана Дориа обвиняют в убийстве любовницы, и он решает воспользоваться услугами Вирджинии Гудман, лучшего в стране специалиста по выходу из самых сложных ситуаций. Адриан содержится под домашним арестом, а завтра состоится судебное заседание, поэтому вечером к нему приходит Вирджиния, чтобы придумать наилучшую стратегию защиты. Для неё это последнее дело, и она не собирается его проигрывать.",
+        "genres": [
+          "драма",
+          "детектив",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/51pl9F6V5Bqga8QoEfun8PmjCJl.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/411088",
+        "vote_average": 8.08,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
