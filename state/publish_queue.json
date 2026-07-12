@@ -1,0 +1,96 @@
+{
+  "business_date": "2026-07-12",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1368314,
+        "title": "Пассажир",
+        "original_title": "Passenger",
+        "tagline": "«Не садитесь за руль ночью и ни в коем случае не останавливайтесь»",
+        "lead_actors": [
+          "Лу Льобелл",
+          "Джейкоб Скипио"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-22",
+        "popularity": 264.1156,
+        "overview": "Через несколько недель после начала жизни в доме на колёсах молодая пара становится свидетелями страшной аварии, в которой погибает водитель. Вскоре их начинает преследовать демоническая сущность, от которой невозможно уйти — куда бы они ни отправились, она следует за ними.",
+        "genres": [
+          "ужасы",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/grlCRoCv2uT7WGvpkWSKxjPPVqc.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1368314",
+        "vote_average": 6.788,
+        "runtime_minutes": 94,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 950028,
+        "title": "Приглашение",
+        "original_title": "The Invite",
+        "tagline": "«Будет весело»",
+        "lead_actors": [
+          "Сет Роген",
+          "Оливия Уайлд"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-10",
+        "popularity": 29.386,
+        "overview": "Отношения Джо и Анджелы уже не так искрят, как раньше. Желая получить яркие впечатления, Анджела приглашает в гости соседей — эффектную пару, отношения которых, наоборот, полны страсти, судя по громким стонам из их квартиры. Но вечер идет не по плану — светская беседа очень быстро меняет направление, ведь дерзкие соседи выступают с весьма необычным предложением.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7CrrtqCpZmJsosektfOsakY2fMz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/950028",
+        "vote_average": 7.924,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 694,
+        "title": "Сияние",
+        "original_title": "The Shining",
+        "tagline": "«Этот ужас сводит его с ума»",
+        "lead_actors": [
+          "Джек Николсон",
+          "Шелли Дюваль"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1980-06-13",
+        "popularity": 25.28,
+        "overview": "Во время сезонного затишья безлюдный и зловещий отель сводит с ума Джека Торранса, который держит в страхе жену и маленького сына.",
+        "genres": [
+          "ужасы",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bu3Qb0fpAFtTLcRAPgj8bK5KrIG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/694",
+        "vote_average": 8.203,
+        "runtime_minutes": 144,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
