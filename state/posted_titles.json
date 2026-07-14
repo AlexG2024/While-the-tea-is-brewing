@@ -848,6 +848,15 @@
       "published_at": "2026-05-07T19:50:45.193080+00:00"
     },
     {
+      "key": "tmdb:movie:109428:movie_now_playing:2013-04-05",
+      "dedupe_key": "tmdb:movie:109428",
+      "media_type": "movie",
+      "tmdb_id": 109428,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2013-04-05",
+      "published_at": "2026-07-14T07:43:25.445709+00:00"
+    },
+    {
       "key": "tmdb:tv:44953:tv_on_the_air:2013-04-15",
       "dedupe_key": "tmdb:tv:44953",
       "media_type": "tv",
