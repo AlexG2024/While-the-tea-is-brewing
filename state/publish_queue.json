@@ -1,0 +1,127 @@
+{
+  "business_date": "2026-07-14",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 109428,
+        "title": "Зловещие мертвецы: Черная книга",
+        "original_title": "Evil Dead",
+        "tagline": null,
+        "lead_actors": [
+          "Джейн Леви",
+          "Шайло Фернандес"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2013-04-05",
+        "popularity": 32.1608,
+        "overview": "Главный герой отвозит свою младшую сестру в лесной домик для того, чтобы помочь ей избавиться от наркотической зависимости. Оказавшись без «дури», девушка буквально сходит с ума, из-за чего становится невозможно определить, почему она ведет себя именно так: из-за ломки или же благодаря деятельности обитателей «Книги мертвых». Особенно после того, как один из ее приятелей прочел вслух отрывок из этой самой книги.",
+        "genres": [
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yTsMIHkblkk5MbC5dL9QRPHQ5hM.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/109428",
+        "vote_average": 6.62,
+        "runtime_minutes": 80,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 2122,
+        "title": "Царь горы",
+        "original_title": "King of the Hill",
+        "tagline": null,
+        "lead_actors": [
+          "Майк Джадж",
+          "Кэти Наджими"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1997-01-12",
+        "popularity": 54.8222,
+        "overview": "Байки из жизни отдельного человеческого вида — «техасца обыкновенного». Представители: Хэнк Хилл — простой обыватель и глава семейства, его жена Пегги — учительница, сын Бобби — вступающий в период полового созревания толстяк и племянница Луанна, постоянно разбрасывающая где попало свое нижнее белье.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yNl7Em98p11KQfSo2EPP2vitz5H.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/2122",
+        "vote_average": 7.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 15
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 12153,
+        "title": "Белые цыпочки",
+        "original_title": "White Chicks",
+        "tagline": "«Они работают под глубоким прикрытием»",
+        "lead_actors": [
+          "Шон Уэйанс",
+          "Марлон Уэйанс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2004-06-23",
+        "popularity": 27.583,
+        "overview": "2 агента ФБР получают непростое задание - защитить наследниц влиятельной семьи, которым угрожает опасность. Когда операция оказывается под угрозой срыва, они идут на отчаянный шаг: с помощью грима и перевоплощения сами занимают место девушек. Оказавшись в мире роскошных вечеринок, моды и светской жизни, напарники пытаются сохранить свою легенду, одновременно расследуя преступление. Но чем дольше они играют чужие роли, тем сложнее становится скрывать свою настоящую личность, что приводит к череде нелепых, неожиданных и очень смешных ситуаций.",
+        "genres": [
+          "комедия",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/u2kRTtD9YacSJH0tg9GZfrrKvMv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/12153",
+        "vote_average": 6.953,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 324786,
+        "title": "По соображениям совести",
+        "original_title": "Hacksaw Ridge",
+        "tagline": "«Основано на реальной истории»",
+        "lead_actors": [
+          "Эндрю Гарфилд",
+          "Сэм Уортингтон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2016-11-04",
+        "popularity": 26.6014,
+        "overview": "Медик американской армии времён Второй мировой войны Десмонд Досс, который служил во время битвы за Окинаву, отказывается убивать людей и становится первым идейным уклонистом в американской истории, удостоенным Медали Почёта.",
+        "genres": [
+          "драма",
+          "история",
+          "военный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/A4Q3CdaQzbPwDI1gnE7WX5585rJ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/324786",
+        "vote_average": 8.192,
+        "runtime_minutes": 139,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
