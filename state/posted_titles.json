@@ -308,6 +308,15 @@
       "published_at": "2026-06-09T08:52:05.877899+00:00"
     },
     {
+      "key": "tmdb:tv:2122:tv_on_the_air:1997-01-12",
+      "dedupe_key": "tmdb:tv:2122",
+      "media_type": "tv",
+      "tmdb_id": 2122,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1997-01-12",
+      "published_at": "2026-07-14T09:29:25.613419+00:00"
+    },
+    {
       "key": "tmdb:movie:597:movie_now_playing:1997-12-19",
       "dedupe_key": "tmdb:movie:597",
       "media_type": "movie",
