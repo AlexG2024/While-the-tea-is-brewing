@@ -560,6 +560,15 @@
       "published_at": "2026-05-22T18:12:09.533452+00:00"
     },
     {
+      "key": "tmdb:movie:11770:movie_now_playing:2004-04-02",
+      "dedupe_key": "tmdb:movie:11770",
+      "media_type": "movie",
+      "tmdb_id": 11770,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2004-04-02",
+      "published_at": "2026-07-15T08:30:35.421150+00:00"
+    },
+    {
       "key": "tmdb:movie:673:movie_now_playing:2004-06-04",
       "dedupe_key": "tmdb:movie:673",
       "media_type": "movie",
