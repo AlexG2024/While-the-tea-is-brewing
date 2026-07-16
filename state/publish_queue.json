@@ -1,0 +1,129 @@
+{
+  "business_date": "2026-07-16",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1397201,
+        "title": "Золотое божество: Нападение на тюрьму Абасири",
+        "original_title": "Golden Kamuy -The Abashiri Prison Raid-",
+        "tagline": null,
+        "lead_actors": [
+          "Кэнто Ямадзаки",
+          "Анна Ямада"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-13",
+        "popularity": 29.0343,
+        "overview": "Сюжет фокусируется на одной из самых культовых и напряженных арок истории — штурме тюрьмы Абасири. Главные герои, ветеран русско-японской войны Саити «Бессмертный» Сугимото и юная девушка-айну Асирпа, отправляются прямиком в укрепленную тюрьму. Их цель — найти загадочного заключенного Ноппэра-бо, который скрывает тайну золота айнов и может оказаться отцом Асирпы. На пути к истине им предстоит столкнуться в жестоком трехстороннем противостоянии с беглыми смертниками и безжалостной 7-й дивизией императорской армии под командованием лейтенанта Цуруми.",
+        "genres": [
+          "боевик",
+          "драма",
+          "история",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/lcBrjK1mnPrrpLk6VtlVMMCfsLS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1397201",
+        "vote_average": 8.455,
+        "runtime_minutes": 124,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 240993,
+        "title": "Рансом-Каньон",
+        "original_title": "Ransom Canyon",
+        "tagline": null,
+        "lead_actors": [
+          "Джош Дюамель",
+          "Минка Келли"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-04-17",
+        "popularity": 5.6205,
+        "overview": "В маленьком техасском городке кипят нешуточные страсти: три династии, проживающие на своих ранчо, борются за земельные владения, наследство и любимых людей.",
+        "genres": [
+          "драма",
+          "вестерн"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/240993",
+        "vote_average": 7.026,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1317288,
+        "title": "Марти Великолепный",
+        "original_title": "Marty Supreme",
+        "tagline": "«Мечтай по-крупному»",
+        "lead_actors": [
+          "Тимоти Шаламе",
+          "Гвинет Пэлтроу"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-12-25",
+        "popularity": 26.1409,
+        "overview": "Молодой амбициозный парень Марти Маузер готов пойти на всё ради осуществления своей мечты, чтобы доказать всему миру, что для него нет ничего невозможного.",
+        "genres": [
+          "драма",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xvAZbVxTqT3MFBcGcay1ErVdR6k.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+        "vote_average": 7.4,
+        "runtime_minutes": 149,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 181808,
+        "title": "Звездные войны: Эпизод 8",
+        "original_title": "Star Wars: The Last Jedi",
+        "tagline": "«Пусть прошлое умрёт»",
+        "lead_actors": [
+          "Марк Хэмилл",
+          "Кэрри Фишер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2017-12-15",
+        "popularity": 25.8659,
+        "overview": "Новая история о противостоянии света и тьмы, добра и зла начинается после гибели Хана Соло. В Галактике, где Первый Орден и Сопротивление яростно сражаются друг с другом в войне, героиня Рей пробудила в себе Силу. Но что произойдет, когда она встретится с единственным оставшимся в живых рыцарем-джедаем - Люком Скайуокером? Кайло Рен перешел на Темную сторону Силы и убил собственного отца, заняв высокую позицию в Первом Ордене. Но куда приведут его неуемные амбиции, подаренные по наследству грозным дедом Дартом Вейдером? Ситуация обострится еще больше, когда мать Кайло, лидер Сопротивления Лея, вместе с По, Финном и BB-8 приступит к новой миссии.",
+        "genres": [
+          "приключения",
+          "боевик",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1vwfcOhwZGLfQXVRLfC3jOnU9jq.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/181808",
+        "vote_average": 6.7,
+        "runtime_minutes": 152,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
