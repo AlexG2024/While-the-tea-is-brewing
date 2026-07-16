@@ -2009,6 +2009,15 @@
       "published_at": "2026-05-04T19:08:36.357139+00:00"
     },
     {
+      "key": "tmdb:tv:240993:tv_on_the_air:2025-04-17",
+      "dedupe_key": "tmdb:tv:240993",
+      "media_type": "tv",
+      "tmdb_id": 240993,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2025-04-17",
+      "published_at": "2026-07-16T10:26:26.319415+00:00"
+    },
+    {
       "key": "tmdb:movie:1233413:movie_now_playing:2025-04-18",
       "dedupe_key": "tmdb:movie:1233413",
       "media_type": "movie",
