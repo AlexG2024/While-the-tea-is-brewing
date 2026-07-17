@@ -1,0 +1,154 @@
+{
+  "business_date": "2026-07-17",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 414906,
+        "title": "Бэтмен",
+        "original_title": "The Batman",
+        "tagline": null,
+        "lead_actors": [
+          "Роберт Паттинсон",
+          "Зои Кравиц"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2022-03-04",
+        "popularity": 24.9725,
+        "overview": "После двух лет поисков правосудия на улицах Готэма для своих сограждан Бэтмен становится олицетворением беспощадного возмездия. Когда в городе происходит серия жестоких нападений на представителей элиты, загадочные улики приводят Брюса Уэйна в самые темные закоулки преступного мира, где он встречает Женщину-Кошку, Пингвина, Кармайна Фальконе и Загадочника. Теперь под прицелом оказывается сам Бэтмен, которому предстоит отличить друга от врага и восстановить справедливость во имя Готэма.",
+        "genres": [
+          "криминал",
+          "детектив",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3EXgl14Wmr5NcbYnBy1kavGHnvh.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/414906",
+        "vote_average": 7.7,
+        "runtime_minutes": 176,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 59186,
+        "title": "Невозможные шутники",
+        "original_title": "Impractical Jokers",
+        "tagline": null,
+        "lead_actors": [
+          "Бриан Квинн",
+          "Джамес Муррай"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2011-12-15",
+        "popularity": 11.2622,
+        "overview": "Кью, Сал, Джо и Мурр — лучшие друзья, которые любят кидать друг другу вызовы на совершение самых невероятных трюков, когда-либо записанных на скрытую камеру.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tRLj19YXH9GPiaqlU7GwWyd6G5K.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/59186",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 13
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 26466,
+        "title": "Треугольник",
+        "original_title": "Triangle",
+        "tagline": "«Леденящий ужас на волнах»",
+        "lead_actors": [
+          "Мелисса Джордж",
+          "Лиам Хэмсворт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2010-02-02",
+        "popularity": 17.3193,
+        "overview": "Грег приглашает свою подругу Джесс, молодую мать-одиночку, провести день на яхте в кругу своих друзей. Начавшийся сильный шторм переворачивает судно, и оставшиеся в живых вынуждены дожидаться помощи, цепляясь за перевернутый корпус яхты. Спасение приходит в виде огромного океанического лайнера. Судно оказывается пустым, часы на борту остановились. Но они не одни на этом огромном корабле — за ними кто-то неустанно следит…",
+        "genres": [
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7istmLmM2kLjwDiQVhfvIpaJrzs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/26466",
+        "vote_average": 6.919,
+        "runtime_minutes": 99,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 103516,
+        "title": "Звёздный путь: Странные новые миры",
+        "original_title": "Star Trek: Strange New Worlds",
+        "tagline": "«Неизведанное ждёт»",
+        "lead_actors": [
+          "Енсон Маунт",
+          "Итан Пек"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2022-05-05",
+        "popularity": 10.8069,
+        "overview": "Первый экипаж знаменитого корабля Звездного флота «Энтерпрайз» отправляется в опасное путешествие по галактике в поисках новых неизведанных миров.",
+        "genres": [
+          "НФ и Фэнтези",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/57kdiCEk9k3LmNjXKn97g87c3Qp.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/103516",
+        "vote_average": 7.954,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 764,
+        "title": "Зловещие мертвецы",
+        "original_title": "The Evil Dead",
+        "tagline": "Невероятный опыт изнурительного ужаса",
+        "lead_actors": [
+          "Брюс Кэмпбелл",
+          "Еллен Сандвеисс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1981-10-15",
+        "popularity": 16.2718,
+        "overview": "Молодые люди снимают на выходные загородный дом. Находится он в непролазной глуши, выглядит мрачно, а кругом — ни души. Раньше здесь жил археолог, после которого в подвале остались различные мистические артефакты. Например, книга мертвых, предметы неизвестных магических культов и магнитофон с записью заклинания на непонятном языке. Ребята запись прослушали и с наступлением темноты им предстоит встретиться с духами, которых они разбудили.",
+        "genres": [
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4LZJmrfg1U3ROBpaADB45cQuxgQ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/764",
+        "vote_average": 7.275,
+        "runtime_minutes": 90,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
