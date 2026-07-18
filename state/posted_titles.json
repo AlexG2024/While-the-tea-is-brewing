@@ -200,6 +200,15 @@
       "published_at": "2026-06-14T13:08:01.314431+00:00"
     },
     {
+      "key": "tmdb:movie:619:movie_now_playing:1992-11-25",
+      "dedupe_key": "tmdb:movie:619",
+      "media_type": "movie",
+      "tmdb_id": 619,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1992-11-25",
+      "published_at": "2026-07-18T07:15:14.365383+00:00"
+    },
+    {
       "key": "tmdb:movie:11012:movie_now_playing:1992-12-02",
       "dedupe_key": "tmdb:movie:11012",
       "media_type": "movie",
