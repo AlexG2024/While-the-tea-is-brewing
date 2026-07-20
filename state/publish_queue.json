@@ -1,0 +1,97 @@
+{
+  "business_date": "2026-07-20",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1468683,
+        "title": "Трепет сердца навсегда",
+        "original_title": "Heartstopper Forever",
+        "tagline": null,
+        "lead_actors": [
+          "Кит Коннор",
+          "Джо Лок"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-17",
+        "popularity": 53.1957,
+        "overview": "В школе Труэм-Хиггс начинается новый учебный год. Отношения Ника и Чарли крепнут, и они начинают задумываться о том, что будет после последнего звонка.",
+        "genres": [
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1BcChw4KSnOhrQRvoRdIaEnW3kz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1468683",
+        "vote_average": 6.736,
+        "runtime_minutes": 114,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 68726,
+        "title": "Тихоокеанский рубеж",
+        "original_title": "Pacific Rim",
+        "tagline": "«Чтобы сражаться с монстрами, мы создали монстров»",
+        "lead_actors": [
+          "Чарли Ханнэм",
+          "Ринко Кикути"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2013-07-12",
+        "popularity": 24.1999,
+        "overview": "Когда из морских глубин поднялись легионы чудовищ, известных как кайдзю, началась война, которой суждено было забрать миллионы жизней и свести «человеческие ресурсы» почти к нулю всего за несколько лет. Чтобы сражаться с пришельцами, было создано специальное оружие: огромные роботы, названные егерями, они управлялись одновременно двумя пилотами, чьи сознания соединены с помощью нейронной связи. Но даже егеря оказываются почти бессильны перед лицом безжалостных кайдзю. На грани поражения у защитников человечества нет выбора, кроме как обратиться к двум весьма сомнительным героям – никому не нужному бывшему пилоту и неопытному стажеру – которые объединились, чтобы повести в бой некогда легендарного, но сейчас устаревшего егеря. Вместе они оказываются единственной надеждой человечества, последним препятствием перед надвигающимся апокалипсисом.",
+        "genres": [
+          "боевик",
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/jwdJ3iy8rwJjvPOtCdtR17mzMVR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/68726",
+        "vote_average": 6.935,
+        "runtime_minutes": 131,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 270303,
+        "title": "Оно следует за тобой",
+        "original_title": "It Follows",
+        "tagline": null,
+        "lead_actors": [
+          "Майка Монро",
+          "Кейр Гилкрист"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2015-03-27",
+        "popularity": 23.8632,
+        "overview": "После ночи с парнем Джей оказывается в ловушке проклятия — нечто начинает преследовать её и подбирается всё ближе. Единственный способ спастись — постоянно убегать или передать проклятие другому.",
+        "genres": [
+          "ужасы",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/jNoIHWis8hbltUpthcn7CeoZh9c.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/270303",
+        "vote_average": 6.583,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
