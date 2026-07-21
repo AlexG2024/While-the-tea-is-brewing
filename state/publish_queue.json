@@ -1,0 +1,128 @@
+{
+  "business_date": "2026-07-21",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 950396,
+        "title": "Ущелье",
+        "original_title": "The Gorge",
+        "tagline": "Их разделяет страшная тайна.",
+        "lead_actors": [
+          "Майлз Теллер",
+          "Аня Тейлор-Джой"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-02-13",
+        "popularity": 22.9314,
+        "overview": "Два агента высшей квалификации сближаются, когда их назначают охранять противоположные стороны загадочного ущелья. Зло, таящееся на дне ущелья, вырывается наружу, и они должны объединиться, чтобы выжить.",
+        "genres": [
+          "мелодрама",
+          "фантастика",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yiUINsMKnemBFcUHqpv94yJolWH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/950396",
+        "vote_average": 7.7,
+        "runtime_minutes": 128,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 194583,
+        "title": "Ходячие мертвецы: Мертвый город",
+        "original_title": "The Walking Dead: Dead City",
+        "tagline": "«Держи врагов близко»",
+        "lead_actors": [
+          "Лорен Коэн",
+          "Джеффри Дин Морган"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-06-18",
+        "popularity": 14.0032,
+        "overview": "Сына Мэгги похитили, и женщина просит Нигана, который когда-то убил ее мужа, отправиться с ней в Нью-Йорк на поиски. На Манхэттене они сталкиваются с необычной общиной выживших, а также новыми типами зомби.",
+        "genres": [
+          "Боевик и Приключения",
+          "драма",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zNg0WpDHk9V0YoUD4BGAVDNVViz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/194583",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 138843,
+        "title": "Заклятие",
+        "original_title": "The Conjuring",
+        "tagline": "«Основано на реальной истории Уорренов»",
+        "lead_actors": [
+          "Вера Фармига",
+          "Патрик Уилсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2013-07-19",
+        "popularity": 22.6012,
+        "overview": "Эд и Лоррейн Уоррены — детективы, которые расследуют паранормальные дела. Однажды к ним обращается семья, страдающая от злого духа. Уоррены, вынужденные сражаться с могущественной демонической сущностью, сталкиваются с самым пугающим случаем в своей жизни.",
+        "genres": [
+          "ужасы",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dq99MpZPTpHOFaZCGvYz3o2uwQk.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/138843",
+        "vote_average": 7.541,
+        "runtime_minutes": 112,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1397485,
+        "title": "Девушки любят девушек",
+        "original_title": "Girls Like Girls",
+        "tagline": null,
+        "lead_actors": [
+          "Майа да Коста",
+          "Мира Моллой"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-19",
+        "popularity": 21.5942,
+        "overview": "17-летняя Коули из сельской местности Орегона пытается разобраться, что значит для нее близость после смерти матери. Встреча с девушкой по имени Соня пробуждает у нее новые чувства, но неуверенность в себе мешает им сблизиться. Соня, не имеющая опыта в отношениях с девушками, чувствует себя неуверенно. Девушкам приходится учиться принимать свои эмоции.",
+        "genres": [
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/aANbEw3novdS2gzsOHRo8bqKmdw.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1397485",
+        "vote_average": 7.1,
+        "runtime_minutes": 95,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
