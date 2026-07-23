@@ -1,0 +1,125 @@
+{
+  "business_date": "2026-07-23",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1318621,
+        "title": "Наследники: Злодейская Страна Чудес",
+        "original_title": "Descendants: Wicked Wonderland",
+        "tagline": null,
+        "lead_actors": [
+          "Килие Кантралл",
+          "Малиа Бакер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-17",
+        "popularity": 198.058,
+        "overview": "Действие разворачивается в современной Стране Чудес, которая принимает Игры Кубка Королевства Аурадон. Главные героини — Рэд (дочь Червонной Королевы) и Хлоя Шарминг (дочь Золушки) — сталкиваются с опасными последствиями своих прошлых путешествий во времени. Хаотичные изменения временной линии приводят к неожиданным результатам, и в Стране Чудес объявляется новый коварный злодей, пытающийся захватить власть. Чтобы спасти королевство и исправить свои ошибки, Рэд и Хлое приходится объединиться с самыми неожиданными союзниками.",
+        "genres": [
+          "фэнтези",
+          "семейный",
+          "телевизионный фильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mLooJ8vkOKzKiLhHQ6foYzedZtg.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1318621",
+        "vote_average": 7.75,
+        "runtime_minutes": 98,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 212989,
+        "title": "LEGO Ниндзяго: восстание драконов",
+        "original_title": "LEGO Ninjago: Dragons Rising",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-06-01",
+        "popularity": 37.8051,
+        "overview": "Два подростка из разных миров используют недавно обретенные способности ниндзя для защиты драконов с магической жизненной силой от злодеев.",
+        "genres": [
+          "мультфильм",
+          "Детский",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/212989",
+        "vote_average": 8.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 823219,
+        "title": "Течение",
+        "original_title": "Flow",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-12-06",
+        "popularity": 30.8811,
+        "overview": "Кот просыпается в мире, погруженном в воду, где не осталось людей. Ему удается найти убежище на лодке вместе с другими животными, однако ужиться с ними оказывается ещё сложнее, чем преодолеть свой страх воды. Но каждому предстоит научиться жить с теми, кто отличается от них, и адаптироваться к новому дивному миру.",
+        "genres": [
+          "приключения",
+          "мультфильм",
+          "семейный",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/aaYXE9KZ8yea47OxZeFHvHU6Cqg.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/823219",
+        "vote_average": 8.076,
+        "runtime_minutes": 85,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 31649,
+        "title": "Принцесса-вампир Мию",
+        "original_title": "Vampire Princess Miyu",
+        "tagline": null,
+        "lead_actors": [
+          "渡辺菜生子",
+          "Масато Кубота"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1988-07-21",
+        "popularity": 30.557,
+        "overview": "Эта исполненная ужаса, мрачная история расскажет о девушке-вампире Мию, которая на протяжении уже многих лет ищет кровожадных демонов, известных как шинма, чтобы потом отправить их домой — во тьму. И вот, однажды, во время преследования очередного демона, Мию встречает девушку-медиума Химико.",
+        "genres": [
+          "фэнтези",
+          "мультфильм",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9E1MuQIu4KCY8LbH1k5aw7GkrKG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/31649",
+        "vote_average": 6.8,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
