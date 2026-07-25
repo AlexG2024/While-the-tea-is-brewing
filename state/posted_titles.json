@@ -146,6 +146,15 @@
       "published_at": "2026-06-22T07:40:35.664361+00:00"
     },
     {
+      "key": "tmdb:tv:15871:tv_on_the_air:1988-07-17",
+      "dedupe_key": "tmdb:tv:15871",
+      "media_type": "tv",
+      "tmdb_id": 15871,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1988-07-17",
+      "published_at": "2026-07-25T10:12:29.108092+00:00"
+    },
+    {
       "key": "tmdb:movie:31649:movie_now_playing:1988-07-21",
       "dedupe_key": "tmdb:movie:31649",
       "media_type": "movie",
