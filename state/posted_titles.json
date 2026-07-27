@@ -1883,6 +1883,15 @@
       "published_at": "2026-06-27T14:46:04.444197+00:00"
     },
     {
+      "key": "tmdb:tv:113962:tv_on_the_air:2023-07-23",
+      "dedupe_key": "tmdb:tv:113962",
+      "media_type": "tv",
+      "tmdb_id": 113962,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2023-07-23",
+      "published_at": "2026-07-27T15:58:06.375445+00:00"
+    },
+    {
       "key": "tmdb:movie:614930:movie_now_playing:2023-08-02",
       "dedupe_key": "tmdb:movie:614930",
       "media_type": "movie",
