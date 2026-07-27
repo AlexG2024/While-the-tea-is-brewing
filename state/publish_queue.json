@@ -1,0 +1,157 @@
+{
+  "business_date": "2026-07-27",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1630409,
+        "title": "Коллектор",
+        "original_title": "The Debt Collector",
+        "tagline": null,
+        "lead_actors": [
+          "ณเดชน์ คูกิมิยะ",
+          "พิทยา แซ่ฉั่ว"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-23",
+        "popularity": 214.3933,
+        "overview": "У бывшего подпольного коллектора Нума осталось всего несколько месяцев жизни - врачи поставили ему смертельный диагноз. Отчаянно пытаясь искупить вину за своё кровавое прошлое, он решает защищать простых людей, попавших в долговое рабство к безжалостным «чёрным» кредиторам. Однако его благородный порыв оборачивается кровавой бойней: он переходит дорогу По - жестокому и амбициозному сыну могущественного мафиозного босса. Так начинается беспощадная уличная война, в которой Нуму уже нечего терять...",
+        "genres": [
+          "боевик",
+          "триллер",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1630409",
+        "vote_average": 6.821,
+        "runtime_minutes": 134,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 287620,
+        "title": "Стюарт Блум не смог спасти вселенную",
+        "original_title": "Stuart Fails to Save the Universe",
+        "tagline": null,
+        "lead_actors": [
+          "Кевин Сассмэн",
+          "Лорен Лапкус"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-07-23",
+        "popularity": 81.5872,
+        "overview": "Владелец магазина комиксов устраивает апокалипсис в нескольких измерениях. Спин-офф «Теории большого взрыва»& Владелец магазина комиксов Стюарт Блум должен восстановить реальность после того, как он сломал построенное Шелдоном и Леонардом устройство, случайно вызвав Армагеддон мультивселенной. Стюарту в этом деле помогают его девушка Дениз, друг-геолог Берт и дотошный квантовый физик Барри Крипке.",
+        "genres": [
+          "комедия",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/q85riCL9XVJgL0bNigtVnY75G3n.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/287620",
+        "vote_average": 9.043,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1382832,
+        "title": "Пасть",
+        "original_title": "Hungry",
+        "tagline": "«Большой. Быстрый. Смертоносный»",
+        "lead_actors": [
+          "Мэдисон Девенпорт",
+          "Трэйси Боннер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-03",
+        "popularity": 70.0734,
+        "overview": "Группа туристов отправляется в круиз по озёрам Луизианы. Желая увидеть диких животных в естественной среде, они отклоняются от маршрута и встречают агрессивного и очень быстрого гиппопотама весом в 4 тонны. Лодка сломана, помощи ждать неоткуда, а путешествие превращается в борьбу за выживание.",
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/shPotnPZdzmoN0ZrmT2j8EvHknD.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1382832",
+        "vote_average": 6.826,
+        "runtime_minutes": 93,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 113962,
+        "title": "Спецназ: Львица",
+        "original_title": "Lioness",
+        "tagline": null,
+        "lead_actors": [
+          "Зои Салдана",
+          "Лайсла Де Оливейра"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-07-23",
+        "popularity": 81.1918,
+        "overview": "Шпионский триллер, главной героиней которой является Джо. Она — военнослужащая, стоящая во главе спецотряда, состоящего из женщин-военных, которых обучают и внедряют в террористические и криминальные сети по всему миру. На этот раз им необходимо выполнить опасную миссию и предотвратить теракт на территории США. Чтобы это задание было успешно завершено, Джо нужно найти общий язык с рейдером морской пехоты Круз Мануэлос, чтобы та завела дружбу с дочкой террориста, за которым ведет охоту ЦРУ…",
+        "genres": [
+          "драма",
+          "Война и Политика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yWOwT5xlwdIsboOa3f20jpfxaQK.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/113962",
+        "vote_average": 7.998,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1595852,
+        "title": "Бульвар",
+        "original_title": "Boulevard",
+        "tagline": null,
+        "lead_actors": [
+          "Ева Райан",
+          "Микел Нисо"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-01",
+        "popularity": 65.629,
+        "overview": "Когда Хэсли переезжает в новый город со своей матерью, меньше всего она ожидает встретить Люка — молодого человека, окутанного опасной аурой и имеющего трагическое прошлое. Вместе Хэсли и Люк создают свой собственный мир — тайное убежище, где могут быть самими собой, воплощать в жизнь несбыточные мечты, осмеливаться любить, несмотря на предрассудки, боль и шрамы, которые они несут в себе.",
+        "genres": [
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/qAYDwaHwjeUiPkYOj73EgrY0lNQ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1595852",
+        "vote_average": 7.5,
+        "runtime_minutes": 115,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
