@@ -380,6 +380,15 @@
       "published_at": "2026-04-26T18:28:54.141328+00:00"
     },
     {
+      "key": "tmdb:tv:615:tv_on_the_air:1999-03-28",
+      "dedupe_key": "tmdb:tv:615",
+      "media_type": "tv",
+      "tmdb_id": 615,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1999-03-28",
+      "published_at": "2026-07-28T09:43:38.473015+00:00"
+    },
+    {
       "key": "tmdb:movie:603:movie_now_playing:1999-03-31",
       "dedupe_key": "tmdb:movie:603",
       "media_type": "movie",
