@@ -497,6 +497,15 @@
       "published_at": "2026-06-01T18:45:18.817268+00:00"
     },
     {
+      "key": "tmdb:tv:12940:tv_on_the_air:2001-08-01",
+      "dedupe_key": "tmdb:tv:12940",
+      "media_type": "tv",
+      "tmdb_id": 12940,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2001-08-01",
+      "published_at": "2026-07-28T15:39:12.300735+00:00"
+    },
+    {
       "key": "tmdb:movie:585:movie_now_playing:2001-11-02",
       "dedupe_key": "tmdb:movie:585",
       "media_type": "movie",
