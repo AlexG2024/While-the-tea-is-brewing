@@ -884,6 +884,15 @@
       "published_at": "2026-04-29T17:51:22.032088+00:00"
     },
     {
+      "key": "tmdb:movie:12445:movie_now_playing:2011-07-15",
+      "dedupe_key": "tmdb:movie:12445",
+      "media_type": "movie",
+      "tmdb_id": 12445,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2011-07-15",
+      "published_at": "2026-07-29T16:50:38.222918+00:00"
+    },
+    {
       "key": "tmdb:movie:39254:movie_now_playing:2011-10-06",
       "dedupe_key": "tmdb:movie:39254",
       "media_type": "movie",
