@@ -740,6 +740,15 @@
       "published_at": "2026-06-15T07:01:00.994800+00:00"
     },
     {
+      "key": "tmdb:movie:1726:movie_now_playing:2008-05-02",
+      "dedupe_key": "tmdb:movie:1726",
+      "media_type": "movie",
+      "tmdb_id": 1726,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2008-05-02",
+      "published_at": "2026-07-29T13:27:27.509976+00:00"
+    },
+    {
       "key": "tmdb:movie:10681:movie_now_playing:2008-06-27",
       "dedupe_key": "tmdb:movie:10681",
       "media_type": "movie",
