@@ -1,0 +1,159 @@
+{
+  "business_date": "2026-07-29",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 102382,
+        "title": "Новый Человек-паук: Высокое напряжение",
+        "original_title": "The Amazing Spider-Man 2",
+        "tagline": "«Нет больше тайн»",
+        "lead_actors": [
+          "Эндрю Гарфилд",
+          "Эмма Стоун"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2014-05-02",
+        "popularity": 37.4775,
+        "overview": "Питер Паркер под маской Человека-паука по-прежнему спасает мир от злодеев и преступников, а свободное время проводит со своей возлюбленной Гвен, но школьная пора близится к концу, и впереди героев ждет взрослая жизнь. Питер помнит о том, что дал отцу Гвен слово навсегда уйти из жизни девушки, тем самым больше не подвергая ее опасности. Однако сдержать это обещание не так просто. Судьба готовит Питеру сюрпризы: на его пути появится новый противник — Электро, а также ему будет суждено вновь встретиться с давним приятелем Гарри Озборном и узнать много нового о прошлом своей семьи.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1uxtVgcQHUgD3vBOC56hioofnmU.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/102382",
+        "vote_average": 6.548,
+        "runtime_minutes": 142,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 97546,
+        "title": "Тед Лассо",
+        "original_title": "Ted Lasso",
+        "tagline": "Добрый тренер возвращается.",
+        "lead_actors": [
+          "Джейсон Судейкис",
+          "Ханна Уоддингем"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-08-14",
+        "popularity": 66.6162,
+        "overview": "Тренер по американскому футболу Тед Лассо неожиданно переезжает в Англию, чтобы возглавить профессиональный футбольный клуб, хотя почти ничего не знает о европейском футболе. Несмотря на скептицизм игроков, болельщиков и руководства, он покоряет окружающих своим оптимизмом, добротой и необычным подходом к работе. Постепенно Тед помогает команде стать сильнее не только на поле, но и за его пределами, пока каждый из её участников проходит собственный путь, сталкиваясь с трудностями, победами и важными жизненными переменами.",
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/htV1GTyatTXJB589hjiqUQPegjd.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/97546",
+        "vote_average": 8.342,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1726,
+        "title": "Железный человeк",
+        "original_title": "Iron Man",
+        "tagline": "«Героями не рождаются. Героями становятся.»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Терренс Ховард"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2008-05-02",
+        "popularity": 36.2935,
+        "overview": "Миллиардер изобретатель Тони Старк попадает в плен к Афганским террористам, которые пытаются заставить его создать оружие массового поражения. В тайне от своих захватчиков Старк конструирует высокотехнологичную киберброню, которая помогает ему сбежать. Однако по возвращению в США он узнаёт, что в совете директоров его фирмы плетётся заговор, чреватый страшными последствиями. Используя своё последнее изобретение, Старк пытается решить проблемы своей компании радикально…",
+        "genres": [
+          "боевик",
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wAKZudQn0HEXqLvaGN6BEripHbv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1726",
+        "vote_average": 7.7,
+        "runtime_minutes": 121,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 245026,
+        "title": "Волшебники за пределами Вэйверли Плэйс",
+        "original_title": "Wizards Beyond Waverly Place",
+        "tagline": null,
+        "lead_actors": [
+          "Джанике Леанн Бровн",
+          "Алкаио Тиеле"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-10-29",
+        "popularity": 29.7474,
+        "overview": "Сериал рассказывает о взрослом Джастине Руссо, который решил вести обычную, смертную жизнь со своей семьёй, Джадой, Романом и Майло. Когда сестра Джастина Алекс приводит в его дом Билли, требующую помощи, Джастин понимает, что ему придется воспользоваться своими магическими навыками, чтобы наставлять волшебника-стажёра, одновременно выполняя свои повседневные обязанности и защищая будущее Мира Волшебников.",
+        "genres": [
+          "комедия",
+          "НФ и Фэнтези",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zekFfF9ch0yjfKPiyOQW7v4T03Y.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/245026",
+        "vote_average": 8.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 12445,
+        "title": "Гарри Поттер и Дары Смерти: Часть II",
+        "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+        "tagline": "«Все закончится»",
+        "lead_actors": [
+          "Дэниел Рэдклифф",
+          "Эмма Уотсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2011-07-15",
+        "popularity": 34.1491,
+        "overview": "Битва между добрыми и злыми силами мира волшебников перерастает во всеобщую войну. Ставки ещё никогда не были так высоки, а поиск убежища — столь сложен. И, быть может, именно Гарри Поттеру придется пожертвовать всем в финальном сражении с Волан-де-Мортом.",
+        "genres": [
+          "приключения",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vOod9K0uygsACgtEDuwF5gqgpf7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/12445",
+        "vote_average": 8.081,
+        "runtime_minutes": 130,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
