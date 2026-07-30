@@ -290,6 +290,15 @@
       "published_at": "2026-05-20T08:45:44.123685+00:00"
     },
     {
+      "key": "tmdb:movie:101:movie_now_playing:1994-11-18",
+      "dedupe_key": "tmdb:movie:101",
+      "media_type": "movie",
+      "tmdb_id": 101,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1994-11-18",
+      "published_at": "2026-07-30T06:28:04.157181+00:00"
+    },
+    {
       "key": "tmdb:movie:807:movie_now_playing:1995-09-22",
       "dedupe_key": "tmdb:movie:807",
       "media_type": "movie",
