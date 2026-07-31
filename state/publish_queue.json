@@ -1,0 +1,156 @@
+{
+  "business_date": "2026-07-31",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1430698,
+        "title": "Бухта",
+        "original_title": "The Bay",
+        "tagline": null,
+        "lead_actors": [
+          "Франческа Иствуд",
+          "Дани Оливерос"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-17",
+        "popularity": 101.4777,
+        "overview": "Две подруги отдыхают в Таиланде и отправляются на экскурсию к заповедной лагуне. Но отпуск оборачивается кровавым кошмаром: катер терпит крушение, и девушки оказываются в ловушке, окруженные стаей тигровых акул.",
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1430698",
+        "vote_average": 6.679,
+        "runtime_minutes": 87,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 287238,
+        "title": "Яростная",
+        "original_title": "Furious",
+        "tagline": null,
+        "lead_actors": [
+          "Эмми Россум",
+          "Лола Петтикрев"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-07-27",
+        "popularity": 79.1971,
+        "overview": "Агент ФБР Элис Блэк (Эмми Россам), переживающая личную драму, начинает охоту за хладнокровной убийцей Кэтрин (Лола Петтикрю), чьи жертвы - исключительно состоятельные мужчины. В процессе расследования судьбы женщин тесно переплетаются, а грань между правосудием и преступлением стирается в напряженной игре в кошки-мышки.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/287238",
+        "vote_average": 6.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1481343,
+        "title": "Пасть дьявола",
+        "original_title": "The Devil's Mouth",
+        "tagline": "«Рай обладает аппетитом»",
+        "lead_actors": [
+          "Кэтрин Ньютон",
+          "Лана Кондор"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-29",
+        "popularity": 101.3617,
+        "overview": "Приключение компании друзей-студентов в Таиланде оборачивается смертельной ловушкой, когда они оказываются заперты в затопленных пещерах вместе с опасным хищником. В отчаянной борьбе, когда кислород оказывается на исходе, отношения в группе дают трещину.",
+        "genres": [
+          "ужасы",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tEmLFonKwjIALdw6IEHS9Q4nWe7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1481343",
+        "vote_average": 6.654,
+        "runtime_minutes": 106,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 199001,
+        "title": "Моя жизнь с мальчиками Уолтер",
+        "original_title": "My Life with the Walter Boys",
+        "tagline": null,
+        "lead_actors": [
+          "Никки Родригес",
+          "Ной ЛаЛонд"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-12-07",
+        "popularity": 30.6062,
+        "overview": "Трагедия заставляет девочку-подростка переехать в маленький городок и поселиться с большой семьей своей опекунши, усваивая новые уроки о любви, надежде и дружбе.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/2RsE6bh5ejmHRyb4BMupziiRlnL.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/199001",
+        "vote_average": 7.762,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 572802,
+        "title": "Аквамен и потерянное царство",
+        "original_title": "Aquaman and the Lost Kingdom",
+        "tagline": "«Правила меняются»",
+        "lead_actors": [
+          "Джейсон Момоа",
+          "Патрик Уилсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-12-22",
+        "popularity": 32.3029,
+        "overview": "Пока Аквамен пытается совмещать отцовство и работу царём подводного мира, Дэвид Хайд вынашивает план мести. Его исследовательская экспедиция обнаруживает трезубец проклятого и запертого во льдах повелителя потерянного царства — так Дэвид попадает под влияние его злых чар. Чтобы справиться с этой угрозой, Аквамену придётся помочь сбежать из тюрьмы младшему брату, которого он сам туда и посадил.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vJoMnbQjLo1e7yOtFPW1LyPL6qR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/572802",
+        "vote_average": 6.516,
+        "runtime_minutes": 124,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
