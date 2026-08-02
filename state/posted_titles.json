@@ -767,6 +767,15 @@
       "published_at": "2026-08-02T07:12:44.169628+00:00"
     },
     {
+      "key": "tmdb:movie:2062:movie_now_playing:2007-06-29",
+      "dedupe_key": "tmdb:movie:2062",
+      "media_type": "movie",
+      "tmdb_id": 2062,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2007-06-29",
+      "published_at": "2026-08-02T13:08:27.527728+00:00"
+    },
+    {
       "key": "tmdb:movie:675:movie_now_playing:2007-07-11",
       "dedupe_key": "tmdb:movie:675",
       "media_type": "movie",
