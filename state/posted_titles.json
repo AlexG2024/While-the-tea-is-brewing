@@ -20,6 +20,15 @@
       "published_at": "2026-05-10T16:32:14.136249+00:00"
     },
     {
+      "key": "tmdb:movie:802:movie_now_playing:1962-06-13",
+      "dedupe_key": "tmdb:movie:802",
+      "media_type": "movie",
+      "tmdb_id": 802,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1962-06-13",
+      "published_at": "2026-08-03T18:20:43.628912+00:00"
+    },
+    {
       "key": "tmdb:movie:61823:movie_now_playing:1964-01-31",
       "dedupe_key": "tmdb:movie:61823",
       "media_type": "movie",
