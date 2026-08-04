@@ -2495,6 +2495,15 @@
       "published_at": "2026-07-28T17:07:34.519539+00:00"
     },
     {
+      "key": "tmdb:movie:574475:movie_now_playing:2025-05-16",
+      "dedupe_key": "tmdb:movie:574475",
+      "media_type": "movie",
+      "tmdb_id": 574475,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2025-05-16",
+      "published_at": "2026-08-04T13:27:12.832256+00:00"
+    },
+    {
       "key": "tmdb:movie:575265:movie_now_playing:2025-05-23",
       "dedupe_key": "tmdb:movie:575265",
       "media_type": "movie",
