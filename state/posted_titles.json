@@ -1991,6 +1991,15 @@
       "published_at": "2026-06-26T11:11:19.257409+00:00"
     },
     {
+      "key": "tmdb:movie:447365:movie_now_playing:2023-05-05",
+      "dedupe_key": "tmdb:movie:447365",
+      "media_type": "movie",
+      "tmdb_id": 447365,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2023-05-05",
+      "published_at": "2026-08-05T08:48:41.749503+00:00"
+    },
+    {
       "key": "tmdb:movie:385687:movie_now_playing:2023-05-19",
       "dedupe_key": "tmdb:movie:385687",
       "media_type": "movie",
