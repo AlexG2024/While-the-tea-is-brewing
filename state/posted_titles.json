@@ -623,6 +623,15 @@
       "published_at": "2026-06-05T08:36:08.330488+00:00"
     },
     {
+      "key": "tmdb:movie:12:movie_now_playing:2003-05-30",
+      "dedupe_key": "tmdb:movie:12",
+      "media_type": "movie",
+      "tmdb_id": 12,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2003-05-30",
+      "published_at": "2026-08-05T13:00:35.646333+00:00"
+    },
+    {
       "key": "tmdb:movie:22:movie_now_playing:2003-07-09",
       "dedupe_key": "tmdb:movie:22",
       "media_type": "movie",
