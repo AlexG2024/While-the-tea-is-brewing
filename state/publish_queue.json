@@ -1,0 +1,185 @@
+{
+  "business_date": "2026-08-06",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1497463,
+        "title": "Всё, что мы потеряли",
+        "original_title": "All That We Never Were",
+        "tagline": null,
+        "lead_actors": [
+          "Маргарида Коркеиро",
+          "Макси Ыглесиас"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-04",
+        "popularity": 43.2618,
+        "overview": "После смерти родителей молодая начинающая художница Леа перестала мечтать, рисовать и радоваться жизни. Перед многомесячной командировкой в Берлин её брат просит своего лучшего друга Акселя временно приютить девушку, и тот становится единственным человеком, способным вернуть ей веру в себя. Постепенно между ними возникает особая связь, способная изменить их жизни раз и навсегда.",
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/5Yu8AOubBNcMVLStjy1TBqkxfXf.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1497463",
+        "vote_average": 7.5,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 108978,
+        "title": "Ричер",
+        "original_title": "Reacher",
+        "tagline": "«Ричер вернулся»",
+        "lead_actors": [
+          "Алан Ритчсон",
+          "Агнез Мо"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2022-02-03",
+        "popularity": 169.3493,
+        "overview": "Отставной офицер военной полиции Джек Ричер, будучи арестованным за убийство, которого не совершал, оказывается в эпицентре смертельного заговора, в который втянуты продажные полицейские, теневые бизнесмены и коварные политики.",
+        "genres": [
+          "Боевик и Приключения",
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zLqlW0rXmHwOZRhmOjeod14sGiT.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/108978",
+        "vote_average": 8.082,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1594914,
+        "title": "Последний рубеж",
+        "original_title": "Lucky Strike",
+        "tagline": null,
+        "lead_actors": [
+          "Скотт Иствуд",
+          "Колин Хэнкс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-26",
+        "popularity": 37.0194,
+        "overview": "Во время Арденнской операции раненый американский офицер Джон Касл оказывается в тылу врага. Оставшийся единственным выжившим в отряде, он пытается пробиться к своим, имея при себе лишь военный радиопередатчик. Теперь Каслу надо будет попытаться выжить, но это будет весьма непросто.",
+        "genres": [
+          "боевик",
+          "военный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iIaCvHmc57EKqM8FKKIG3BE6qBz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1594914",
+        "vote_average": 7.5,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 246212,
+        "title": "Америка",
+        "original_title": "The Americas",
+        "tagline": null,
+        "lead_actors": [
+          "Том Хэнкс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-02-23",
+        "popularity": 8.3663,
+        "overview": "Документальный рассказ Тома Хэнкса о чудесах, тайнах и хрупкости Северной и Южной Америк. В нём вы найдёте необыкновенные истории о дикой природе, которые затронут сердца миллионов людей во всём мире.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hsyPp8wR382gLmm8JUpuQQOTCzy.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/246212",
+        "vote_average": 8.111,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 76341,
+        "title": "Безумный Макс: Дорога Ярости",
+        "original_title": "Mad Max: Fury Road",
+        "tagline": "«Какой чудесный день»",
+        "lead_actors": [
+          "Том Харди",
+          "Шарлиз Терон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2015-05-15",
+        "popularity": 35.5776,
+        "overview": "Преследуемый призраками прошлого Макс уверен, что лучший способ выжить — скитаться в одиночестве. Но он попадает в плен и вынужденно присоединяется к бунтарям, бегущим через пустыню от тирании Несмертного Джо. Они забрали у него кое-что очень ценное, и разъярённый диктатор бросает все силы в погоню за мятежниками.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8FM6AhLMX3X6OcZjfmH24F4rKMI.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/76341",
+        "vote_average": 7.636,
+        "runtime_minutes": 120,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 108464,
+        "title": "Как распознать психопата",
+        "original_title": "Signs of a Psychopath",
+        "tagline": null,
+        "lead_actors": [
+          "Н.Г. Беррилл"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-08-23",
+        "popularity": 7.4273,
+        "overview": "Исследование биографий самых опасных убийц современности с использованием архивных видеоматериалов, интервью с криминалистами и психологами и попытка понять, какие черты присущи психопатам.",
+        "genres": [
+          "документальный",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/weR1iJUtTn2IxYZ8Vr8MxdbeJiu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/108464",
+        "vote_average": 7.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 11
+      }
+    }
+  ]
+}
