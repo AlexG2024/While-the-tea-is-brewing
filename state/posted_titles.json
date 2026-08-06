@@ -2450,6 +2450,15 @@
       "published_at": "2026-05-23T12:47:27.318321+00:00"
     },
     {
+      "key": "tmdb:tv:246212:tv_on_the_air:2025-02-23",
+      "dedupe_key": "tmdb:tv:246212",
+      "media_type": "tv",
+      "tmdb_id": 246212,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2025-02-23",
+      "published_at": "2026-08-06T15:31:54.428939+00:00"
+    },
+    {
       "key": "tmdb:tv:202555:tv_on_the_air:2025-03-04",
       "dedupe_key": "tmdb:tv:202555",
       "media_type": "tv",
