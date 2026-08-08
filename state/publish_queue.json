@@ -1,0 +1,153 @@
+{
+  "business_date": "2026-08-08",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 497698,
+        "title": "Чёрная вдова",
+        "original_title": "Black Widow",
+        "tagline": "«Она устала бегать от своего прошлого»",
+        "lead_actors": [
+          "Скарлетт Йоханссон",
+          "Флоренс Пью"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2021-07-09",
+        "popularity": 34.4636,
+        "overview": "Наташе Романофф предстоит лицом к лицу встретиться со своим прошлым. Чёрной Вдове придется вспомнить о том, что было в её жизни задолго до присоединения к команде Мстителей, и узнать об опасном заговоре, в который оказываются втянуты её старые знакомые — Елена, Алексей (известный как Красный Страж) и Мелина.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mbtN6V6y5kdawvAkzqN4ohi576a.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/497698",
+        "vote_average": 7.16,
+        "runtime_minutes": 134,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 15069,
+        "title": "Американские мастера",
+        "original_title": "American Masters",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1986-06-23",
+        "popularity": 20.2925,
+        "overview": "Телевизионное шоу посвящённое биографиям американских художников, артистов и писателей, внёсших значительный вклад в культурную жизнь страны (США).",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dY7zYWlHoctqD5iKbEpv3f07ysO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/15069",
+        "vote_average": 7.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 40
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1698575,
+        "title": "Снупи представляет: дом, милый дом",
+        "original_title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+        "tagline": null,
+        "lead_actors": [
+          "Рилей Каи Варгас",
+          "Терри Макгуррин"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-30",
+        "popularity": 34.2547,
+        "overview": "У Снупи пропадает дорогое сердцу имущество. Пытаясь его отыскать, он открывает для себя, что дом — это нечто большее, чем просто стены.",
+        "genres": [
+          "мультфильм",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1UKwqsvR2fSquAJfblUHJUwB2qi.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1698575",
+        "vote_average": 8.1,
+        "runtime_minutes": 32,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 108464,
+        "title": "Как распознать психопата",
+        "original_title": "Signs of a Psychopath",
+        "tagline": null,
+        "lead_actors": [
+          "Н.Г. Беррилл"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-08-23",
+        "popularity": 6.6531,
+        "overview": "Исследование биографий самых опасных убийц современности с использованием архивных видеоматериалов, интервью с криминалистами и психологами и попытка понять, какие черты присущи психопатам.",
+        "genres": [
+          "документальный",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/weR1iJUtTn2IxYZ8Vr8MxdbeJiu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/108464",
+        "vote_average": 7.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 11
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 68721,
+        "title": "Жeлезный человeк 3",
+        "original_title": "Iron Man 3",
+        "tagline": "«Герой будет сражен»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Гвинет Пэлтроу"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2013-05-03",
+        "popularity": 33.9283,
+        "overview": "Когда мир Старка рушится на его глазах по вине неизвестных противников, Тони жаждет найти виновных и свести с ними счеты. Оказавшись в безвыходной ситуации, Старк может рассчитывать только на себя и свою изобретательность, чтобы защитить тех, кто ему дорог. Это становится настоящим испытанием для героя, которому придется не только сражаться с коварным врагом, но и разобраться в себе, чтобы найти ответ на вопрос, который давно его тревожит: что важнее — человек или костюм?",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4AZco6uSdog5NbvJ6ILqnCveV8I.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/68721",
+        "vote_average": 6.933,
+        "runtime_minutes": 130,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
