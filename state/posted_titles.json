@@ -1109,6 +1109,15 @@
       "published_at": "2026-07-02T10:24:27.588110+00:00"
     },
     {
+      "key": "tmdb:movie:68721:movie_now_playing:2013-05-03",
+      "dedupe_key": "tmdb:movie:68721",
+      "media_type": "movie",
+      "tmdb_id": 68721,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2013-05-03",
+      "published_at": "2026-08-08T16:53:54.622890+00:00"
+    },
+    {
       "key": "tmdb:movie:68726:movie_now_playing:2013-07-12",
       "dedupe_key": "tmdb:movie:68726",
       "media_type": "movie",
