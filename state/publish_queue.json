@@ -1,0 +1,98 @@
+{
+  "business_date": "2026-08-10",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1284041,
+        "title": "Последний дом",
+        "original_title": "The Last House",
+        "tagline": "«Как долго вы сможете продержаться?»",
+        "lead_actors": [
+          "Грета Ли",
+          "Вагнер Моура"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-07",
+        "popularity": 290.8148,
+        "overview": "Семья оказывается запертой в своем доме. Какая-то таинственная и зловещая сила держит всех в западне, запасов остается все меньше, и приходится бороться за выживание.",
+        "genres": [
+          "ужасы",
+          "фантастика",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/o31KZEt6ubk1RaaipRGKvCnLdVT.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1284041",
+        "vote_average": 6.635,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 798645,
+        "title": "Бегущий человек",
+        "original_title": "The Running Man",
+        "tagline": "«Найти его и поймать»",
+        "lead_actors": [
+          "Глен Пауэлл",
+          "Колман Доминго"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-11-14",
+        "popularity": 34.1792,
+        "overview": "Ближайшее будущее. Отчаявшийся отец Бен Ричардс решает принять участие в жестоком реалити-шоу «Бегущий человек», надеясь выиграть деньги для лечения тяжелобольной дочери. Чтобы победить, участники должны выжить, пока в течение 30 дней на них охотится группа убийц.",
+        "genres": [
+          "боевик",
+          "триллер",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/40Mxw7P1l9KwkQipHgzVNHFMfVC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/798645",
+        "vote_average": 6.748,
+        "runtime_minutes": 133,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 11036,
+        "title": "Дневник памяти",
+        "original_title": "The Notebook",
+        "tagline": "«За каждой большой любовью стоит большая история»",
+        "lead_actors": [
+          "Райан Гослинг",
+          "Рэйчел МакАдамс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2004-06-25",
+        "popularity": 33.9401,
+        "overview": "Это история отношений юноши и девушки из разных социальных слоев, живших в Южной Каролине. Ной и Элли провели вместе незабываемое лето, пока их не разделили вначале родители, а затем Вторая мировая война.  После войны все изменилось: Элли обручилась с удачливым бизнесменом, а Ной жил наедине со своими воспоминаниями в старинном доме, который ему удалось отреставрировать. Когда Элли прочла об этом в местной газете, она поняла: ей нужно найти его и решить наконец судьбу их любви...",
+        "genres": [
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vQWkMYdy0D4MiDngHG7Y0NQY7xe.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/11036",
+        "vote_average": 7.891,
+        "runtime_minutes": 124,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
