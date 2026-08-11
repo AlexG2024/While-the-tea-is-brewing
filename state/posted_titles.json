@@ -740,6 +740,15 @@
       "published_at": "2026-04-26T14:33:58.731944+00:00"
     },
     {
+      "key": "tmdb:tv:2710:tv_on_the_air:2005-08-04",
+      "dedupe_key": "tmdb:tv:2710",
+      "media_type": "tv",
+      "tmdb_id": 2710,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2005-08-04",
+      "published_at": "2026-08-11T09:31:07.143751+00:00"
+    },
+    {
       "key": "tmdb:tv:4057:tv_on_the_air:2005-09-22",
       "dedupe_key": "tmdb:tv:4057",
       "media_type": "tv",
