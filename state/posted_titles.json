@@ -2504,6 +2504,15 @@
       "published_at": "2026-07-29T15:29:16.987855+00:00"
     },
     {
+      "key": "tmdb:movie:558449:movie_now_playing:2024-11-22",
+      "dedupe_key": "tmdb:movie:558449",
+      "media_type": "movie",
+      "tmdb_id": 558449,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2024-11-22",
+      "published_at": "2026-08-12T12:26:00.348905+00:00"
+    },
+    {
       "key": "tmdb:movie:1241982:movie_now_playing:2024-11-27",
       "dedupe_key": "tmdb:movie:1241982",
       "media_type": "movie",
