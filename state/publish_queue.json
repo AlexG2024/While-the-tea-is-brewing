@@ -1,0 +1,100 @@
+{
+  "business_date": "2026-08-12",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1679730,
+        "title": "Герой ленты",
+        "original_title": "THE RIBBON HERO",
+        "tagline": null,
+        "lead_actors": [
+          "サーヤ",
+          "Сэйран Кобаяши"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-07",
+        "popularity": 39.2879,
+        "overview": "Жуткий Нергал опустошает королевство принцессы Сапфир. Чтобы спасти новый дом от той же печальной участи, она снова пробуждается как Герой Ленты.",
+        "genres": [
+          "мультфильм",
+          "фэнтези",
+          "драма",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/79APJkTug1OzTrTtTmSmy2TgSuU.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1679730",
+        "vote_average": 6.778,
+        "runtime_minutes": 112,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10195,
+        "title": "Тор 3D",
+        "original_title": "Thor",
+        "tagline": "«Два мира. Один герой»",
+        "lead_actors": [
+          "Крис Хемсворт",
+          "Натали Портман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2011-05-06",
+        "popularity": 33.283,
+        "overview": "Эпическое приключение происходит как на нашей планете Земля, так и в вымышленном королевстве богов Асгарде. В центре истории — Могучий Тор, сильный, но высокомерный воин, чьи безрассудные поступки возрождают древнюю войну в Асгарде. Тора отправляют в ссылку на Землю, лишают сил и заставляют жить среди обычных людей в качестве наказания. Тор узнает, сколько требуется сил, чтобы стать настоящим героем, когда самый опасный злодей его мира направляет темные силы поглотить Землю.",
+        "genres": [
+          "приключения",
+          "фэнтези",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9VnGpd2rXHikIwznL9I5r9i8TQJ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10195",
+        "vote_average": 6.771,
+        "runtime_minutes": 130,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 558449,
+        "title": "Гладиатор 2",
+        "original_title": "Gladiator II",
+        "tagline": "«Приготовьтесь к зрелищу»",
+        "lead_actors": [
+          "Пол Мескал",
+          "Дензел Вашингтон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-11-22",
+        "popularity": 32.5358,
+        "overview": "200 год нашей эры. Армия Римской империи под командованием генерала Марка Акация штурмует Нумидию — последнее свободное государство в Северной Африке. В битве с захватчиками у воина Ханно погибает супруга-лучница, а сам он попадает в плен. Вместе с другими пленникам его готовятся продать в рабство, но благодаря физической выносливости и боевым навыкам его замечает и покупает организатор гладиаторских боёв Макрин. Так воин становится гладиатором, одержимым жаждой мести римскому полководцу. Макрин обещает Ханно устроить встречу с его заклятым врагом, если парень будет эффектно, красочно и яростно сражаться на арене Колизея.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6N7F1Ga9m0CTHziA2Fs7BQczaKZ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/558449",
+        "vote_average": 6.601,
+        "runtime_minutes": 148,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
