@@ -2711,6 +2711,15 @@
       "published_at": "2026-06-23T09:28:47.183359+00:00"
     },
     {
+      "key": "tmdb:movie:552524:movie_now_playing:2025-05-23",
+      "dedupe_key": "tmdb:movie:552524",
+      "media_type": "movie",
+      "tmdb_id": 552524,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2025-05-23",
+      "published_at": "2026-08-13T17:08:26.299218+00:00"
+    },
+    {
       "key": "tmdb:tv:226749:tv_on_the_air:2025-05-25",
       "dedupe_key": "tmdb:tv:226749",
       "media_type": "tv",
