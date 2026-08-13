@@ -686,6 +686,15 @@
       "published_at": "2026-07-18T12:28:00.556539+00:00"
     },
     {
+      "key": "tmdb:tv:14188:tv_on_the_air:2004-05-25",
+      "dedupe_key": "tmdb:tv:14188",
+      "media_type": "tv",
+      "tmdb_id": 14188,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2004-05-25",
+      "published_at": "2026-08-13T15:07:32.558910+00:00"
+    },
+    {
       "key": "tmdb:movie:673:movie_now_playing:2004-06-04",
       "dedupe_key": "tmdb:movie:673",
       "media_type": "movie",
