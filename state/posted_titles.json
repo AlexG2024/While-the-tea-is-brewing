@@ -2216,6 +2216,15 @@
       "published_at": "2026-07-21T11:15:31.890841+00:00"
     },
     {
+      "key": "tmdb:tv:228421:tv_on_the_air:2023-06-26",
+      "dedupe_key": "tmdb:tv:228421",
+      "media_type": "tv",
+      "tmdb_id": 228421,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2023-06-26",
+      "published_at": "2026-08-13T18:05:20.889559+00:00"
+    },
+    {
       "key": "tmdb:tv:125928:tv_on_the_air:2023-07-07",
       "dedupe_key": "tmdb:tv:125928",
       "media_type": "tv",
