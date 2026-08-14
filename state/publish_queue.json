@@ -1,0 +1,159 @@
+{
+  "business_date": "2026-08-14",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 967941,
+        "title": "Злая: Часть вторая",
+        "original_title": "Wicked: For Good",
+        "tagline": "«Ты изменишься навсегда»",
+        "lead_actors": [
+          "Синтия Эриво",
+          "Ариана Гранде"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-11-20",
+        "popularity": 34.7818,
+        "overview": "Эльфаба теперь известна как Злая Ведьма Запада и находится в изгнании в лесах страны Оз. Она продолжает борьбу за права животных, чьи голоса подавлены, и пытается обнародовать правду о Волшебнике. Волшебница Глинда становится публичным символом добра, живёт во дворце Изумрудного города и пользуется преимуществами своей популярности. По указанию мадам Моррибл, она выступает перед жителями Оз, заверяя их в стабильности при правлении Волшебника. По мере роста известности Глинды и её подготовки к свадьбе с принцем Фиеро, волшебницу начинает беспокоить разрыв отношений с Эльфабой. Попытки Глинды примирить Эльфабу с Волшебником оказываются безуспешными, что лишь углубляет их конфликт.",
+        "genres": [
+          "фэнтези",
+          "приключения",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tIRXszqWPJBVAbDudEtfLW8Px0Z.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/967941",
+        "vote_average": 6.615,
+        "runtime_minutes": 137,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 100757,
+        "title": "Внешние отмели",
+        "original_title": "Outer Banks",
+        "tagline": "«Будь осторожен в своих поисках»",
+        "lead_actors": [
+          "Чейз Стокс",
+          "Мэдлин Клайн"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-04-15",
+        "popularity": 39.9316,
+        "overview": "Внешние отмели — 320-километровая полоса узких песчаных барьерных островов побережья Северной Каролины, начинающихся у юго-восточного края Вирджиния-Бич восточного побережья США. Именно здесь в разгар летнего сезона, который накрылся медным тазом из-за бушующего урагана, четверо подростков с помощью случайно добытой карты отправляются на поиски огромной партии золота, стоимость которой оценивается в четыреста миллионов долларов.",
+        "genres": [
+          "Боевик и Приключения",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tk6WSOTOcZLt9z8KS50E7cAmioA.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/100757",
+        "vote_average": 8.3,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1054867,
+        "title": "Битва за битвой",
+        "original_title": "One Battle After Another",
+        "tagline": "«Одни ищут битву, другие в ней рождаются»",
+        "lead_actors": [
+          "Леонардо ДиКаприо",
+          "Шон Пенн"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-09-26",
+        "popularity": 32.7493,
+        "overview": "В 2000-х Пэт Калхун вместе со своей девушкой состоял в леворадикальной экстремистской группировке, и когда во время одного из их налётов произошло убийство, боевые товарищи были вынуждены порознь пуститься в бега. 16 лет спустя мужчина живёт в Южной Калифорнии под именем Боб Фергюсон и воспитывает дочь-подростка, которой из-за постоянной паранойи запрещает даже иметь мобильный телефон. Опасения Боба оказываются не напрасными, когда старый противник полковник Локджо открывает на них с дочерью охоту.",
+        "genres": [
+          "триллер",
+          "криминал",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/53RdThZ1nCkFEU22tbb3d0Lq9sv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1054867",
+        "vote_average": 7.342,
+        "runtime_minutes": 162,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 111834,
+        "title": "Тихая Вода",
+        "original_title": "Stillwater",
+        "tagline": "Видеть чудо в каждом мгновении.",
+        "lead_actors": [
+          "Джеймс Си",
+          "Ева Ариел Биндер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-12-04",
+        "popularity": 21.575,
+        "overview": "У Карла, Эдди и Майкла необычный сосед — мудрая панда по имени Тихая Вода. Дружба с ней помогает ребятам лучше понять окружающий мир, друг друга и самих себя.",
+        "genres": [
+          "Детский",
+          "мультфильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gPbj3gxBXPKywFAgkY6jTCQUUT8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/111834",
+        "vote_average": 7.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1422,
+        "title": "Отступники",
+        "original_title": "The Departed",
+        "tagline": "«Свой среди чужих»",
+        "lead_actors": [
+          "Леонардо ДиКаприо",
+          "Мэтт Деймон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2006-10-05",
+        "popularity": 32.6985,
+        "overview": "Два лучших выпускника полицейской академии оказались по разные стороны баррикады: один из них — агент мафии в рядах правоохранительных органов, другой — «крот», внедрённый в мафию. Каждый считает своим долгом обнаружить и уничтожить противника, но постоянная жизнь в искажённых реалиях меняет внутренний мир героев.",
+        "genres": [
+          "драма",
+          "триллер",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/jT6JJV6t902SN9dJlSRdiPi6hSv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1422",
+        "vote_average": 8.159,
+        "runtime_minutes": 151,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
