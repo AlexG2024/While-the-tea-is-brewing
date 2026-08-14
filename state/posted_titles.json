@@ -1784,6 +1784,15 @@
       "published_at": "2026-06-30T11:35:21.472071+00:00"
     },
     {
+      "key": "tmdb:tv:100757:tv_on_the_air:2020-04-15",
+      "dedupe_key": "tmdb:tv:100757",
+      "media_type": "tv",
+      "tmdb_id": 100757,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2020-04-15",
+      "published_at": "2026-08-14T10:18:54.260325+00:00"
+    },
+    {
       "key": "tmdb:tv:102904:tv_on_the_air:2020-05-19",
       "dedupe_key": "tmdb:tv:102904",
       "media_type": "tv",
