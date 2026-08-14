@@ -1856,6 +1856,15 @@
       "published_at": "2026-05-16T10:16:26.000814+00:00"
     },
     {
+      "key": "tmdb:tv:111834:tv_on_the_air:2020-12-04",
+      "dedupe_key": "tmdb:tv:111834",
+      "media_type": "tv",
+      "tmdb_id": 111834,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2020-12-04",
+      "published_at": "2026-08-14T15:10:03.712344+00:00"
+    },
+    {
       "key": "tmdb:movie:587807:movie_now_playing:2021-02-26",
       "dedupe_key": "tmdb:movie:587807",
       "media_type": "movie",
