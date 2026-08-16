@@ -956,6 +956,15 @@
       "published_at": "2026-06-17T16:27:31.988493+00:00"
     },
     {
+      "key": "tmdb:movie:20352:movie_now_playing:2010-07-09",
+      "dedupe_key": "tmdb:movie:20352",
+      "media_type": "movie",
+      "tmdb_id": 20352,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2010-07-09",
+      "published_at": "2026-08-16T14:21:47.780747+00:00"
+    },
+    {
       "key": "tmdb:tv:33238:tv_on_the_air:2010-07-11",
       "dedupe_key": "tmdb:tv:33238",
       "media_type": "tv",
