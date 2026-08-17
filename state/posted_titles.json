@@ -389,6 +389,15 @@
       "published_at": "2026-07-14T09:29:25.613419+00:00"
     },
     {
+      "key": "tmdb:movie:18:movie_now_playing:1997-05-09",
+      "dedupe_key": "tmdb:movie:18",
+      "media_type": "movie",
+      "tmdb_id": 18,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1997-05-09",
+      "published_at": "2026-08-17T06:57:59.903276+00:00"
+    },
+    {
       "key": "tmdb:movie:597:movie_now_playing:1997-12-19",
       "dedupe_key": "tmdb:movie:597",
       "media_type": "movie",
