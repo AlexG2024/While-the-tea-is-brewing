@@ -1325,6 +1325,15 @@
       "published_at": "2026-05-02T09:54:43.229455+00:00"
     },
     {
+      "key": "tmdb:movie:198663:movie_now_playing:2014-09-19",
+      "dedupe_key": "tmdb:movie:198663",
+      "media_type": "movie",
+      "tmdb_id": 198663,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2014-09-19",
+      "published_at": "2026-08-17T09:20:16.933777+00:00"
+    },
+    {
       "key": "tmdb:movie:210577:movie_now_playing:2014-10-03",
       "dedupe_key": "tmdb:movie:210577",
       "media_type": "movie",
