@@ -2540,6 +2540,15 @@
       "published_at": "2026-05-20T11:36:00.612661+00:00"
     },
     {
+      "key": "tmdb:tv:196322:tv_on_the_air:2024-05-07",
+      "dedupe_key": "tmdb:tv:196322",
+      "media_type": "tv",
+      "tmdb_id": 196322,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2024-05-07",
+      "published_at": "2026-08-21T14:23:27.702179+00:00"
+    },
+    {
       "key": "tmdb:tv:247522:tv_on_the_air:2024-05-23",
       "dedupe_key": "tmdb:tv:247522",
       "media_type": "tv",
