@@ -1,0 +1,185 @@
+{
+  "business_date": "2026-08-21",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 912649,
+        "title": "Веном: Последний танец",
+        "original_title": "Venom: The Last Dance",
+        "tagline": "«Пока смерть не разлучит их»",
+        "lead_actors": [
+          "Том Харди",
+          "Чиветел Эджиофор"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-10-25",
+        "popularity": 28.4012,
+        "overview": "Эдди и Веном вынуждены бежать, ведь теперь их преследует два мира, которые закручивают всё в одну паутину. Поэтому они должны принять судьбоносное решение, которое станет их последним танцем.",
+        "genres": [
+          "фантастика",
+          "боевик",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/YFcQ65dRrLpUpMiMFrrRV6rkEs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/912649",
+        "vote_average": 6.672,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 246246,
+        "title": "Красота в тёмных тонах",
+        "original_title": "Beauty in Black",
+        "tagline": "«Никому не верьте»",
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-10-24",
+        "popularity": 47.0596,
+        "overview": "Жизнь стриптизёрши меняется, когда судьба сводит её с богатой неблагополучной семьёй, стоящей за косметическим гигантом — и за изощрённой схемой торговли людьми.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/fpsqN05UInbVMGZF0fC39Pg6CDh.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/246246",
+        "vote_average": 8.075,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 939243,
+        "title": "Соник 3",
+        "original_title": "Sonic the Hedgehog 3",
+        "tagline": "«Новое приключение. Новый соперник»",
+        "lead_actors": [
+          "Бен Шварц",
+          "Джим Керри"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-12-20",
+        "popularity": 28.317,
+        "overview": "Соник, Наклз и Тейлз воссоединяются против нового могущественного противника, Ежа Шэдоу, таинственного злодея с силами, не похожими ни на что, с чем они сталкивались раньше. Команда Соника вынуждена создать неожиданный союз в надежде остановить Шэдоу и защитить планету.",
+        "genres": [
+          "боевик",
+          "фантастика",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/sj8AqCcpfdILdP5fhFVJLdx2NfF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/939243",
+        "vote_average": 7.599,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 196322,
+        "title": "Темная материя",
+        "original_title": "Dark Matter",
+        "tagline": "«Жизнь одна. Возможности бесконечны»",
+        "lead_actors": [
+          "Джоэл Эдгертон",
+          "Дженнифер Коннелли"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-05-07",
+        "popularity": 32.0382,
+        "overview": "Физик Джейсон Дессен из Чикаго оказывается в альтернативной версии свой жизни. Чтобы вернуться к своей семье, он должен будет пройти через ряд параллельных реальностей и столкнуться с альтернативной версией самого себя.",
+        "genres": [
+          "НФ и Фэнтези",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mhSorL4HDzp7HUu3JQmgOehcvva.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/196322",
+        "vote_average": 7.761,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 11324,
+        "title": "Остров проклятых",
+        "original_title": "Shutter Island",
+        "tagline": "«Некоторые места никогда тебя не отпускают»",
+        "lead_actors": [
+          "Леонардо ДиКаприо",
+          "Марк Руффало"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2010-02-18",
+        "popularity": 27.8018,
+        "overview": "Два американских судебных пристава отправляются на один из островов в штате Массачусетс, чтобы расследовать исчезновение пациентки клиники для умалишенных преступников. При проведении расследования им придется столкнуться с паутиной лжи, обрушившимся ураганом и смертельным бунтом обитателей клиники.",
+        "genres": [
+          "драма",
+          "триллер",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3UVMyefkUBiktshtKIEnNXvOFKH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/11324",
+        "vote_average": 8.197,
+        "runtime_minutes": 138,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 252751,
+        "title": "Лиэнн",
+        "original_title": "Leanne",
+        "tagline": null,
+        "lead_actors": [
+          "Лиэнн Морган",
+          "Кристен Джохнстон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-07-31",
+        "popularity": 15.8443,
+        "overview": "Когда муж уходит к другой женщине, стойкая мама с юга Америки начинает жизнь заново, заручившись поддержкой своей любящей, но не знающей границ семьи.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/252751",
+        "vote_average": 7.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
