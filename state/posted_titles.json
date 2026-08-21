@@ -2666,6 +2666,15 @@
       "published_at": "2026-05-07T16:23:46.162629+00:00"
     },
     {
+      "key": "tmdb:movie:912649:movie_now_playing:2024-10-25",
+      "dedupe_key": "tmdb:movie:912649",
+      "media_type": "movie",
+      "tmdb_id": 912649,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2024-10-25",
+      "published_at": "2026-08-21T07:00:11.115924+00:00"
+    },
+    {
       "key": "tmdb:tv:245026:tv_on_the_air:2024-10-29",
       "dedupe_key": "tmdb:tv:245026",
       "media_type": "tv",
