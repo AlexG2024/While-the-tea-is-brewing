@@ -1,0 +1,98 @@
+{
+  "business_date": "2026-08-22",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1418582,
+        "title": "Пятнадцать дней",
+        "original_title": "Here the Whole Time",
+        "tagline": null,
+        "lead_actors": [
+          "Мигуел Лалло",
+          "Диего Лира"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-19",
+        "popularity": 42.9911,
+        "overview": "Фелипе просто хотел спокойно провести лето со своей любящей искусство мамой и смотреть мюзиклы один за другим... Но тут в дверь постучалась его детская любовь.",
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3TDEfJgJ4kBdLje1qfCB1zMysq9.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1418582",
+        "vote_average": 7.1,
+        "runtime_minutes": 101,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1393326,
+        "title": "Призрак в клетке",
+        "original_title": "Ghost in the Cell",
+        "tagline": null,
+        "lead_actors": [
+          "Абимана Арясатя",
+          "Бронт Паларае"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-17",
+        "popularity": 36.9448,
+        "overview": "В печально известной тюрьме невидимая сила начинает жестоко убивать заключенных. Враждующие банды и коррумпированные охранники вынуждены действовать сообща, чтобы попытаться выжить в условиях нарастающего безумия.",
+        "genres": [
+          "ужасы",
+          "комедия",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9r7cCpIuf9NIGQqL92nhTtG25Cn.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1393326",
+        "vote_average": 7.5,
+        "runtime_minutes": 106,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1232569,
+        "title": "Пиноккио: Раскрепощённый",
+        "original_title": "Pinocchio: Unstrung",
+        "tagline": "«Никто больше не держит его за ниточки»",
+        "lead_actors": [
+          "Джуде Еван Ллойд",
+          "Роберт Инглунд"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-24",
+        "popularity": 35.3699,
+        "overview": "Пытаясь вывести внука Джеймса из тяжёлого состояния, Джеппетто дарит ему своё новое творение — деревянную куклу по имени Пиноккио, которая оказывается живой. Сначала необычный подарок становится для мальчика настоящим другом, но вскоре за его привязанностью начинает проступать нечто всё более тревожное.",
+        "genres": [
+          "ужасы",
+          "фэнтези",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/Ai7VesRDerUCvER1tnsPnfR3iHg.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1232569",
+        "vote_average": 7.5,
+        "runtime_minutes": 82,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
