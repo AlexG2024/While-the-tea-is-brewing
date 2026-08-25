@@ -425,15 +425,6 @@
       "published_at": "2026-07-02T12:26:03.759311+00:00"
     },
     {
-      "key": "tmdb:tv:1434:tv_on_the_air:1999-01-31",
-      "dedupe_key": "tmdb:tv:1434",
-      "media_type": "tv",
-      "tmdb_id": 1434,
-      "event_type": "tv_on_the_air",
-      "event_date_us": "1999-01-31",
-      "published_at": "2026-04-26T18:28:54.141328+00:00"
-    },
-    {
       "key": "tmdb:tv:615:tv_on_the_air:1999-03-28",
       "dedupe_key": "tmdb:tv:615",
       "media_type": "tv",
@@ -720,15 +711,6 @@
       "event_type": "tv_on_the_air",
       "event_date_us": "2005-02-06",
       "published_at": "2026-04-27T19:45:05.570499+00:00"
-    },
-    {
-      "key": "tmdb:tv:1416:tv_on_the_air:2005-03-27",
-      "dedupe_key": "tmdb:tv:1416",
-      "media_type": "tv",
-      "tmdb_id": 1416,
-      "event_type": "tv_on_the_air",
-      "event_date_us": "2005-03-27",
-      "published_at": "2026-04-26T14:33:58.731944+00:00"
     },
     {
       "key": "tmdb:tv:2710:tv_on_the_air:2005-08-04",
@@ -2324,6 +2306,15 @@
       "published_at": "2026-06-08T18:15:27.086435+00:00"
     },
     {
+      "key": "tmdb:movie:614479:movie_now_playing:2023-07-07",
+      "dedupe_key": "tmdb:movie:614479",
+      "media_type": "movie",
+      "tmdb_id": 614479,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2023-07-07",
+      "published_at": "2026-08-25T06:21:14.990786+00:00"
+    },
+    {
       "key": "tmdb:tv:220998:tv_on_the_air:2023-07-12",
       "dedupe_key": "tmdb:tv:220998",
       "media_type": "tv",
@@ -3510,15 +3501,6 @@
       "event_type": "tv_on_the_air",
       "event_date_us": "2026-04-08",
       "published_at": "2026-05-06T15:37:21.660358+00:00"
-    },
-    {
-      "key": "tmdb:movie:1408208:movie_now_playing:2026-04-10",
-      "dedupe_key": "tmdb:movie:1408208",
-      "media_type": "movie",
-      "tmdb_id": 1408208,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2026-04-10",
-      "published_at": "2026-04-26T16:58:13.456512+00:00"
     },
     {
       "key": "tmdb:tv:278573:tv_on_the_air:2026-04-10",
