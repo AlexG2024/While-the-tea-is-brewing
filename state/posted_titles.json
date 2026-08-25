@@ -461,6 +461,15 @@
       "published_at": "2026-05-21T07:56:46.233237+00:00"
     },
     {
+      "key": "tmdb:movie:550:movie_now_playing:1999-10-15",
+      "dedupe_key": "tmdb:movie:550",
+      "media_type": "movie",
+      "tmdb_id": 550,
+      "event_type": "movie_now_playing",
+      "event_date_us": "1999-10-15",
+      "published_at": "2026-08-25T12:52:18.514857+00:00"
+    },
+    {
       "key": "tmdb:movie:863:movie_now_playing:1999-11-24",
       "dedupe_key": "tmdb:movie:863",
       "media_type": "movie",
@@ -945,15 +954,6 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2010-07-09",
       "published_at": "2026-08-16T14:21:47.780747+00:00"
-    },
-    {
-      "key": "tmdb:tv:33238:tv_on_the_air:2010-07-11",
-      "dedupe_key": "tmdb:tv:33238",
-      "media_type": "tv",
-      "tmdb_id": 33238,
-      "event_type": "tv_on_the_air",
-      "event_date_us": "2010-07-11",
-      "published_at": "2026-04-27T09:33:44.561890+00:00"
     },
     {
       "key": "tmdb:movie:27205:movie_now_playing:2010-07-16",
