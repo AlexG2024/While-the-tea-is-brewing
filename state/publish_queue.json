@@ -1,0 +1,100 @@
+{
+  "business_date": "2026-08-29",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1384216,
+        "title": "Созвездие Большого Пса",
+        "original_title": "The Dog Stars",
+        "tagline": "«В конце света никто не выживет в одиночку»",
+        "lead_actors": [
+          "Джейкоб Элорди",
+          "Маргарет Куолли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-28",
+        "popularity": 92.9525,
+        "overview": "Хиг - гражданский пилот, живущий в постапокалиптическом Колорадо на заброшенной авиабазе вместе со своей собакой Джаспером и ворчливым, но верным рейнджером Бэнгли. Их уединённую жизнь нарушает неожиданное радиосообщение, которое пробуждает в Хиге надежду на существование других выживших. В поисках источника сигнала Хиг отправляется в опасное путешествие на своём старом самолете. Его путь пролегает через опустошённые города, дикие леса и враждебные территории.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hdjCd21IfRdLwBYI3WqZuFZu5x8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1384216",
+        "vote_average": 7.068,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1314481,
+        "title": "Дьявол носит Prada 2",
+        "original_title": "The Devil Wears Prada 2",
+        "tagline": "«Иконы правят вечно»",
+        "lead_actors": [
+          "Энн Хэтэуэй",
+          "Мэрил Стрип"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-01",
+        "popularity": 70.4766,
+        "overview": "Редактор модного журнала Миранда Пристли борется со своей бывшей помощницей Эмили Чарлтон, ныне руководительницей конкурирующего издания, за рекламные контракты. Пока печатные СМИ переживают кризис, Миранда готовится уйти на пенсию.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/rszWffz3SMz42OLvA6ks1pizRRY.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1314481",
+        "vote_average": 7.054,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 330457,
+        "title": "Холодное сердце 2",
+        "original_title": "Frozen II",
+        "tagline": "«Прошлое не то, чем кажется»",
+        "lead_actors": [
+          "Кристен Белл",
+          "Идина Мензел"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2019-11-22",
+        "popularity": 33.5977,
+        "overview": "3 года правления Эльзы, обуздавшей свою невероятную магическую силу, принесли в королевство Эренделл счастье и долгожданный мир. Но беззаботная жизнь заканчивается, после того как Эльза начинает слышать мистический голос, зовущий её в заколдованный лес, о котором ей рассказывал отец. Будучи неспособной противостоять таинственной силе, Эльза заручается поддержкой принцессы Анны, Кристоффа, оленя Свена и весёлого снеговика Олафа, чтобы отправиться в опасное приключение, которое приведет их к раскрытию древних секретов, угрожающих благополучию королевства.",
+        "genres": [
+          "семейный",
+          "мультфильм",
+          "приключения",
+          "комедия",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4NIQcsmtyBOoJKI3c1Rg5sFFaUj.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/330457",
+        "vote_average": 7.227,
+        "runtime_minutes": 103,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
