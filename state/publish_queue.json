@@ -1,0 +1,129 @@
+{
+  "business_date": "2026-08-30",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1204680,
+        "title": "Хитрый койот",
+        "original_title": "Coyote vs. Acme",
+        "tagline": "«Погоня началась!»",
+        "lead_actors": [
+          "Уилл Форте",
+          "Лана Кондор"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-28",
+        "popularity": 89.1257,
+        "overview": "Действие происходит на складе ACME, производителя всего, чем пользовались персонажи Looney Tunes",
+        "genres": [
+          "комедия",
+          "приключения",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/sco6rWMD6p9N8JVOZPWOIBO2T9i.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1204680",
+        "vote_average": 8.0,
+        "runtime_minutes": 103,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 247168,
+        "title": "Чед Пауэрс",
+        "original_title": "Chad Powers",
+        "tagline": "«Две Идентичности. Одна Икона. Никакого Стыда»",
+        "lead_actors": [
+          "Глен Пауэлл",
+          "Перри Мэттфелд"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-09-30",
+        "popularity": 18.737,
+        "overview": "Опозоренный квотербек колледжа по имени Расс Холлидей выдает себя за Чада Пауэрса и приходит в испытывающую трудности южную футбольную команду, чтобы возродить свою футбольную карьеру.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/f20KYlp9C5oRXqrluId6Hkmxbvk.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/247168",
+        "vote_average": 7.947,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1514682,
+        "title": "Во власти страха",
+        "original_title": "Above & Below",
+        "tagline": null,
+        "lead_actors": [
+          "Лора Марано",
+          "Кристина Очоа"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-29",
+        "popularity": 38.8181,
+        "overview": "5 друзей отправляются в отпуск, чтобы заняться дайвингом и погружаться в клетке на морское дно, наблюдая за белыми акулами. Но опасная забава перерастает в схватку со смертью, когда на лодку проникает расчётливый и безжалостный контрабандист, который требует поднять на борт затонувший неподалёку груз.",
+        "genres": [
+          "боевик",
+          "триллер",
+          "ужасы",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6AHnijQqg3f5KYDkhuSzBdyuExG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1514682",
+        "vote_average": 7.4,
+        "runtime_minutes": 96,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1325734,
+        "title": "Вот это драма!",
+        "original_title": "The Drama",
+        "tagline": "«Свадьба года»",
+        "lead_actors": [
+          "Зендея",
+          "Роберт Паттинсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-04-03",
+        "popularity": 34.7024,
+        "overview": "Чарли и Эмма познакомились в кафе два года назад, а через неделю должны пожениться. Они активно готовятся к торжеству: репетируют свадебный танец, общаются с диджеем и фотографом и выбирают напитки на праздничный стол. Однажды за ужином с друзьями Эмма раскрывает неожиданный секрет своего прошлого, и это откровение вынуждает Чарли задуматься, знает ли он её на самом деле.",
+        "genres": [
+          "мелодрама",
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1325734",
+        "vote_average": 6.91,
+        "runtime_minutes": 96,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
