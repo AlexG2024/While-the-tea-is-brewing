@@ -1,0 +1,129 @@
+{
+  "business_date": "2026-09-01",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1327819,
+        "title": "Хопперс",
+        "original_title": "Hoppers",
+        "tagline": "«Будь собой»",
+        "lead_actors": [
+          "Пайпер Курда",
+          "Бобби Мойнахан"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-03-06",
+        "popularity": 53.0148,
+        "overview": "Любительница животных Мейбл использует умную новуютехнологию, предназначенную для «перескакивания» человеческого сознанияв реалистичных роботизированных животных, чтобы общаться с бобрами, раскрывая тайны животного мира, которые она даже не могла себе представить.",
+        "genres": [
+          "приключения",
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4eqr5LZH122BiU9hboXHZxX8bBl.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+        "vote_average": 8.164,
+        "runtime_minutes": 104,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 709,
+        "title": "Робоцып",
+        "original_title": "Robot Chicken",
+        "tagline": null,
+        "lead_actors": [
+          "Сет Грин",
+          "Маттев Сенреич"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2005-02-20",
+        "popularity": 68.63,
+        "overview": "Антология скетчей, которые пародируют кинофильмы, телешоу, компьютерные игры, героев мультфильмов и комиксов, актёров, политиков, певцов и других знаменитостей, а также продукты питания, рекламные ролики или прочие проявления массовой культуры. Все серии объединены общим сюжетом, по которому некий безумный учёный оживил цыплёнка, привязал его к креслу и заставил смотреть множество телевизоров сразу.",
+        "genres": [
+          "комедия",
+          "мультфильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6LoFwMzLvB0Bzal6dQZuld04JHO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/709",
+        "vote_average": 7.632,
+        "runtime_minutes": null,
+        "number_of_seasons": 11
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1514026,
+        "title": "Приятель",
+        "original_title": "Buddy",
+        "tagline": null,
+        "lead_actors": [
+          "Кристин Милиоти",
+          "Дилейни Куинн"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-28",
+        "popularity": 40.3962,
+        "overview": "Дети, не имеющие воспоминаний об иной жизни, живут вместе с весёлым плюшевым единорогом в волшебном мире детского телешоу. Однажды единорог начинает убивать непослушных и провинившихся детей, а в следующих выпусках передачи их заменяют новые ребята. Вскоре выжившие дети начинают замечать изменения, и, отчаявшись, они пытаются выбраться из шоу.",
+        "genres": [
+          "ужасы",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1514026",
+        "vote_average": 8.316,
+        "runtime_minutes": 95,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 562,
+        "title": "Крепкий орешек",
+        "original_title": "Die Hard",
+        "tagline": "«Высота 40 этажей - на каждом уровне вас ждет напряжение, азарт и приключения!»",
+        "lead_actors": [
+          "Брюс Уиллис",
+          "Алан Рикман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1988-07-22",
+        "popularity": 40.0116,
+        "overview": "В суперсовременном небоскребе Лос-Анджелеса полицейский Джон Макклейн ведет смертельную схватку с бандой политических террористов, взявших в заложники два десятка человек, в число которых попадает и его жена. Началось все с того, что парень приехал в город к жене, оказался на рождественском приеме, а кончилось настоящей войной...",
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bIDUVu4QTAvNLEZqTml5vka8ElV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/562",
+        "vote_average": 7.816,
+        "runtime_minutes": 133,
+        "number_of_seasons": null
+      }
+    }
+  ]
+}
