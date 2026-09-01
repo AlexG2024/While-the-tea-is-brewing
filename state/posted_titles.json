@@ -335,15 +335,6 @@
       "published_at": "2026-06-05T14:10:48.843150+00:00"
     },
     {
-      "key": "tmdb:tv:30983:tv_on_the_air:1996-01-08",
-      "dedupe_key": "tmdb:tv:30983",
-      "media_type": "tv",
-      "tmdb_id": 30983,
-      "event_type": "tv_on_the_air",
-      "event_date_us": "1996-01-08",
-      "published_at": "2026-05-03T18:43:30.806749+00:00"
-    },
-    {
       "key": "tmdb:movie:145341:movie_now_playing:1996-05-10",
       "dedupe_key": "tmdb:movie:145341",
       "media_type": "movie",
@@ -3168,6 +3159,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-03-06",
       "published_at": "2026-06-01T13:02:08.747619+00:00"
+    },
+    {
+      "key": "tmdb:movie:1327819:movie_now_playing:2026-03-06",
+      "dedupe_key": "tmdb:movie:1327819",
+      "media_type": "movie",
+      "tmdb_id": 1327819,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-03-06",
+      "published_at": "2026-09-01T06:36:18.283584+00:00"
     },
     {
       "key": "tmdb:tv:254953:tv_on_the_air:2026-03-08",
