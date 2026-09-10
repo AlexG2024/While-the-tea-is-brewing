@@ -1,0 +1,182 @@
+{
+  "business_date": "2026-09-10",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1433367,
+        "title": "Всего одна ночь",
+        "original_title": "One Night Only",
+        "tagline": "«12 часов могут изменить всё»",
+        "lead_actors": [
+          "Моника Барбаро",
+          "Каллум Тёрнер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-07",
+        "popularity": 89.2192,
+        "overview": "Нью-Йорк, единственная ночь в году, когда разрешён секс. Недавно переживший расставание Оуэн и мечтающая о настоящей любви Элли сталкиваются друг с другом, и между ними сразу возникает симпатия. Однако путь к сближению оказывается непростым, и их разделяют случайные знакомства и недоразумения.",
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wGqOgu5NV8Y8NPhGHJ5zHPm9DqI.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1433367",
+        "vote_average": 6.822,
+        "runtime_minutes": 103,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 2190,
+        "title": "Южный Парк",
+        "original_title": "South Park",
+        "tagline": "Четыре мальчика. Один странный город",
+        "lead_actors": [
+          "Трей Паркер",
+          "Мэтт Стоун"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1997-08-13",
+        "popularity": 101.1937,
+        "overview": "В этом сатирическом сериале, который бесцеремонно высмеивает тенденции, знаменитостей и политиков, показан мир глазами детишек, весьма острых на язык.",
+        "genres": [
+          "мультфильм",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/69lJGPmFoUplHWoVnCbCcXKRqOl.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/2190",
+        "vote_average": 8.332,
+        "runtime_minutes": null,
+        "number_of_seasons": 29
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 278,
+        "title": "Побег из Шоушенка",
+        "original_title": "The Shawshank Redemption",
+        "tagline": "«Страх — это кандалы. Надежда — это свобода»",
+        "lead_actors": [
+          "Тим Роббинс",
+          "Морган Фримен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1994-10-14",
+        "popularity": 80.9203,
+        "overview": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/278",
+        "vote_average": 8.73,
+        "runtime_minutes": 142,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 3562,
+        "title": "Новая звезда",
+        "original_title": "NOVA",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1974-03-03",
+        "popularity": 75.4898,
+        "overview": "Телесериал «Nova» рассказывает о научных открытиях и исторических событиях. Включает в себя интервью с учёными — математиками, физиками, астрономами, историками, археологами.",
+        "genres": [
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/3562",
+        "vote_average": 7.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 53
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 24428,
+        "title": "Мститeли",
+        "original_title": "The Avengers",
+        "tagline": "​«Мстители, общий сбор!»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Крис Эванс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2012-05-04",
+        "popularity": 59.488,
+        "overview": "В погоне за могуществом бог Локи вступает в сговор с воинственной расой Читаури, которая обещает ему армию для захвата Земли в обмен на Тессеракт – небольшой куб, содержащий в себе огромную силу. Проникнув в секретный центр организации «Щ.И.Т.», он объявляет о своих намерениях, после чего похищает Тессеракт и берет под контроль нескольких агентов, обеспечивших ему побег. В ответ на угрозу глава «Щ.И.Т.’а» Ник Фьюри созывает сильнейших супергероев планеты, которыми оказываются Железный человек, Черная вдова, Капитан Америка, Халк и Тор. Чтобы дать противнику достойный отпор, им придется отложить все свои разногласия и научиться работать в команде, иначе человечество ждет неминуемая гибель…",
+        "genres": [
+          "фантастика",
+          "боевик",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ztkYgL0zHJLnEPY5VabK9OlmXxx.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/24428",
+        "vote_average": 8.074,
+        "runtime_minutes": 137,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 224263,
+        "title": "Очень странные дела: байки из 85-го",
+        "original_title": "Stranger Things: Tales from '85",
+        "tagline": "«Новое приключение ждёт»",
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-04-23",
+        "popularity": 28.1213,
+        "overview": "Зима. Хоукинс. 1985 год. Добро пожаловать в город, кишащий тайнами, где любимые герои сталкиваются с новыми загадками... и совершенно новым видом странностей.",
+        "genres": [
+          "мультфильм",
+          "НФ и Фэнтези",
+          "детектив",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mrYnHEkUnOSTgARY7jz4K58n2gz.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/224263",
+        "vote_average": 7.571,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
