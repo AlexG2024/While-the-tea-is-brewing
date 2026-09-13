@@ -1,0 +1,188 @@
+{
+  "business_date": "2026-09-13",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1440098,
+        "title": "Слоновая кость",
+        "original_title": "Drawn Together",
+        "tagline": null,
+        "lead_actors": [
+          "Эстер Экспосито",
+          "Хьюго Диего Гарсия"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-09",
+        "popularity": 208.476,
+        "overview": "После её загадочного похищения в Нью-Йорке дочери испанского магната Марфиль Кортес назначают телохранителя — Себастьяна Мура. Несмотря на конфликт характеров, между ними растёт влечение, пока они вместе сталкиваются с нарастающими угрозами в Испании, где всё не то, чем кажется.",
+        "genres": [
+          "мелодрама",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/umlft1ztFbUcnHf960pXJocjpdv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1440098",
+        "vote_average": 6.585,
+        "runtime_minutes": 104,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 247718,
+        "title": "Гангстерленд",
+        "original_title": "MobLand",
+        "tagline": null,
+        "lead_actors": [
+          "Том Харди",
+          "Пирс Броснан"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-03-30",
+        "popularity": 67.1262,
+        "overview": "Харриганы и Стивенсоны, две враждующие лондонские криминальные семьи, вступают в схватку \"убей или будь убитым\", которая грозит обрушением империй и разрушением жизней. Под перекрёстный огонь попадает Гарри Да Соуза, уличный \"мастер на все руки\", столь же опасный, сколь и красивый, который слишком хорошо знает, кому можно доверять, когда сталкиваются противоположные силы. Когда королевство восстанет против королевства, границы будут пересекаться, и единственное спасение — это гарантия того, что ваша жизнь будет на кону: семья превыше всего.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vuKwmIVw6lClfzOtGzakhl47mjA.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/247718",
+        "vote_average": 8.355,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1339713,
+        "title": "Одержимость",
+        "original_title": "Obsession",
+        "tagline": "«Будь осторожен с тем, кого желаешь...»",
+        "lead_actors": [
+          "Майкл Джонстон",
+          "Инди Наварретти"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-15",
+        "popularity": 158.47,
+        "overview": "Безнадёжный романтик Беар давно и безответно влюблён в красавицу Ники. Однажды в магазине эзотерики он находит странную безделушку — волшебную палочку. Если её сломать, исполнится твоё заветное желание. Беар загадывает, чтобы Ники любила его больше всех на свете. И девушка правда в него влюбляется. Однако его счастью быстро приходит конец. Парень замечает, что Ники буквально им одержима, а её знаки внимания становятся всё более пугающими. Оказывается, желание парня исполнилось, но совсем не так, как он мечтал.",
+        "genres": [
+          "ужасы",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/cdRHtfzxbpjxD5yOyFrRummb0yO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+        "vote_average": 8.193,
+        "runtime_minutes": 108,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256695,
+        "title": "Обычный мультик: Утерянные плёнки",
+        "original_title": "Regular Show: The Lost Tapes",
+        "tagline": null,
+        "lead_actors": [
+          "Джей-Джи Куинтел",
+          "Уильям Салиерс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-05-11",
+        "popularity": 16.2359,
+        "overview": "Знакомый дуэт Мордекая и Ригби справляется с рутинной работой в парке, которая неизбежно перерастает в сюрреалистические, хаотичные катастрофы.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "Боевик и Приключения",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/h5lAgHtM1ROmaMCxhSof7R9NNNL.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256695",
+        "vote_average": 9.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1377237,
+        "title": "Курьер",
+        "original_title": "Runner",
+        "tagline": null,
+        "lead_actors": [
+          "Алан Ритчсон",
+          "Оуэн Уилсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-11",
+        "popularity": 54.5519,
+        "overview": "У Хэнка Мэлоуна, элитного курьера, есть 3 часа, чтобы доставить печень и спасти 7-летнюю девочку, которой требуется срочная пересадка. Простая задача превращается в смертельное испытание, когда глава известной преступной группировки решает любой ценой завладеть органом.",
+        "genres": [
+          "боевик",
+          "комедия",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vnrrZCe2sDMdEY7xyGSZMpSsZyG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1377237",
+        "vote_average": 7.923,
+        "runtime_minutes": 97,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256201,
+        "title": "Ублюдские хроники",
+        "original_title": "The Creep Tapes",
+        "tagline": null,
+        "lead_actors": [
+          "Марк Дюпласс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-11-15",
+        "popularity": 9.4169,
+        "overview": "В сериале рассказывается о коллекции видеокассет серийного убийцы, который под надуманным предлогом нанимает жертв для съемок. В каждом эпизоде - новая жертва.",
+        "genres": [
+          "детектив",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256201",
+        "vote_average": 6.522,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    }
+  ]
+}
