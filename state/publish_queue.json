@@ -1,0 +1,185 @@
+{
+  "business_date": "2026-09-14",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1377237,
+        "title": "Курьер",
+        "original_title": "Runner",
+        "tagline": null,
+        "lead_actors": [
+          "Алан Ритчсон",
+          "Оуэн Уилсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-11",
+        "popularity": 54.5519,
+        "overview": "У Хэнка Мэлоуна, элитного курьера, есть 3 часа, чтобы доставить печень и спасти 7-летнюю девочку, которой требуется срочная пересадка. Простая задача превращается в смертельное испытание, когда глава известной преступной группировки решает любой ценой завладеть органом.",
+        "genres": [
+          "боевик",
+          "комедия",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vnrrZCe2sDMdEY7xyGSZMpSsZyG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1377237",
+        "vote_average": 8.0,
+        "runtime_minutes": 97,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 60694,
+        "title": "События прошедшей недели с Джоном Оливером",
+        "original_title": "Last Week Tonight with John Oliver",
+        "tagline": null,
+        "lead_actors": [
+          "Джон Оливер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2014-04-27",
+        "popularity": 59.9418,
+        "overview": "Джон Оливер не только телеведущий, но и отличный комик, поэтому его еженедельное ток-шоу наполнено сатирой и звонким юмором. Последние новости, общественные и политические события — ничто не ускользает от его зоркого взгляда. Серьезные темы здесь соседствуют с юмористическими скетчами, а в гости частенько заходят звезды кино и телевидения.",
+        "genres": [
+          "Ток-шоу",
+          "комедия",
+          "Новости"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hRYYx5rCwwf7PcQKBGzxaISjM0Z.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/60694",
+        "vote_average": 7.768,
+        "runtime_minutes": null,
+        "number_of_seasons": 13
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1522689,
+        "title": "Зачем мы опять женимся?",
+        "original_title": "Why Did I Get Married Again?",
+        "tagline": null,
+        "lead_actors": [
+          "Тайлер Перри",
+          "Тараджи Хенсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-09",
+        "popularity": 50.4493,
+        "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
+        "genres": [
+          "комедия",
+          "мелодрама",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1522689",
+        "vote_average": 7.2,
+        "runtime_minutes": 112,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 296756,
+        "title": "Президент Кёртис",
+        "original_title": "President Curtis",
+        "tagline": null,
+        "lead_actors": [
+          "Кит Дэвид",
+          "Стефани Беатрис"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-07-26",
+        "popularity": 38.0615,
+        "overview": "Спин-офф «Рика и Морти» о президенте США Андре Кёртисе и его эксцентричной команде советников. Вместе они расследуют паранормальные явления, устраняют межпространственные угрозы и решают другие кризисы, которые Рик Санчес счёл бы слишком скучными для себя.",
+        "genres": [
+          "мультфильм",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4YwQKEfizLXKemWYv5G4FAvQcTA.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/296756",
+        "vote_average": 6.545,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 155,
+        "title": "Темный рыцарь",
+        "original_title": "The Dark Knight",
+        "tagline": "«Добро пожаловать в мир Хаоса!»",
+        "lead_actors": [
+          "Кристиан Бейл",
+          "Хит Леджер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2008-07-18",
+        "popularity": 43.8306,
+        "overview": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы от преступности, отравляющей город. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным испуганным горожанам под именем Джокер.",
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/155",
+        "vote_average": 8.535,
+        "runtime_minutes": 152,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1054,
+        "title": "Молодые и дерзкие",
+        "original_title": "The Young and the Restless",
+        "tagline": null,
+        "lead_actors": [],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1973-03-26",
+        "popularity": 18.5341,
+        "overview": "Действие сосредоточено главным образом на истории о жизни двух богатых семейств американского города Генуи, занятых в косметической индустрии, а также затрагивает множество актуальных проблем жителей города.",
+        "genres": [
+          "Мыльная опера",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1054",
+        "vote_average": 7.03,
+        "runtime_minutes": null,
+        "number_of_seasons": 54
+      }
+    }
+  ]
+}
