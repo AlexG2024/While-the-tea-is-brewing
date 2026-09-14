@@ -2918,24 +2918,6 @@
       "published_at": "2026-09-01T06:36:18.283584+00:00"
     },
     {
-      "key": "tmdb:movie:1582770:movie_now_playing:2026-03-18",
-      "dedupe_key": "tmdb:movie:1582770",
-      "media_type": "movie",
-      "tmdb_id": 1582770,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2026-03-18",
-      "published_at": "2026-05-17T09:46:29.538074+00:00"
-    },
-    {
-      "key": "tmdb:movie:938150:movie_now_playing:2026-03-20",
-      "dedupe_key": "tmdb:movie:938150",
-      "media_type": "movie",
-      "tmdb_id": 938150,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2026-03-20",
-      "published_at": "2026-05-17T07:56:49.215406+00:00"
-    },
-    {
       "key": "tmdb:movie:687163:movie_now_playing:2026-03-20",
       "dedupe_key": "tmdb:movie:687163",
       "media_type": "movie",
@@ -4095,6 +4077,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-09-11",
       "published_at": "2026-09-11T09:31:15.339097+00:00"
+    },
+    {
+      "key": "tmdb:movie:1377237:movie_now_playing:2026-09-11",
+      "dedupe_key": "tmdb:movie:1377237",
+      "media_type": "movie",
+      "tmdb_id": 1377237,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-09-11",
+      "published_at": "2026-09-14T10:43:34.495473+00:00"
     },
     {
       "key": "tmdb:movie:1393326:movie_now_playing:2026-09-17",
