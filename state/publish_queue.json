@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-09-18",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1506560,
+        "title": "Битва грозной семейки",
+        "original_title": "Clash of the Thundermans",
+        "tagline": null,
+        "lead_actors": [
+          "Кира Косарин",
+          "Джек Гриффо"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-03",
+        "popularity": 115.0441,
+        "overview": "Когда у Хлои появляется новая разрушительная сверхспособность, Лига героев отправляет ее в элитную школу-интернат для супергероев, чтобы она научилась контролировать свои способности. Столкнувшись с перспективой отправить Хлою на долгие годы, Тандермены расстались, и Фиби, Барб и Билли заставили ее скрываться. Макс, Хэнк и Нора выслеживают членов своей семьи-изгоя, пока две фракции не столкнутся друг с другом в полноценной битве за будущее Thundermans’.",
+        "genres": [
+          "телевизионный фильм",
+          "семейный",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1506560",
+        "vote_average": 6.915,
+        "runtime_minutes": 72,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1413,
+        "title": "Американская история ужасов",
+        "original_title": "American Horror Story",
+        "tagline": "«Чего опасаться, когда ждешь ребенка?»",
+        "lead_actors": [
+          "Сара Полсон",
+          "Джессика Лэнг"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2011-10-05",
+        "popularity": 105.2765,
+        "overview": "Сериал-антология в жанре ужасов, действие в котором разворачивается вокруг различных персонажей и мест — Дом-убийца, Психбольница, Шабаш, Фрик-шоу, Отель, Роанок, Культ, Апокалипсис и 1984.",
+        "genres": [
+          "драма",
+          "детектив",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gj2dFFgEHdhxqSBpD2oPyo4YmPD.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1413",
+        "vote_average": 8.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 13
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1228710,
+        "title": "Звёздные Войны: Мандалорец и Грогу",
+        "original_title": "The Mandalorian and Grogu",
+        "tagline": "«Таков путь»",
+        "lead_actors": [
+          "Педро Паскаль",
+          "Джереми Аллен Уайт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-22",
+        "popularity": 76.2224,
+        "overview": "Империя пала, но её военачальники всё ещё держат под своим контролем части галактики. Зарождающаяся Новая Республика пытается защитить идеалы, за которые сражались повстанцы, и нанимает для задания мандалорца Дина Джарина, известного охотника за головами, и его юного ученика Грогу.",
+        "genres": [
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tNap97mpnj63cQ5dXnCDYWKdUbi.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1228710",
+        "vote_average": 7.479,
+        "runtime_minutes": 132,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 2370,
+        "title": "Адская кухня",
+        "original_title": "Hell's Kitchen",
+        "tagline": null,
+        "lead_actors": [
+          "Гордон Рамзи"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2005-05-30",
+        "popularity": 29.7885,
+        "overview": "Всемирно известный шеф-повар Гордон Рамсей проводит 12 стремящихся молодых поваров через суровые и опустошительные испытания в его ресторане «Кухня Ада», чтобы определить, кто из них выиграет ресторан своей мечты. Их мечты быстро становятся кошмаром.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zNdvSEs3ArYtXowqI3JQ0DQ48Qk.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/2370",
+        "vote_average": 6.846,
+        "runtime_minutes": null,
+        "number_of_seasons": 25
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1124142,
+        "title": "Соперники Амзиа Кинга",
+        "original_title": "The Rivals of Amziah King",
+        "tagline": "«Есть и правда. Есть и ложь»",
+        "lead_actors": [
+          "Мэттью Макконахи",
+          "Курт Рассел"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-21",
+        "popularity": 50.0111,
+        "overview": "В глуши сельской Оклахомы харизматичный и музыкально одарённый Амзия Кинг руководит группой музыкантов, играющих в стиле блюграсс, и одновременно управляет ведущим в городе предприятием по производству мёда. Когда неожиданно возвращается приёмная дочь Амзии, он с радостью использует возможность восстановить связь и создать семейный бизнес. Но медовый бизнес безжалостен, и соперники Амзии угрожают разрушить всё, что он построил.",
+        "genres": [
+          "криминал",
+          "драма",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4GEkOQ2LGzDH8GKXQ8SyoP0NOHa.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1124142",
+        "vote_average": 6.772,
+        "runtime_minutes": 131,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256201,
+        "title": "Ублюдские хроники",
+        "original_title": "The Creep Tapes",
+        "tagline": null,
+        "lead_actors": [
+          "Марк Дюпласс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-11-15",
+        "popularity": 10.4818,
+        "overview": "В сериале рассказывается о коллекции видеокассет серийного убийцы, который под надуманным предлогом нанимает жертв для съемок. В каждом эпизоде - новая жертва.",
+        "genres": [
+          "детектив",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256201",
+        "vote_average": 6.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    }
+  ]
+}
