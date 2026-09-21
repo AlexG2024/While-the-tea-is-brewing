@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-09-21",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1240889,
+        "title": "Подростковый секс и смерть в лагере «Миазма»",
+        "original_title": "Teenage Sex and Death at Camp Miasma",
+        "tagline": "«Кровь. Похоть»",
+        "lead_actors": [
+          "Ханна Айнбайндер",
+          "Джиллиан Андерсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-21",
+        "popularity": 80.0517,
+        "overview": "Крис получает шанс снять перезапуск культовой слэшер-франшизы \"Camp Miasma\", которой была одержима с детства. Чтобы вернуть истории её былую силу, она отправляется на поиски Билли Пресли — загадочной актрисы, сыгравшей в первом фильме и много лет назад исчезнувшей из публичной жизни. Но встреча на территории заброшенного лагеря, где когда-то снимали оригинал, превращается для Крис в опасное и всё более странное путешествие, в котором грань между кино, одержимостью и реальностью постепенно начинает исчезать.",
+        "genres": [
+          "комедия",
+          "ужасы",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/auJRaXce7WVZFGpaFR54tCFr74J.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1240889",
+        "vote_average": 6.503,
+        "runtime_minutes": 106,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 239618,
+        "title": "Американский заложник",
+        "original_title": "American Hostage",
+        "tagline": null,
+        "lead_actors": [
+          "Джон Хэмм",
+          "Джованни Рибизи"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-09-20",
+        "popularity": 33.2653,
+        "overview": "1970-е годы. Любимый радиожурналист из Индианаполиса Фред Хекман оказывается в центре смертельно опасного кризиса. Захватчик заложников Тони Киритсис требует интервью в его популярной новостной программе. Киритсис берёт в заложники своего ипотечного брокера Дика Холла , привязав к его шее проволоку, соединённую с дробовиком, и требует, чтобы его голос услышали.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/239618",
+        "vote_average": 7.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1514863,
+        "title": "Лучшие из лучших",
+        "original_title": "Best of the Best",
+        "tagline": null,
+        "lead_actors": [
+          "Майтреи Рамакришнан",
+          "Приянка Кедиа"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-18",
+        "popularity": 53.413,
+        "overview": "Лучшие подруги пытаются пережить первый курс и танцевальную команду с беспощадной конкуренцией.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1514863",
+        "vote_average": 6.607,
+        "runtime_minutes": 112,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 250203,
+        "title": "Братья",
+        "original_title": "Brothers",
+        "tagline": null,
+        "lead_actors": [
+          "Мэттью Макконахи",
+          "Вуди Харрельсон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-09-22",
+        "popularity": 11.4528,
+        "overview": "Голливудские актеры Мэттью Макконахи и Вуди Харрельсон уже давно лучшие друзья, но шокирующая семейная тайна наводит на мысль о том, что их связывает нечто большее.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/aPgmrBBWIp1HTazq0Q3ej7TmBTy.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/250203",
+        "vote_average": 10.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 205596,
+        "title": "Игра в имитацию",
+        "original_title": "The Imitation Game",
+        "tagline": "Истинная загадка была в человеке, который взломал код",
+        "lead_actors": [
+          "Бенедикт Камбербэтч",
+          "Кира Найтли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2014-12-19",
+        "popularity": 52.0994,
+        "overview": "1941 год. Британская разведка безуспешно бьется над расшифровкой кода шифровальной машины «Энигма», разработанной немцами. Для достижения результатов наняты лучшие специалисты в области дешифровки, среди которых математик Алан Тьюринг — ученый блестящий, но не от мира сего. Добиться расположения коллег ему поможет Джоан Кларк (Кира Найтли) — единственная девушка, оказавшаяся в мужской команде, работающей над «Энигмой». Они с Аланом даже успеют обручиться, поскольку беспредельно уважают друг друга, но до свадьбы дело не дойдет. Тьюринг не хочет мучить девушку, поскольку не в силах пойти против своей природы: он гей, а геев в Великобритании преследовали по закону.",
+        "genres": [
+          "история",
+          "драма",
+          "триллер",
+          "военный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uJpPm9i2z9tckfxiKFGwGER3l3x.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/205596",
+        "vote_average": 7.98,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 289196,
+        "title": "Токсичный",
+        "original_title": "Toxic",
+        "tagline": null,
+        "lead_actors": [
+          "Елизабет Чамберс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-05-05",
+        "popularity": 8.0307,
+        "overview": "Разберитесь в сложностях токсичных и травмирующих отношений. Раскрывая тщательно охраняемые секреты, травмы поколений и психологические проблемы.",
+        "genres": [
+          "криминал",
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nVEwAeZg7uOUMnEgoTbv04otNBb.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/289196",
+        "vote_average": 9.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
