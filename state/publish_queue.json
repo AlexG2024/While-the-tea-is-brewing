@@ -1,0 +1,184 @@
+{
+  "business_date": "2026-09-24",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 299534,
+        "title": "Мстители: Финал",
+        "original_title": "Avengers: Endgame",
+        "tagline": "«Часть путешествия – это конец»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Крис Эванс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2019-04-26",
+        "popularity": 95.2827,
+        "overview": "После разрушительных событий в «Мстители: Войны бесконечности», вселенная лежит в руинах. Оставшиеся в живых участники команды Мстителей снова объединяются в попытке восстановить баланс во вселенной.",
+        "genres": [
+          "приключения",
+          "фантастика",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dynnf8NGGfHTNMz8Vd3CzFtYjec.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/299534",
+        "vote_average": 8.244,
+        "runtime_minutes": 182,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 30957,
+        "title": "Удивительная гонка",
+        "original_title": "The Amazing Race",
+        "tagline": null,
+        "lead_actors": [
+          "Фил Кеогхан"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2001-09-05",
+        "popularity": 43.1953,
+        "overview": "Реалити-шоу, в котором команды из двух человек, связанные между собой разными отношениями (сестры, братья, друзья, супруги и тд) путешествуют по всему миру, параллельно выполняя забавные, интересные и порой невероятно сложные задания. Каждая команда стремится первой прибыть на «пит-стоп» (конечная точка каждого этапа), чтобы выиграть призы и избежать последнего места, которое влечет за собой исключение из гонки или в некоторых случаях серьезные проблемы в следующем этапе.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/30957",
+        "vote_average": 6.908,
+        "runtime_minutes": null,
+        "number_of_seasons": 39
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1263337,
+        "title": "Сердце зверя",
+        "original_title": "Heart of the Beast",
+        "tagline": "«Выживание зависит от их связи»",
+        "lead_actors": [
+          "Брэд Питт",
+          "Джей Кей Симмонс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-25",
+        "popularity": 88.7025,
+        "overview": "После авиакатастрофы офицер спецназа Джеймс Белмонт и его боевая собака Один оказываются в глуши Аляски. Вместе они вынуждены вести жестокую борьбу за выживание против стихии.",
+        "genres": [
+          "приключения",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/fOTKUSfg9C5DngN151Sfre9j6v7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1263337",
+        "vote_average": 7.7,
+        "runtime_minutes": 101,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 295778,
+        "title": "Клиника",
+        "original_title": "Scrubs",
+        "tagline": "«Клиника возвращается»",
+        "lead_actors": [
+          "Зак Брафф",
+          "Дональд Фэйсон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-02-25",
+        "popularity": 31.0301,
+        "overview": "Постаревший, но не повзрослевший Джей Ди вместе с верным Терком возвращается в стены клиники, чтобы столкнуться с зумерами и бюрократией.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/VFxayY1mV7Pp1A1qmyAsjrs2WG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/295778",
+        "vote_average": 7.773,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 120,
+        "title": "Властелин колец: братство кольца",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "tagline": "«Власть может заключаться в самых незначительных вещах...»",
+        "lead_actors": [
+          "Элайджа Вуд",
+          "Иэн МакКеллен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2001-12-19",
+        "popularity": 52.3341,
+        "overview": "Фродо Бэггинс отправляется в необыкновенное путешествие, чтобы уничтожить кольцо Саурона. Он пройдет путь от безмятежной деревни хоббитов до дымящихся пустошей Мордора.",
+        "genres": [
+          "приключения",
+          "фэнтези",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/k66mInzxbRSMCBousQwSnXWuo4G.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/120",
+        "vote_average": 8.445,
+        "runtime_minutes": 179,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256201,
+        "title": "Ублюдские хроники",
+        "original_title": "The Creep Tapes",
+        "tagline": null,
+        "lead_actors": [
+          "Марк Дюпласс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-11-15",
+        "popularity": 11.5641,
+        "overview": "В сериале рассказывается о коллекции видеокассет серийного убийцы, который под надуманным предлогом нанимает жертв для съемок. В каждом эпизоде - новая жертва.",
+        "genres": [
+          "детектив",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256201",
+        "vote_average": 6.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    }
+  ]
+}
