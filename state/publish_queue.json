@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-09-25",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1032863,
+        "title": "Гипотеза любви",
+        "original_title": "The Love Hypothesis",
+        "tagline": null,
+        "lead_actors": [
+          "Лили Рейнхарт",
+          "Том Бейтман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-23",
+        "popularity": 273.1621,
+        "overview": "В центре сюжета - аспирантка Олив Смит, полностью поглощённая учёбой и карьерой в академической среде. Чтобы доказать лучшей подруге, что она давно отреклась от воспоминаний о бывшем парне, Олив спонтанно целует первого встречного в университетском коридоре. Им оказывается доктор Адам Карлсен - суровый и довольно ворчливый профессор. Адам решает подыграть и предлагает Олив вступить в фиктивные отношения якобы ради научного эксперимента. Герои начинают изображать влюблённую пару, и постепенно строгие рамки этого соглашения начинают разрушаться. Научная логика сталкивается с непредсказуемостью чувств, заставляя обоих пересмотреть свои представления о любви.",
+        "genres": [
+          "мелодрама",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1032863",
+        "vote_average": 8.1,
+        "runtime_minutes": 112,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 34634,
+        "title": "Золотая лихорадка",
+        "original_title": "Gold Rush",
+        "tagline": null,
+        "lead_actors": [
+          "Паркер Щнабел",
+          "Чрис Доумитт"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2010-12-03",
+        "popularity": 42.1143,
+        "overview": "Шоу повествует о нескольких бригадах отчаянных парней, которые, поставив на кон все до последнего цента, отправляются на поиски драгоценного металла. В передаче уделяется внимание не только процессу добычи россыпи золота, но и взаимоотношениям между участниками. Каждый новый сезон этого популярного шоу ставит один и тот же вопрос — кто из соперников одержит верх на этот раз? Кому удастся переманить на свою сторону лучших мастеров и добыть самую современную и производительную технику? И кого ждет награда в виде золотых слитков, золотого песка и многотысячной выручки, а кто останется у разбитого старательского лотка?",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/2Lh4lh1Qo5w3edhhZhAdNZFzyVX.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/34634",
+        "vote_average": 7.16,
+        "runtime_minutes": null,
+        "number_of_seasons": 17
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1607127,
+        "title": "Один последний выстрел",
+        "original_title": "One Last Shot",
+        "tagline": null,
+        "lead_actors": [
+          "Скотт Эдкинс",
+          "Стивен Кри"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-22",
+        "popularity": 143.5208,
+        "overview": "Боец Navy SEALs Джейк Харрис должен помешать команде наёмников, возглавляемой его утратившим веру в страну бывшим товарищем, вывести из строя систему противоракетной обороны США.",
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1607127",
+        "vote_average": 7.7,
+        "runtime_minutes": 98,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 295778,
+        "title": "Клиника",
+        "original_title": "Scrubs",
+        "tagline": "«Клиника возвращается»",
+        "lead_actors": [
+          "Зак Брафф",
+          "Дональд Фэйсон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-02-25",
+        "popularity": 32.7125,
+        "overview": "Постаревший, но не повзрослевший Джей Ди вместе с верным Терком возвращается в стены клиники, чтобы столкнуться с зумерами и бюрократией.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/VFxayY1mV7Pp1A1qmyAsjrs2WG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/295778",
+        "vote_average": 7.773,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1083381,
+        "title": "Закулисье",
+        "original_title": "Backrooms",
+        "tagline": "«Вам здесь не место»",
+        "lead_actors": [
+          "Чиветел Эджиофор",
+          "Ренате Реинсве"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-29",
+        "popularity": 89.9788,
+        "overview": "Когда неудачливый продавец мебели Кларк обнаруживает скрытый портал в другое измерение в подвале своего магазина, он оказывается в бесконечном лабиринте извилистых жёлтых коридоров. В этом мире время и пространство не подчиняются логике, а нечто жуткое может скрываться за каждым углом.",
+        "genres": [
+          "ужасы",
+          "детектив",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/oBY8IQb9NpzbkCo0xzpz7Q1DCu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+        "vote_average": 7.0,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 299236,
+        "title": "Сестры Гримм",
+        "original_title": "The Sisters Grimm",
+        "tagline": null,
+        "lead_actors": [
+          "Ариэль Уинтер",
+          "Леах Невман"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-10-02",
+        "popularity": 18.0081,
+        "overview": "Через год после таинственного исчезновения родителей сёстры Сабрина и Дафна переезжают в волшебный городок, где сказки реальны, а секреты таятся за каждым углом.",
+        "genres": [
+          "Боевик и Приключения",
+          "НФ и Фэнтези",
+          "мультфильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/y8CD8whSEg6N2S9ISpUzbOWMna1.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/299236",
+        "vote_average": 8.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
