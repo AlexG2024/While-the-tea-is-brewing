@@ -1,0 +1,188 @@
+{
+  "business_date": "2026-09-26",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1375646,
+        "title": "Колония",
+        "original_title": "Colony",
+        "tagline": "«Выжить в улье»",
+        "lead_actors": [
+          "Чон Джи Хён",
+          "Ку Гё Хван"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-28",
+        "popularity": 224.2956,
+        "overview": "Во время конференции по биотехнологиям опасный вирус вырывается на свободу, и люди оказываются заблокированы в небоскрёбе — огромном выставочном центре, где начинается настоящий кошмар.",
+        "genres": [
+          "боевик",
+          "ужасы",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uQIlX1zpvM7FAKRbeyLDJN3zxrX.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1375646",
+        "vote_average": 8.07,
+        "runtime_minutes": 122,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 295778,
+        "title": "Клиника",
+        "original_title": "Scrubs",
+        "tagline": "«Клиника возвращается»",
+        "lead_actors": [
+          "Зак Брафф",
+          "Дональд Фэйсон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-02-25",
+        "popularity": 33.9464,
+        "overview": "Постаревший, но не повзрослевший Джей Ди вместе с верным Терком возвращается в стены клиники, чтобы столкнуться с зумерами и бюрократией.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/VFxayY1mV7Pp1A1qmyAsjrs2WG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/295778",
+        "vote_average": 7.773,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1492640,
+        "title": "Унабомбер",
+        "original_title": "UNABOMBER",
+        "tagline": "Разум может погрузиться в безумие.",
+        "lead_actors": [
+          "Рассел Кроу",
+          "Шейлин Вудли"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-25",
+        "popularity": 104.4732,
+        "overview": "Драма на основе реальных событий о том, как Тед Качинский превращается из гарвадского вундеркинда и предмета исследований в Унабомбера, разыскиваемого ФБР.",
+        "genres": [
+          "драма",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/2cG4kY2k5AWC7y2i3IMb6LsBpat.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1492640",
+        "vote_average": 7.2,
+        "runtime_minutes": 101,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 299236,
+        "title": "Сестры Гримм",
+        "original_title": "The Sisters Grimm",
+        "tagline": null,
+        "lead_actors": [
+          "Ариэль Уинтер",
+          "Леах Невман"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-10-02",
+        "popularity": 18.2883,
+        "overview": "Через год после таинственного исчезновения родителей сёстры Сабрина и Дафна переезжают в волшебный городок, где сказки реальны, а секреты таятся за каждым углом.",
+        "genres": [
+          "Боевик и Приключения",
+          "НФ и Фэнтези",
+          "мультфильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/y8CD8whSEg6N2S9ISpUzbOWMna1.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/299236",
+        "vote_average": 8.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1083381,
+        "title": "Закулисье",
+        "original_title": "Backrooms",
+        "tagline": "«Вам здесь не место»",
+        "lead_actors": [
+          "Чиветел Эджиофор",
+          "Ренате Реинсве"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-29",
+        "popularity": 95.227,
+        "overview": "Когда неудачливый продавец мебели Кларк обнаруживает скрытый портал в другое измерение в подвале своего магазина, он оказывается в бесконечном лабиринте извилистых жёлтых коридоров. В этом мире время и пространство не подчиняются логике, а нечто жуткое может скрываться за каждым углом.",
+        "genres": [
+          "ужасы",
+          "детектив",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/oBY8IQb9NpzbkCo0xzpz7Q1DCu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+        "vote_average": 7.0,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256201,
+        "title": "Ублюдские хроники",
+        "original_title": "The Creep Tapes",
+        "tagline": null,
+        "lead_actors": [
+          "Марк Дюпласс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-11-15",
+        "popularity": 11.592,
+        "overview": "В сериале рассказывается о коллекции видеокассет серийного убийцы, который под надуманным предлогом нанимает жертв для съемок. В каждом эпизоде - новая жертва.",
+        "genres": [
+          "детектив",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256201",
+        "vote_average": 6.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    }
+  ]
+}
