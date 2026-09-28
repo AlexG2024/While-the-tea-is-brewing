@@ -4023,6 +4023,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-09-25",
       "published_at": "2026-09-27T17:13:20.902499+00:00"
+    },
+    {
+      "key": "tmdb:movie:1465063:movie_now_playing:2026-09-25",
+      "dedupe_key": "tmdb:movie:1465063",
+      "media_type": "movie",
+      "tmdb_id": 1465063,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-09-25",
+      "published_at": "2026-09-28T07:31:01.756904+00:00"
     }
   ]
 }
