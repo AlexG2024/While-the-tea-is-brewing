@@ -1,0 +1,191 @@
+{
+  "business_date": "2026-09-28",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1465063,
+        "title": "Остров забвения",
+        "original_title": "Forgotten Island",
+        "tagline": "«Вперёд вместе»",
+        "lead_actors": [
+          "Габриэлла Уилсон",
+          "Лиза Соберано"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-25",
+        "popularity": 90.4838,
+        "overview": "На Филиппинах 1990-ых годов две лучшие подруги, Джо и Раисса, готовятся расстаться после окончания школы: Раисса должна уехать в США вместе с родителями. В последнюю ночь перед её отъездом девушки неожиданно попадают в таинственный мир Накали — остров, населённый магическими и мифическими существами. Здесь они обнаруживают, что чем дольше остаются на острове, тем быстрее исчезают их воспоминания. Теперь Джо и Раиссе предстоит найти способ вернуться домой, пока они окончательно не забудут друг друга и всё, что связывало их в прошлом.",
+        "genres": [
+          "мультфильм",
+          "приключения",
+          "фэнтези",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uhNMNaaovoZiYeaDYZ9BYX7jTAJ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+        "vote_average": 8.054,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 80748,
+        "title": "ФБР",
+        "original_title": "FBI",
+        "tagline": "«Верность, смелость, честность»",
+        "lead_actors": [
+          "Мисси Перегрим",
+          "Зико Заки"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2018-09-25",
+        "popularity": 151.4067,
+        "overview": "Нью-Йорк. Огромный город, жизнь в котором кипит. Каждый день отделение полиции борется с десятками тысяч случаев мелких и крупных преступлений. Самые серьезные дела берут на себя агенты федерального бюро расследований. Будни этих людей по-настоящему сложны, опасны и интересны одновременно. Каждый раз приходится расследовать сложные дела, путаница в которых может ввести в заблуждение даже бывалых детективов. Проект \"ФБР\" сконцентрирован на повседневной службе агентов бюро, которые работают над раскрытием дел, поступающих один за другим без остановки,а также проводят опасные операции по захвату подозреваемых.",
+        "genres": [
+          "криминал",
+          "Боевик и Приключения",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/s5UpIET8YeVa8gI3r78F0h98UnF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/80748",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 9
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1248832,
+        "title": "Диггер",
+        "original_title": "Digger",
+        "tagline": "«Мужчина. План. Крах»",
+        "lead_actors": [
+          "Том Круз",
+          "Риз Ахмед"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-02",
+        "popularity": 61.7038,
+        "overview": "Самый могущественный человек в мире отправляется на миссию, чтобы спасти человечество от катастрофы, которую он сам и устроил.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/dnM8OyhnLc1YdRyUtps6d4rAUgM.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1248832",
+        "vote_average": 7.8,
+        "runtime_minutes": 129,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 211288,
+        "title": "Следопыт",
+        "original_title": "Tracker",
+        "tagline": "«Мы все чего‑то ищем»",
+        "lead_actors": [
+          "Джастин Хартли",
+          "Фиона Рене"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-02-11",
+        "popularity": 79.1112,
+        "overview": "Колтер Шоу путешествует по стране на своем старом фургоне, чтобы помочь полиции и частным лицам раскрывать преступления и находить пропавших без вести людей, пока его последнее дело не меняет все.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/llSXoIf2KfsQ77MQDyZowGnBPxq.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/211288",
+        "vote_average": 7.619,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 533535,
+        "title": "Дэдпул 3",
+        "original_title": "Deadpool & Wolverine",
+        "tagline": "«Каждый заслуживает счастливого конца»",
+        "lead_actors": [
+          "Райан Рейнольдс",
+          "Хью Джекман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-07-26",
+        "popularity": 59.6287,
+        "overview": "Уэйд Уилсон попадает в организацию \"Управление временными изменениями\", что вынуждает его вернуться к своему альтер-эго Дэдпулу и изменить историю с помощью Росомахи.",
+        "genres": [
+          "боевик",
+          "комедия",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4Li3gy8Ga6q0bAz2odg7ZFoRqLy.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/533535",
+        "vote_average": 7.587,
+        "runtime_minutes": 128,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 290856,
+        "title": "Йеллоустоун: Маршалы",
+        "original_title": "Marshals",
+        "tagline": "Новая эра «Йеллоустоуна»",
+        "lead_actors": [
+          "Люк Граймс",
+          "Логан Маршалл-Грин"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-03-01",
+        "popularity": 49.8453,
+        "overview": "Кейси Даттон, бывший «морской котик», решает оставить ранчо Йеллоустоун и начать службу в рядах маршалов США. Его военная закалка и ковбойская выдержка оказываются незаменимыми в бескрайних просторах Монтаны, где закон часто проверяется на прочность суровой реальностью. Каждая операция напоминает Кейси о цене службы, а психологическое давление лишь усиливает внутренний конфликт.",
+        "genres": [
+          "драма",
+          "криминал",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/faJYIqgKoMDqDhdlvKYkbthkN5B.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/290856",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
