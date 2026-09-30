@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-09-30",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 671,
+        "title": "Гарри Поттер и философский камень",
+        "original_title": "Harry Potter and the Philosopher's Stone",
+        "tagline": "«Пусть начнётся волшебство»",
+        "lead_actors": [
+          "Дэниел Рэдклифф",
+          "Руперт Гринт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2001-11-16",
+        "popularity": 55.2826,
+        "overview": "Жизнь десятилетнего Гарри Поттера нельзя назвать сладкой: родители умерли, едва ему исполнился год, а от дяди и тёти, взявших сироту на воспитание, достаются лишь тычки да подзатыльники. Но в одиннадцатый день рождения Гарри всё меняется. Странный гость, неожиданно появившийся на пороге, приносит письмо, из которого мальчик узнаёт, что на самом деле он - волшебник и зачислен в школу магии под названием Хогвартс. А уже через пару недель Гарри будет мчаться в поезде Хогвартс-экспресс навстречу новой жизни, где его ждут невероятные приключения, верные друзья и самое главное — ключ к разгадке тайны смерти его родителей.",
+        "genres": [
+          "приключения",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/q3LZNzwW7ZWu4kSFIPGcB5CYFE4.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/671",
+        "vote_average": 7.904,
+        "runtime_minutes": 152,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 4614,
+        "title": "Морская полиция: Спецотдел",
+        "original_title": "NCIS",
+        "tagline": null,
+        "lead_actors": [
+          "Сеан Муррай",
+          "Уилмер Вальдеррама"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2003-09-23",
+        "popularity": 392.2924,
+        "overview": "Сериал о приключениях команды профессиональных спецагентов. Их миссия — расследовать преступления, которые каким-то образом связаны со служащими морской пехоты. Группу следователей возглавляет специальный агент Гиббс. Его команда — это экс-детектив Энтони ДиНоззо, выхоженка из Моссад — Зива Давид, специалисты в области судмедэкспертизы — Эбби Шуто и Дональд Маллард, а также профессионал в области IT — Тимоти МакГи.",
+        "genres": [
+          "криминал",
+          "драма",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4ltafNQAjz9jhZ4xPN3eLGPD5P8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/4614",
+        "vote_average": 7.613,
+        "runtime_minutes": null,
+        "number_of_seasons": 24
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1341138,
+        "title": "Девичник в спа",
+        "original_title": "Spa Weekend",
+        "tagline": "«Дружба - это настоящее приключение»",
+        "lead_actors": [
+          "Лесли Манн",
+          "Мишель Бюто"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-08-21",
+        "popularity": 52.5896,
+        "overview": "3 подруги решают провести выходные на спа-курорте, но отдых превращается в хаос, когда к ним внезапно присоединяется их приятельница-катастрофа.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pGyuM0qntTdW5g9bRwqH4h7gkms.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1341138",
+        "vote_average": 6.5,
+        "runtime_minutes": 97,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 58841,
+        "title": "Полиция Чикаго",
+        "original_title": "Chicago P.D.",
+        "tagline": null,
+        "lead_actors": [
+          "Джейсон Беге",
+          "Марина Скверкиати"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2014-01-08",
+        "popularity": 201.3943,
+        "overview": "Сериал о полиции Чикаго повествует нам о будничной жизни этой структуры. Там работают замечательные, бравые и смелые парни, но каждый из них имеет свой, порой нелёгкий, характер, ведь в такую структуру идут люди, сильные морально. В сериале есть несколько остросюжетных линий. Основная - это общение двух групп полицейских между собой. Они имеют различную степень власти и разную квалификацию, но постоянно должны решать вопросы вместе, иначе работа не будет выполнена. Второстепенные линии - раскрытие характеров героев-полицейских, а также уголовные дела, раскрытием которых они занимаются с упорством и по совести.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nMSL6PGiHOKefKWfS2UFV7mOIX4.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/58841",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 14
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 120,
+        "title": "Властелин колец: братство кольца",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "tagline": "«Власть может заключаться в самых незначительных вещах...»",
+        "lead_actors": [
+          "Элайджа Вуд",
+          "Иэн МакКеллен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2001-12-19",
+        "popularity": 50.4023,
+        "overview": "Фродо Бэггинс отправляется в необыкновенное путешествие, чтобы уничтожить кольцо Саурона. Он пройдет путь от безмятежной деревни хоббитов до дымящихся пустошей Мордора.",
+        "genres": [
+          "приключения",
+          "фэнтези",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/k66mInzxbRSMCBousQwSnXWuo4G.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/120",
+        "vote_average": 8.446,
+        "runtime_minutes": 179,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 44006,
+        "title": "Чикаго в огне",
+        "original_title": "Chicago Fire",
+        "tagline": "\"Почувствуй жар\"",
+        "lead_actors": [
+          "Тайлор Кинней",
+          "Дэвид Эйгенберг"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2012-10-10",
+        "popularity": 192.1658,
+        "overview": "Сериал рассказывает о самой тяжелой и опасной работе — пожарных и спасателей чикагского отделения Firehouse 51. Несмотря на повседневные геройства мужчин и женщин, их огромная самоотдача приводит к личным потерям. Главный герой Мэтью Кейси, прирожденный лидер и настоящий пожарный. Однако расставание с девушкой заставляет его взглянуть по-новому на многие вещи. Кроме этого, Кейси постоянно находится в конфронтации с другим членом своей команды — лейтенантом Келли Северайдом.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pfz9fm6XOorOFkxmin7tqFMv14g.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/44006",
+        "vote_average": 8.412,
+        "runtime_minutes": null,
+        "number_of_seasons": 15
+      }
+    }
+  ]
+}
