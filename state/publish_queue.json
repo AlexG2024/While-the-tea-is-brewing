@@ -1,0 +1,185 @@
+{
+  "business_date": "2026-10-01",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 977942,
+        "title": "Восставший",
+        "original_title": "The Uprising",
+        "tagline": "«Победи или умри»",
+        "lead_actors": [
+          "Эндрю Гарфилд",
+          "Джейми Белл"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-10",
+        "popularity": 149.8421,
+        "overview": "1381 год, Англия охвачена беспорядками. Во главе восставших оказывается обычный крестьянин Уот Тайлер, чья семья погибла во время эпидемии чумы. Он никогда не мечтал стать лидером, но именно ему предстоит изменить ход истории.",
+        "genres": [
+          "история",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uSDqNYQXOGTbWdMMmzMJkXROJDh.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/977942",
+        "vote_average": 8.134,
+        "runtime_minutes": 127,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 58841,
+        "title": "Полиция Чикаго",
+        "original_title": "Chicago P.D.",
+        "tagline": null,
+        "lead_actors": [
+          "Джейсон Беге",
+          "Марина Скверкиати"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2014-01-08",
+        "popularity": 176.1781,
+        "overview": "Сериал о полиции Чикаго повествует нам о будничной жизни этой структуры. Там работают замечательные, бравые и смелые парни, но каждый из них имеет свой, порой нелёгкий, характер, ведь в такую структуру идут люди, сильные морально. В сериале есть несколько остросюжетных линий. Основная - это общение двух групп полицейских между собой. Они имеют различную степень власти и разную квалификацию, но постоянно должны решать вопросы вместе, иначе работа не будет выполнена. Второстепенные линии - раскрытие характеров героев-полицейских, а также уголовные дела, раскрытием которых они занимаются с упорством и по совести.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nMSL6PGiHOKefKWfS2UFV7mOIX4.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/58841",
+        "vote_average": 8.421,
+        "runtime_minutes": null,
+        "number_of_seasons": 14
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1283515,
+        "title": "Тайный дневник Верити",
+        "original_title": "Verity",
+        "tagline": "«Там, куда мы идём, нет света»",
+        "lead_actors": [
+          "Дакота Джонсон",
+          "Энн Хэтэуэй"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-02",
+        "popularity": 74.0461,
+        "overview": "Нуждающаяся в работе писательница Лоуэн Эшли получает предложение от Джереми Кроуфорда — ей нужно дописать романы его жены. Жена Джереми — автор популярной серии романов Верити Кроуфорд, а из-за загадочного несчастного случая она не может закончить произведения. Работа принимает неожиданный оборот, когда Лоуэн находит тревожные личные записки Верити. Сталкиваясь с семейными тайнами, Лоуэн пытается отделить вымысел от реальности, в то время как границы в её отношениях с Джереми размываются.",
+        "genres": [
+          "детектив",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tnpEkM7NmsHStbBJxTd6gqPjkv8.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+        "vote_average": 6.955,
+        "runtime_minutes": 117,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 44006,
+        "title": "Чикаго в огне",
+        "original_title": "Chicago Fire",
+        "tagline": "\"Почувствуй жар\"",
+        "lead_actors": [
+          "Тайлор Кинней",
+          "Дэвид Эйгенберг"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2012-10-10",
+        "popularity": 172.9446,
+        "overview": "Сериал рассказывает о самой тяжелой и опасной работе — пожарных и спасателей чикагского отделения Firehouse 51. Несмотря на повседневные геройства мужчин и женщин, их огромная самоотдача приводит к личным потерям. Главный герой Мэтью Кейси, прирожденный лидер и настоящий пожарный. Однако расставание с девушкой заставляет его взглянуть по-новому на многие вещи. Кроме этого, Кейси постоянно находится в конфронтации с другим членом своей команды — лейтенантом Келли Северайдом.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pfz9fm6XOorOFkxmin7tqFMv14g.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/44006",
+        "vote_average": 8.412,
+        "runtime_minutes": null,
+        "number_of_seasons": 15
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 120,
+        "title": "Властелин колец: братство кольца",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "tagline": "«Власть может заключаться в самых незначительных вещах...»",
+        "lead_actors": [
+          "Элайджа Вуд",
+          "Иэн МакКеллен"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2001-12-19",
+        "popularity": 51.2012,
+        "overview": "Фродо Бэггинс отправляется в необыкновенное путешествие, чтобы уничтожить кольцо Саурона. Он пройдет путь от безмятежной деревни хоббитов до дымящихся пустошей Мордора.",
+        "genres": [
+          "приключения",
+          "фэнтези",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/k66mInzxbRSMCBousQwSnXWuo4G.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/120",
+        "vote_average": 8.446,
+        "runtime_minutes": 179,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 62650,
+        "title": "Медики Чикаго",
+        "original_title": "Chicago Med",
+        "tagline": null,
+        "lead_actors": [
+          "Стивен Вебер",
+          "Джесси Щрам"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2015-11-17",
+        "popularity": 135.7333,
+        "overview": "Сериал рассказывает о команде врачей, работающих в чикагской больнице. Каждый день им приходится работать в полном хаосе и разбираться с уникальными случаями.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xIBljvbjoFg8EM6EYXtMWgyt6Ud.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/62650",
+        "vote_average": 8.257,
+        "runtime_minutes": null,
+        "number_of_seasons": 12
+      }
+    }
+  ]
+}
