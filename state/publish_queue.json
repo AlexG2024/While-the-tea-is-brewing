@@ -1,0 +1,185 @@
+{
+  "business_date": "2026-10-03",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1275779,
+        "title": "День раскрытия",
+        "original_title": "Disclosure Day",
+        "tagline": "«Мы заслуживаем знать»",
+        "lead_actors": [
+          "Эмили Блант",
+          "Джош О'Коннор"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-12",
+        "popularity": 75.6235,
+        "overview": "Человечество узнаёт о прибытии на Землю инопланетян, чьё существование долгое время тщательно скрывалось.",
+        "genres": [
+          "фантастика",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/rwsWNNJKqLdN0ymCPx1yJagMVi.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1275779",
+        "vote_average": 7.466,
+        "runtime_minutes": 120,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 549,
+        "title": "Закон и порядок",
+        "original_title": "Law & Order",
+        "tagline": null,
+        "lead_actors": [
+          "Мора Тирни",
+          "Дэвид Аджала"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1990-09-13",
+        "popularity": 422.515,
+        "overview": "В системе уголовного судопроизводства обвинение представляют две независимые, равные по значению инстанции — полиция, расследующая преступления, и прокурор, представляющий дело в суде.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6IfLWdBXDuktBo8oVjiWxodSHCV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/549",
+        "vote_average": 7.285,
+        "runtime_minutes": null,
+        "number_of_seasons": 26
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 348,
+        "title": "Чужой",
+        "original_title": "Alien",
+        "tagline": "«В космосе твой крик никто не услышит...»",
+        "lead_actors": [
+          "Том Скеррит",
+          "Сигурни Уивер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1979-06-21",
+        "popularity": 61.3476,
+        "overview": "В далеком будущем возвращающийся на Землю грузовой космический корабль перехватывает исходящий с неизвестной планеты сигнал. Экипаж, в соответствии с основными инструкциями, обязан найти и исследовать источник сигнала. Оказавшись на планете, астронавты повсюду обнаруживают предметы, по виду напоминающие гигантские коконы.",
+        "genres": [
+          "ужасы",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zg4fcO8IuYRllK9wWVNqNlYpueL.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/348",
+        "vote_average": 8.174,
+        "runtime_minutes": 116,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 44006,
+        "title": "Чикаго в огне",
+        "original_title": "Chicago Fire",
+        "tagline": "\"Почувствуй жар\"",
+        "lead_actors": [
+          "Тайлор Кинней",
+          "Дэвид Эйгенберг"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2012-10-10",
+        "popularity": 166.2139,
+        "overview": "Сериал рассказывает о самой тяжелой и опасной работе — пожарных и спасателей чикагского отделения Firehouse 51. Несмотря на повседневные геройства мужчин и женщин, их огромная самоотдача приводит к личным потерям. Главный герой Мэтью Кейси, прирожденный лидер и настоящий пожарный. Однако расставание с девушкой заставляет его взглянуть по-новому на многие вещи. Кроме этого, Кейси постоянно находится в конфронтации с другим членом своей команды — лейтенантом Келли Северайдом.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pfz9fm6XOorOFkxmin7tqFMv14g.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/44006",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 15
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 4935,
+        "title": "Шагающий замок Хаула",
+        "original_title": "Howl's Moving Castle",
+        "tagline": null,
+        "lead_actors": [
+          "Тиэко Байсё",
+          "Такуя Кимура"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2005-06-10",
+        "popularity": 49.9671,
+        "overview": "Злая ведьма заточила 18-летнюю Софи в тело старухи. Девушка-бабушка бежит из города куда глаза глядят и встречает удивительный дом на ножках, где знакомится с могущественным волшебником Хаулом и демоном Кальцифером. Кальцифер должен служить Хаулу по договору, условия которого он не может разглашать. Девушка и демон решают помочь друг другу избавиться от злых чар.",
+        "genres": [
+          "фэнтези",
+          "мультфильм",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/oQvAlVSjYsJZPg9raiQRYE0aVrv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/4935",
+        "vote_average": 8.387,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 62650,
+        "title": "Медики Чикаго",
+        "original_title": "Chicago Med",
+        "tagline": null,
+        "lead_actors": [
+          "Стивен Вебер",
+          "Джесси Щрам"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2015-11-17",
+        "popularity": 132.9107,
+        "overview": "Сериал рассказывает о команде врачей, работающих в чикагской больнице. Каждый день им приходится работать в полном хаосе и разбираться с уникальными случаями.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xIBljvbjoFg8EM6EYXtMWgyt6Ud.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/62650",
+        "vote_average": 8.257,
+        "runtime_minutes": null,
+        "number_of_seasons": 12
+      }
+    }
+  ]
+}
