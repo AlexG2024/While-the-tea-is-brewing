@@ -1,0 +1,190 @@
+{
+  "business_date": "2026-10-04",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1300945,
+        "title": "Место молчания",
+        "original_title": "A Place Called Silence",
+        "tagline": null,
+        "lead_actors": [
+          "Эрик Ванг",
+          "張鈞甯"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-08-02",
+        "popularity": 83.8594,
+        "overview": "Подвергавшаяся буллингу старшеклассница Хуэй Цзюнь покончила с собой. Но даже после её смерти издевательства не остановились, и новой жертвой становится её лучшая подруга. Однако вскоре все обидчики начинают умирать один за другим. Кто же вершит правосудие таким способом? Мать школьницы, уборщик или таинственный парень, наблюдающий из тени?",
+        "genres": [
+          "криминал",
+          "детектив",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uKThqY2oRYSHOPxYryTp2550fuZ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1300945",
+        "vote_average": 7.45,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 62650,
+        "title": "Медики Чикаго",
+        "original_title": "Chicago Med",
+        "tagline": null,
+        "lead_actors": [
+          "Стивен Вебер",
+          "Джесси Щрам"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2015-11-17",
+        "popularity": 147.9084,
+        "overview": "Сериал рассказывает о команде врачей, работающих в чикагской больнице. Каждый день им приходится работать в полном хаосе и разбираться с уникальными случаями.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xIBljvbjoFg8EM6EYXtMWgyt6Ud.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/62650",
+        "vote_average": 8.257,
+        "runtime_minutes": null,
+        "number_of_seasons": 12
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 4935,
+        "title": "Шагающий замок Хаула",
+        "original_title": "Howl's Moving Castle",
+        "tagline": null,
+        "lead_actors": [
+          "Тиэко Байсё",
+          "Такуя Кимура"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2005-06-10",
+        "popularity": 50.7724,
+        "overview": "Злая ведьма заточила 18-летнюю Софи в тело старухи. Девушка-бабушка бежит из города куда глаза глядят и встречает удивительный дом на ножках, где знакомится с могущественным волшебником Хаулом и демоном Кальцифером. Кальцифер должен служить Хаулу по договору, условия которого он не может разглашать. Девушка и демон решают помочь друг другу избавиться от злых чар.",
+        "genres": [
+          "фэнтези",
+          "мультфильм",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/oQvAlVSjYsJZPg9raiQRYE0aVrv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/4935",
+        "vote_average": 8.388,
+        "runtime_minutes": 119,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 298505,
+        "title": "Академия ведьм",
+        "original_title": "Coven Academy",
+        "tagline": null,
+        "lead_actors": [
+          "Малина Вайсман",
+          "Малакай Бартон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-01",
+        "popularity": 132.9512,
+        "overview": "В самом сердце мистического Нового Орлеана следите за историей 3-ёх юных ведьм и их сверстников-колдунов, обучающихся в элитной магической школе-интернате. Здесь сила — это валюта, тайны смертельно опасны, а влечение друг к другу становится уязвимостью. Оказавшись между жерновами древних сверхъестественных войн и запретной любовью, ведьмы должны решить, как далеко они готовы зайти ради защиты своего города — и самих себя.",
+        "genres": [
+          "детектив",
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/298505",
+        "vote_average": 7.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 361743,
+        "title": "Лучший стрелок 2",
+        "original_title": "Top Gun: Maverick",
+        "tagline": "«Почувствуй жажду... Жажду скорости»",
+        "lead_actors": [
+          "Том Круз",
+          "Майлз Теллер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2022-05-27",
+        "popularity": 47.5475,
+        "overview": "Пит Митчелл по прозвищу Мэверик более 30 лет остается одним из лучших пилотов ВМФ: бесстрашный летчик-испытатель, он расширяет границы возможного и старательно избегает повышения в звании, которое заставило бы его приземлиться навсегда. Приступив к подготовке отряда выпускников «Топ Ган» для специальной миссии, Мэверик встречает лейтенанта Брэдли Брэдшоу - сына своего покойного друга, лейтенанта Ника Брэдшоу. Впереди — неопределенность, за спиной - призраки прошлого. Мэверик вынужден противостоять своим глубинным страхам, которые грозят ожить в рамках миссии, требующей исключительной самоотверженности от тех, кто будет назначен на вылет.",
+        "genres": [
+          "боевик",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/jpVrsq4uZiYcAlQ6phjHbY72uEM.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/361743",
+        "vote_average": 8.158,
+        "runtime_minutes": 130,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1877,
+        "title": "Финес и Ферб",
+        "original_title": "Phineas and Ferb",
+        "tagline": null,
+        "lead_actors": [
+          "Винсент Мартелла",
+          "Дэвид Эрриго мл."
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2007-08-17",
+        "popularity": 107.5086,
+        "overview": "Мультфильм о двух сводных братьях на летних каникулах, живущих в пригороде. Каждый день они придумывают безумные планы и строят невероятные изобретения, из-за чего они часто конфликтуют со своей сестрой. Наряду с этим домашний любимец мальчиков утконос Пэрри, действующий как секретный агент, пытается все время остановить злейшего, но придурковатого ученого по имени Хайнц Дуфеншмирц.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4lhRkyi8iczcebgK3fJJrtPqPIQ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1877",
+        "vote_average": 7.885,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    }
+  ]
+}
