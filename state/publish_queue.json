@@ -1,0 +1,192 @@
+{
+  "business_date": "2026-10-05",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1458857,
+        "title": "Жить эту жизнь",
+        "original_title": "Doing Life",
+        "tagline": null,
+        "lead_actors": [
+          "Наоми Бакер",
+          "Джей Ривз"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-02",
+        "popularity": 72.0641,
+        "overview": "Проникновенные письма из тюрьмы дают начало неожиданным отношениям между Аникой и Кэруселом, но выдержат ли они проверку их темным прошлым?",
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1458857",
+        "vote_average": 6.827,
+        "runtime_minutes": 108,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 298505,
+        "title": "Академия ведьм",
+        "original_title": "Coven Academy",
+        "tagline": null,
+        "lead_actors": [
+          "Малина Вайсман",
+          "Малакай Бартон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-01",
+        "popularity": 140.1023,
+        "overview": "В самом сердце мистического Нового Орлеана следите за историей 3-ёх юных ведьм и их сверстников-колдунов, обучающихся в элитной магической школе-интернате. Здесь сила — это валюта, тайны смертельно опасны, а влечение друг к другу становится уязвимостью. Оказавшись между жерновами древних сверхъестественных войн и запретной любовью, ведьмы должны решить, как далеко они готовы зайти ради защиты своего города — и самих себя.",
+        "genres": [
+          "детектив",
+          "драма",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/298505",
+        "vote_average": 7.294,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1184918,
+        "title": "Дикий робот",
+        "original_title": "The Wild Robot",
+        "tagline": "«Открой для себя свою истинную природу»",
+        "lead_actors": [
+          "Лупита Нионго",
+          "Педро Паскаль"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-09-27",
+        "popularity": 57.4821,
+        "overview": "После кораблекрушения, умный робот по имени Роз оказывается на необитаемом острове. Чтобы выжить в суровых условиях, Роз налаживает связь с животными острова и заботится об одиноком гусенке-сироте.",
+        "genres": [
+          "семейный",
+          "мультфильм",
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/sDTumQBxhIyYbZ9acsTtoLfb5ZG.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1184918",
+        "vote_average": 8.31,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 1877,
+        "title": "Финес и Ферб",
+        "original_title": "Phineas and Ferb",
+        "tagline": null,
+        "lead_actors": [
+          "Винсент Мартелла",
+          "Дэвид Эрриго мл."
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2007-08-17",
+        "popularity": 107.3216,
+        "overview": "Мультфильм о двух сводных братьях на летних каникулах, живущих в пригороде. Каждый день они придумывают безумные планы и строят невероятные изобретения, из-за чего они часто конфликтуют со своей сестрой. Наряду с этим домашний любимец мальчиков утконос Пэрри, действующий как секретный агент, пытается все время остановить злейшего, но придурковатого ученого по имени Хайнц Дуфеншмирц.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4lhRkyi8iczcebgK3fJJrtPqPIQ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/1877",
+        "vote_average": 7.887,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 9479,
+        "title": "Кошмар перед Рождеством",
+        "original_title": "The Nightmare Before Christmas",
+        "tagline": null,
+        "lead_actors": [
+          "Дэнни Эльфман",
+          "Чрис Сарандон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1993-10-29",
+        "popularity": 57.329,
+        "overview": "Мультфильм рассказывает о царстве Хэллоуин, царстве страхов и кошмаров, где живут мертвецы, уродцы, чудовища во главе с царем ужасов Джеком Скелингтоном. Под рождество Джек случайно попадает в город Рождества, где узнает, что есть где-то радость, добро и веселье.Ему страшно захотелось испытать это чувство — дарить людям счастье — и он похитил Сэнди Клауса и занял его место. Результаты были, правда, самые плачевные, да и подарки его никому, мягко говоря, не понравились. Но он все понял и исправил свою ошибку.",
+        "genres": [
+          "фэнтези",
+          "мультфильм",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/xvqFn90FxKTJflG4n0spZY7vySu.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/9479",
+        "vote_average": 7.845,
+        "runtime_minutes": 76,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 211288,
+        "title": "Следопыт",
+        "original_title": "Tracker",
+        "tagline": "«Мы все чего‑то ищем»",
+        "lead_actors": [
+          "Джастин Хартли",
+          "Фиона Рене"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-02-11",
+        "popularity": 79.5166,
+        "overview": "Колтер Шоу путешествует по стране на своем старом фургоне, чтобы помочь полиции и частным лицам раскрывать преступления и находить пропавших без вести людей, пока его последнее дело не меняет все.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/llSXoIf2KfsQ77MQDyZowGnBPxq.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/211288",
+        "vote_average": 7.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    }
+  ]
+}
