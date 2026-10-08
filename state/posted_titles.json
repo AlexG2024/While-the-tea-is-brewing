@@ -254,13 +254,13 @@
       "published_at": "2026-07-07T06:17:51.071593+00:00"
     },
     {
-      "key": "tmdb:movie:8587:movie_now_playing:1994-06-24",
-      "dedupe_key": "tmdb:movie:8587",
+      "key": "tmdb:movie:9479:movie_now_playing:1993-10-29",
+      "dedupe_key": "tmdb:movie:9479",
       "media_type": "movie",
-      "tmdb_id": 8587,
+      "tmdb_id": 9479,
       "event_type": "movie_now_playing",
-      "event_date_us": "1994-06-24",
-      "published_at": "2026-06-09T16:46:43.140647+00:00"
+      "event_date_us": "1993-10-29",
+      "published_at": "2026-10-08T07:19:40.932014+00:00"
     },
     {
       "key": "tmdb:movie:278:movie_now_playing:1994-10-14",
