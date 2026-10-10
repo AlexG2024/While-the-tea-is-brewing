@@ -1,0 +1,192 @@
+{
+  "business_date": "2026-10-10",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1084244,
+        "title": "История игрушек 5",
+        "original_title": "Toy Story 5",
+        "tagline": "«Привет! Давай играть!»",
+        "lead_actors": [
+          "Джоан Кьюсак",
+          "Том Хэнкс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-19",
+        "popularity": 151.0495,
+        "overview": "Вуди, Джесси и Базз Лайтер сталкиваются с новой угрозой — планшетом «ЛилиПад», который стал любимой игрушкой 8-летней Бонни и занимает всё больше её времени.",
+        "genres": [
+          "мультфильм",
+          "семейный",
+          "комедия",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/84igQj0DU3TgPrtQ7bHXHCio1sV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+        "vote_average": 8.296,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 284833,
+        "title": "Аватар: Семь убежищ",
+        "original_title": "Avatar: Seven Havens",
+        "tagline": null,
+        "lead_actors": [
+          "Сахели Хан",
+          "Аишваря 'Аишу Деван"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-09",
+        "popularity": 112.6723,
+        "overview": "В мире, разрушенном катастрофическим катаклизмом, юная маг Земли узнаёт, что она — новый Аватар после Корры. Но в эту опасную эпоху звание Аватара делает её не спасительницей человечества, а его разрушительницей. Преследуемая как людьми, так и духами, она вместе со своей давно потерянной сестрой-близнецом должна раскрыть тайну своего происхождения и спасти Семь Убежищ, прежде чем падут последние оплоты цивилизации.",
+        "genres": [
+          "мультфильм",
+          "Боевик и Приключения",
+          "НФ и Фэнтези",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/vYNar1VtdNyQXXUt16uPbIT6wzr.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/284833",
+        "vote_average": 8.75,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 3933,
+        "title": "Труп невесты",
+        "original_title": "Corpse Bride",
+        "tagline": "«Ошибка оказалась смертельной»",
+        "lead_actors": [
+          "Джонни Депп",
+          "Хелена Бонем Картер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2005-09-23",
+        "popularity": 54.3278,
+        "overview": "XIX век, небольшая европейская деревня. Силы тьмы утаскивают молодого Виктора в преисподнюю и женят там на таинственном Трупе Невесты, в то время как Виктория, настоящая невеста, ожидает его в мире живых. Несмотря на то что проживание в Царстве мертвых оказывается намного интереснее обычной жизни, Виктор понимает, что не может оставить Викторию, и пытается сбежать из мира духов.",
+        "genres": [
+          "мелодрама",
+          "фэнтези",
+          "мультфильм"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hTTajiDO6URIyB43ffVhaHgYvE3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/3933",
+        "vote_average": 7.6,
+        "runtime_minutes": 77,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 290856,
+        "title": "Йеллоустоун: Маршалы",
+        "original_title": "Marshals",
+        "tagline": "Новая эра «Йеллоустоуна»",
+        "lead_actors": [
+          "Люк Граймс",
+          "Логан Маршалл-Грин"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-03-01",
+        "popularity": 98.9829,
+        "overview": "Кейси Даттон, бывший «морской котик», решает оставить ранчо Йеллоустоун и начать службу в рядах маршалов США. Его военная закалка и ковбойская выдержка оказываются незаменимыми в бескрайних просторах Монтаны, где закон часто проверяется на прочность суровой реальностью. Каждая операция напоминает Кейси о цене службы, а психологическое давление лишь усиливает внутренний конфликт.",
+        "genres": [
+          "драма",
+          "криминал",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/faJYIqgKoMDqDhdlvKYkbthkN5B.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/290856",
+        "vote_average": 7.9,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1280738,
+        "title": "Живая ярость",
+        "original_title": "The Furious",
+        "tagline": "Чтобы спасти своих близких, они будут сражаться",
+        "lead_actors": [
+          "Се Мяо",
+          "Джо Таслим"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-12",
+        "popularity": 52.5378,
+        "overview": "Юго-Восточная Азия. Дочь немого разнорабочего Ван Вэя похищает преступная группировка. Не дождавшись помощи от полиции, он самостоятельно отправляется на поиски. Его неожиданным союзником становится Навин — неутомимый журналист, жена которого исчезла, расследуя деятельность той же самой группировки. Мужчинам из разных слоёв общества предстоит научиться доверять друг другу и сотрудничать, используя навыки рукопашного боя, полученные благодаря их тайному прошлому.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bVeGiwpYRIwSxBDREyOWjzcxN0r.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1280738",
+        "vote_average": 8.2,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 125935,
+        "title": "Начальная школа \"Эбботт\"",
+        "original_title": "Abbott Elementary",
+        "tagline": null,
+        "lead_actors": [
+          "Кинта Брансон",
+          "Тилер Джамес Виллиамс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-12-07",
+        "popularity": 72.997,
+        "overview": "Мокьюментари-комедия о самоотверженных учителях, которые работают в государственной школе в Филадельфии. Несмотря на недостаточное финансирование школы, преподаватели пытаются помочь детям добиться успеха в жизни.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ygNsVvTRuvhg1rPKSijskWX46gS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/125935",
+        "vote_average": 7.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 6
+      }
+    }
+  ]
+}
