@@ -641,6 +641,15 @@
       "published_at": "2026-08-11T09:31:07.143751+00:00"
     },
     {
+      "key": "tmdb:movie:3933:movie_now_playing:2005-09-23",
+      "dedupe_key": "tmdb:movie:3933",
+      "media_type": "movie",
+      "tmdb_id": 3933,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2005-09-23",
+      "published_at": "2026-10-10T18:51:04.950826+00:00"
+    },
+    {
       "key": "tmdb:movie:1422:movie_now_playing:2006-10-05",
       "dedupe_key": "tmdb:movie:1422",
       "media_type": "movie",
