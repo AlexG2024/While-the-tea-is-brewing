@@ -182,6 +182,15 @@
       "published_at": "2026-09-19T12:01:34.824274+00:00"
     },
     {
+      "key": "tmdb:tv:456:tv_on_the_air:1989-12-17",
+      "dedupe_key": "tmdb:tv:456",
+      "media_type": "tv",
+      "tmdb_id": 456,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "1989-12-17",
+      "published_at": "2026-10-11T18:16:24.937902+00:00"
+    },
+    {
       "key": "tmdb:tv:549:tv_on_the_air:1990-09-13",
       "dedupe_key": "tmdb:tv:549",
       "media_type": "tv",
