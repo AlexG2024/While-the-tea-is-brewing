@@ -200,15 +200,6 @@
       "published_at": "2026-10-03T13:27:42.910468+00:00"
     },
     {
-      "key": "tmdb:movie:769:movie_now_playing:1990-09-21",
-      "dedupe_key": "tmdb:movie:769",
-      "media_type": "movie",
-      "tmdb_id": 769,
-      "event_type": "movie_now_playing",
-      "event_date_us": "1990-09-21",
-      "published_at": "2026-06-14T13:08:01.314431+00:00"
-    },
-    {
       "key": "tmdb:movie:280:movie_now_playing:1991-07-03",
       "dedupe_key": "tmdb:movie:280",
       "media_type": "movie",
@@ -495,15 +486,6 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2002-05-03",
       "published_at": "2026-06-20T15:10:33.146673+00:00"
-    },
-    {
-      "key": "tmdb:movie:121:movie_now_playing:2002-12-18",
-      "dedupe_key": "tmdb:movie:121",
-      "media_type": "movie",
-      "tmdb_id": 121,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2002-12-18",
-      "published_at": "2026-06-14T11:17:35.805424+00:00"
     },
     {
       "key": "tmdb:movie:12:movie_now_playing:2003-05-30",
@@ -1991,15 +1973,6 @@
       "published_at": "2026-06-20T11:31:38.861418+00:00"
     },
     {
-      "key": "tmdb:movie:1022789:movie_now_playing:2024-06-14",
-      "dedupe_key": "tmdb:movie:1022789",
-      "media_type": "movie",
-      "tmdb_id": 1022789,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2024-06-14",
-      "published_at": "2026-06-14T08:46:02.829622+00:00"
-    },
-    {
       "key": "tmdb:movie:519182:movie_now_playing:2024-07-03",
       "dedupe_key": "tmdb:movie:519182",
       "media_type": "movie",
@@ -2583,6 +2556,15 @@
       "event_type": "tv_on_the_air",
       "event_date_us": "2026-02-25",
       "published_at": "2026-09-26T14:32:42.392406+00:00"
+    },
+    {
+      "key": "tmdb:tv:290856:tv_on_the_air:2026-03-01",
+      "dedupe_key": "tmdb:tv:290856",
+      "media_type": "tv",
+      "tmdb_id": 290856,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2026-03-01",
+      "published_at": "2026-10-12T16:53:00.707109+00:00"
     },
     {
       "key": "tmdb:tv:302074:tv_on_the_air:2026-03-03",
