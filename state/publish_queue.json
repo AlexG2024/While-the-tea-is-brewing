@@ -1,0 +1,189 @@
+{
+  "business_date": "2026-10-13",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1470424,
+        "title": "Голосовой помощник",
+        "original_title": "Virtual Assistant",
+        "tagline": null,
+        "lead_actors": [
+          "Полина Федина",
+          "Илья Антоненко"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2025-11-06",
+        "popularity": 89.3256,
+        "overview": "Компания друзей арендует на выходные дизайнерский загородный дом. Там есть всё для комфортного и весёлого отдыха, включая умную колонку Алёна. Она умеет развлекать гостей и управлять домом, а ещё ей известны секреты, которые скрывают друзья. Устройство вынуждает компанию играть в игру «Найди убийцу», чтобы выяснить обстоятельства смерти их подруги, которая погибла менее года назад.",
+        "genres": [
+          "триллер",
+          "детектив",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/AsvgohgYkRxYNWt5ovOth6x57Vm.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1470424",
+        "vote_average": 6.962,
+        "runtime_minutes": 104,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 125935,
+        "title": "Начальная школа \"Эбботт\"",
+        "original_title": "Abbott Elementary",
+        "tagline": null,
+        "lead_actors": [
+          "Кинта Брансон",
+          "Тилер Джамес Виллиамс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-12-07",
+        "popularity": 62.0235,
+        "overview": "Мокьюментари-комедия о самоотверженных учителях, которые работают в государственной школе в Филадельфии. Несмотря на недостаточное финансирование школы, преподаватели пытаются помочь детям добиться успеха в жизни.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ygNsVvTRuvhg1rPKSijskWX46gS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/125935",
+        "vote_average": 7.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 6
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1281331,
+        "title": "Социальный расчёт",
+        "original_title": "The Social Reckoning",
+        "tagline": "«Мы уже давно перестали заводить друзей»",
+        "lead_actors": [
+          "Майки Мэдисон",
+          "Джереми Аллен Уайт"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-09",
+        "popularity": 64.9285,
+        "overview": "Фрэнсис Хоген, молодой инженер Facebook, обращается за помощью к Джеффу Хорвицу, репортеру Wall Street Journal, чтобы отправиться в опасное путешествие, которое в конечном итоге раскрывает самые охраняемые секреты социальной сети.",
+        "genres": [
+          "драма",
+          "история",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1281331",
+        "vote_average": 7.108,
+        "runtime_minutes": 112,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 226285,
+        "title": "Элсбет",
+        "original_title": "Elsbeth",
+        "tagline": null,
+        "lead_actors": [
+          "Кэрри Престон",
+          "Уэнделл Пирс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-02-29",
+        "popularity": 55.193,
+        "overview": "Элсбет Тасиони не раз выручала Алисию Флорик и ее окружение. Проницательная, но при этом немного рассеянная, она будет продолжать защищать клиентов и бороться с преступностью.",
+        "genres": [
+          "криминал",
+          "драма",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/g72iOlvricEaoYeQZgw4bChdGxv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/226285",
+        "vote_average": 6.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1280738,
+        "title": "Живая ярость",
+        "original_title": "The Furious",
+        "tagline": "Чтобы спасти своих близких, они будут сражаться",
+        "lead_actors": [
+          "Се Мяо",
+          "Джо Таслим"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-06-12",
+        "popularity": 51.3386,
+        "overview": "Юго-Восточная Азия. Дочь немого разнорабочего Ван Вэя похищает преступная группировка. Не дождавшись помощи от полиции, он самостоятельно отправляется на поиски. Его неожиданным союзником становится Навин — неутомимый журналист, жена которого исчезла, расследуя деятельность той же самой группировки. Мужчинам из разных слоёв общества предстоит научиться доверять друг другу и сотрудничать, используя навыки рукопашного боя, полученные благодаря их тайному прошлому.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bVeGiwpYRIwSxBDREyOWjzcxN0r.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1280738",
+        "vote_average": 8.21,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 202297,
+        "title": "Страна пожаров",
+        "original_title": "Fire Country",
+        "tagline": "«Посмотреть в лицо огню»",
+        "lead_actors": [
+          "Макс Тириот",
+          "Кевин Алехандро"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2022-10-07",
+        "popularity": 54.6257,
+        "overview": "Молодой заключённый Боди Донован присоединяется к программе пожаротушения, желая искупить вину и заодно сократить срок тюремного заключения. Он вернулся в свой родной городок в Северной Калифорнии. Он вместе с другими заключенными присоединяется к элитными пожарными, чтобы тушить масштабные пожары по всему региону.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6fdkdAC9vvsognYt1jUESQpNOB.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/202297",
+        "vote_average": 8.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    }
+  ]
+}
