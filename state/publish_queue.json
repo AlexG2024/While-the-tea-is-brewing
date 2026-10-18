@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-10-18",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1288069,
+        "title": "Тенцинг",
+        "original_title": "Tenzing",
+        "tagline": "История первого восхождения на Эверест.",
+        "lead_actors": [
+          "Генден Пансток",
+          "Том Хиддлстон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-09",
+        "popularity": 88.4125,
+        "overview": "Решительный человек отправляется в опасное приключение, бросая вызов обстоятельствам, казавшимся непреодолимыми. Всё ради воплощения мечты — стать первым человеком, покорившим Эверест.",
+        "genres": [
+          "драма",
+          "история"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ieS40Zp9hmDwoZdRUVB3v8HgJaK.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1288069",
+        "vote_average": 8.182,
+        "runtime_minutes": 128,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 243875,
+        "title": "Первый брак Джорджи и Мэнди",
+        "original_title": "Georgie & Mandy's First Marriage",
+        "tagline": "«Первый раз всегда самый сложный»",
+        "lead_actors": [
+          "Монтана Джордан",
+          "Емили Осмент"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-10-17",
+        "popularity": 44.5626,
+        "overview": "Молодые супруги Джорджи и Мэнди пытаются привыкнуть к взрослой жизни и родительству, а также борются за свои отношения.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1gWusE6euLUuVRaIn2IHIryC8V4.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/243875",
+        "vote_average": 8.056,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1255833,
+        "title": "Кит: Во тьме глубин",
+        "original_title": "Whalefall",
+        "tagline": "«Задержи дыхание»",
+        "lead_actors": [
+          "Остин Абрамс",
+          "Джош Бролин"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-16",
+        "popularity": 81.9012,
+        "overview": "Калифорния. Молодой аквалангист Джей Гардинер погружается в океан в поисках останков своего отца, однако его проглатывает гигантский кашалот. Теперь у Джея есть час, чтобы выбраться из кита, прежде чем у него закончится запас кислорода. Оказавшись в ловушке на грани смерти, парень вспоминает своего отца и находит в себе силы преодолеть страх и бороться за жизнь.",
+        "genres": [
+          "триллер",
+          "драма",
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/sqrx5rMkdSSaXTmd19jAbUx5Cpc.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1255833",
+        "vote_average": 6.95,
+        "runtime_minutes": 106,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 289560,
+        "title": "ЦРУ",
+        "original_title": "CIA",
+        "tagline": "Два агента. Одна миссия. Два подхода.",
+        "lead_actors": [
+          "Том Эллис",
+          "Ник Гелфусс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-02-23",
+        "popularity": 38.6461,
+        "overview": "История о сотрудничестве агента ФБР и агента ЦРУ, которые вместе работают в секретной оперативной группе, занимающейся борьбой с внутренним терроризмом в Нью‑Йорке.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/eoVEHMHwopPkcCqIXCoxmM2WDlH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/289560",
+        "vote_average": 8.449,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1010581,
+        "title": "Моя вина",
+        "original_title": "My Fault",
+        "tagline": "«Опасная связь, меняющая всё.»",
+        "lead_actors": [
+          "Николь Уоллес",
+          "Габриель Гевара"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-06-08",
+        "popularity": 69.5848,
+        "overview": "Ноа вынуждена оставить свой город, парня и друзей и переехать в особняк нового богатого мужа своей матери. Там она встречает Ника, своего нового сводного брата. Втайне они безумно влюбляются друг в друга.",
+        "genres": [
+          "драма",
+          "мелодрама",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/A7DVPPR5JS8o4fR9NGfv0M9Gilv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1010581",
+        "vote_average": 7.725,
+        "runtime_minutes": 117,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 154521,
+        "title": "Кардашьян",
+        "original_title": "The Kardashians",
+        "tagline": null,
+        "lead_actors": [
+          "Крис Дженнер",
+          "Коуртней Кардашиан Баркер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2022-04-14",
+        "popularity": 37.3417,
+        "overview": "Сериал рассказывает о жизни семейства Кардашьян.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/gqYla70EuucOvjWiF08ebR867X3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/154521",
+        "vote_average": 8.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 8
+      }
+    }
+  ]
+}
