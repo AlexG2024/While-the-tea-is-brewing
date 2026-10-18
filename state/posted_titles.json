@@ -488,15 +488,6 @@
       "published_at": "2026-07-10T12:57:08.583511+00:00"
     },
     {
-      "key": "tmdb:movie:557:movie_now_playing:2002-05-03",
-      "dedupe_key": "tmdb:movie:557",
-      "media_type": "movie",
-      "tmdb_id": 557,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2002-05-03",
-      "published_at": "2026-06-20T15:10:33.146673+00:00"
-    },
-    {
       "key": "tmdb:movie:12:movie_now_playing:2003-05-30",
       "dedupe_key": "tmdb:movie:12",
       "media_type": "movie",
@@ -3825,6 +3816,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-10-16",
       "published_at": "2026-10-16T09:39:17.862440+00:00"
+    },
+    {
+      "key": "tmdb:movie:1255833:movie_now_playing:2026-10-16",
+      "dedupe_key": "tmdb:movie:1255833",
+      "media_type": "movie",
+      "tmdb_id": 1255833,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-10-16",
+      "published_at": "2026-10-18T16:46:51.603563+00:00"
     }
   ]
 }
