@@ -3834,6 +3834,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-10-16",
       "published_at": "2026-10-18T16:46:51.603563+00:00"
+    },
+    {
+      "key": "tmdb:movie:1561726:movie_now_playing:2026-10-16",
+      "dedupe_key": "tmdb:movie:1561726",
+      "media_type": "movie",
+      "tmdb_id": 1561726,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-10-16",
+      "published_at": "2026-10-19T06:29:43.042280+00:00"
     }
   ]
 }
