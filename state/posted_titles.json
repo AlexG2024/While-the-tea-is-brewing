@@ -2009,6 +2009,15 @@
       "published_at": "2026-10-09T13:28:51.481401+00:00"
     },
     {
+      "key": "tmdb:tv:243006:tv_on_the_air:2024-10-14",
+      "dedupe_key": "tmdb:tv:243006",
+      "media_type": "tv",
+      "tmdb_id": 243006,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2024-10-14",
+      "published_at": "2026-10-21T20:40:48.505399+00:00"
+    },
+    {
       "key": "tmdb:tv:243875:tv_on_the_air:2024-10-17",
       "dedupe_key": "tmdb:tv:243875",
       "media_type": "tv",
