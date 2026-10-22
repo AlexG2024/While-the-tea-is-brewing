@@ -1,0 +1,191 @@
+{
+  "business_date": "2026-10-22",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1400940,
+        "title": "Клэйфейс",
+        "original_title": "Clayface",
+        "tagline": "«Посмотрите страху в лицо»",
+        "lead_actors": [
+          "Том Рис Харрис",
+          "Наоми Экки"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-23",
+        "popularity": 192.4303,
+        "overview": "После травмы, обезобразившей его лицо, молодой актёр Мэтт Хейген соглашается пройти особое лечение. Однако научный эксперимент не даёт тех результатов, на которые рассчитывал Мэтт, и в результате его тело и кожа становятся гибкими и податливыми, как глина. Потерявший чувство личности и человечности актёр превращается в движимого жаждой мести монстра.",
+        "genres": [
+          "ужасы",
+          "триллер",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/r2ib7b2QRLRlb8g7K2QI2rfFgeA.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1400940",
+        "vote_average": 7.5,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 275139,
+        "title": "Подмена",
+        "original_title": "Phony",
+        "tagline": null,
+        "lead_actors": [
+          "Конни Бриттон",
+          "Сэмюэль Нивола"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-20",
+        "popularity": 36.4515,
+        "overview": "Очнувшись после ужасной автомобильной аварии, Сонни обнаруживает, что его мать заменила самозванка.",
+        "genres": [
+          "комедия",
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3vr968BrQl6ERKuoRdUib8qtlhJ.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/275139",
+        "vote_average": 7.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1315772,
+        "title": "Миньоны 3",
+        "original_title": "Minions & Monsters",
+        "tagline": "«У Голливуда огромная проблема»",
+        "lead_actors": [
+          "Пьер Коффен",
+          "Трей Паркер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-01",
+        "popularity": 80.6518,
+        "overview": "1920-ые годы. Миньоны снимаются в кино и покоряют Голливуд. Чтобы снять свой собственный фильм о монстрах, они отправляются на поиски самых пугающих существ.",
+        "genres": [
+          "приключения",
+          "мультфильм",
+          "комедия",
+          "семейный",
+          "фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kuVqoYoUnlL9OLhGfobqMRYxVIT.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1315772",
+        "vote_average": 7.565,
+        "runtime_minutes": 90,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 21755,
+        "title": "Звёзды ломбарда",
+        "original_title": "Pawn Stars",
+        "tagline": null,
+        "lead_actors": [
+          "Рик Харрисон",
+          "Корей Харрисон"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2009-07-19",
+        "popularity": 31.5938,
+        "overview": "В этом реалити-шоу рассказывается о единственном  в Лас-Вегасе семейном ломбарде, где три поколения мужчин семьи  Харрисонов покупают и продают коллекционные и имеющие историческую  ценность вещи. Клиенты ломбарда — часто весьма колоритные  персонажи — приносят Харрисонам интересные вещи в надежде получить  за них хорошие деньги.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3YxmQmoSbv9bXHYWIEDztstZguC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/21755",
+        "vote_average": 7.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 25
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 10601,
+        "title": "Питер Пэн",
+        "original_title": "Peter Pan",
+        "tagline": null,
+        "lead_actors": [
+          "Джереми Сумптер",
+          "Джейсон Айзекс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2003-12-25",
+        "popularity": 52.2158,
+        "overview": "Питер Пэн — нестареющий мальчик, живущий в стране Нетландии с другими вечно юными детьми. Тем временем фея по имени Тинк наделяет трех лондонских детей — Уэнди, Джона и Майкла Дарлингов — способностью летать.Они перемещаются в Нетландию, где им приходится вступить в противоборство с бандой пиратов под командованием жестокого Капитана Крюка, который напоминает детям кого-то очень хорошо знакомого…",
+        "genres": [
+          "приключения",
+          "фэнтези",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/24wkVa4hD7vH9Hsx3mHy3eEv3dT.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/10601",
+        "vote_average": 7.129,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 284838,
+        "title": "9-1-1: Нэшвилл",
+        "original_title": "9-1-1: Nashville",
+        "tagline": null,
+        "lead_actors": [
+          "Крис О’Доннелл",
+          "Джессика Кэпшоу"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-10-09",
+        "popularity": 30.4044,
+        "overview": "История о героических буднях спасателей и их семейной драме, пропитанной властью и роскошью. Действие разворачивается в одном из самых ярких и живых городов США — Нэшвилле, Теннесси",
+        "genres": [
+          "драма",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ojaiAggdoxqzwtJdC475jWbLkiV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/284838",
+        "vote_average": 7.99,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
