@@ -1,0 +1,191 @@
+{
+  "business_date": "2026-10-23",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1433583,
+        "title": "До последнего грамма",
+        "original_title": "The Weight",
+        "tagline": "«История о добре и зле»",
+        "lead_actors": [
+          "Итан Хоук",
+          "Рассел Кроу"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-18",
+        "popularity": 78.5985,
+        "overview": "Мёрфи разлучают с дочерью, чтобы он отбыл тюремный срок. Начальник тюрьмы предлагает ему и нескольким другим заключённым возможность обрести свободу в обмен на участие в опасной операции по контрабанде золота. Мёрфи отправляется в путь вместе с людьми, которым нельзя доверять. И чем глубже они увязают в деле, тем очевиднее становится: человеческая жадность тяжелее золота.",
+        "genres": [
+          "триллер",
+          "приключения",
+          "история",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/e2wSpe5SwtsCeyuUSgwXivt84MS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1433583",
+        "vote_average": 6.678,
+        "runtime_minutes": 115,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 126027,
+        "title": "Призраки",
+        "original_title": "Ghosts",
+        "tagline": "«Попробуйте ужиться с соседями с того света»",
+        "lead_actors": [
+          "Роуз МакАйвер",
+          "Уткараш Амбудкар"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-10-07",
+        "popularity": 77.1863,
+        "overview": "Журналистка Саманта и повар Джей получают в наследство заброшенное поместье и решают превратить его в уютный мини-отель. Но в доме живут призраки, которые не хотят, чтобы вокруг постоянно сновали незнакомцы. Привидения решают дать отпор, но после этого Саманта теряет сознание, а когда приходит в себя, начинает их видеть. Оказывается, в усадьбе обитают блюститель закона из XVIII века, хиппи из 1960-х, командир отряда бойскаутов из 1980-х, аферист из 1990-х и другие призраки из разных эпох.",
+        "genres": [
+          "комедия",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/uR60glr02UkHIiIsLDZ6NNrxh3O.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/126027",
+        "vote_average": 8.123,
+        "runtime_minutes": null,
+        "number_of_seasons": 6
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 446893,
+        "title": "Тролли 2",
+        "original_title": "Trolls World Tour",
+        "tagline": "«Счастье Будет Всем»",
+        "lead_actors": [
+          "Анна Кендрик",
+          "Джастин Тимберлейк"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2020-04-10",
+        "popularity": 74.2301,
+        "overview": "Герои узнают, что за границами их поселения есть земли, на которых живут другие тролли с разными музыкальными предпочтениями. Внезапно объявляется королева Рокс, замышляющая уничтожить всё и устроить правление хард-рока. Друзья решают объединиться и отправиться в путешествие, чтобы спасти свою деревню от новой опасности.",
+        "genres": [
+          "семейный",
+          "мультфильм",
+          "комедия",
+          "фэнтези",
+          "приключения",
+          "музыка"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/yLCS8WKun2nP42XYer8e1QwMBj1.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/446893",
+        "vote_average": 7.219,
+        "runtime_minutes": 90,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 304842,
+        "title": "Дроп: Снегопад. Сага",
+        "original_title": "The Drop: A Snowfall Saga",
+        "tagline": null,
+        "lead_actors": [
+          "Гаил Беан",
+          "Ысаиах Джохн"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-09-08",
+        "popularity": 32.9705,
+        "overview": "Ванда Бэлл и Леон Симмонс пытаются начать жизнь заново в Лос-Анджелесе 1990-х. На фоне последствий эпидемии крэк-кокаина зарождается новая индустрия — рэп Западного побережья. Ванда верит в его способность изменить американскую культуру и собирает команду талантливых музыкантов, а Леон стремится окончательно порвать с криминальным прошлым и искупить свои грехи, оказывая бесплатную юридическую помощь жителям Южного Централа. Их пути снова пересекаются, когда Ванда начинает стажировку у бывшего наркоторговца, ставшего владельцем музыкального лейбла.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/304842",
+        "vote_average": 8.1,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1198654,
+        "title": "Паршивые овцы",
+        "original_title": "Bad Apples",
+        "tagline": "«Достаточно всего одного»",
+        "lead_actors": [
+          "Сирша Ронан",
+          "Еддие Валлер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-09-18",
+        "popularity": 74.1056,
+        "overview": "Мария, учительница начальных классов, изо всех сил пытается воодушевить класс из 10-летних детей, но у неё не получается из-за одного неуправляемого ученика. Когда её карьера оказывается под угрозой, а поведение ребёнка резко ухудшается, она принимает ряд неверных решений. В результате она случайно забирает и запирает сложного ученика у себя дома. Учительница пытается вернуться к исходному положению вещей, но класс начинает процветать. Другие учителя и родители остаются довольны улучшениями, и Мария оказывается в затруднительном положении.",
+        "genres": [
+          "комедия",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/fUr2nWvcrDf7S1uZrEU6ai7Zgsl.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1198654",
+        "vote_average": 6.7,
+        "runtime_minutes": 100,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 284838,
+        "title": "9-1-1: Нэшвилл",
+        "original_title": "9-1-1: Nashville",
+        "tagline": null,
+        "lead_actors": [
+          "Крис О’Доннелл",
+          "Джессика Кэпшоу"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-10-09",
+        "popularity": 30.6552,
+        "overview": "История о героических буднях спасателей и их семейной драме, пропитанной властью и роскошью. Действие разворачивается в одном из самых ярких и живых городов США — Нэшвилле, Теннесси",
+        "genres": [
+          "драма",
+          "Боевик и Приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ojaiAggdoxqzwtJdC475jWbLkiV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/284838",
+        "vote_average": 7.99,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
