@@ -100,8 +100,8 @@
     },
     {
       "slot_time": "17:20",
-      "published": false,
-      "published_at": null,
+      "published": true,
+      "published_at": "2026-10-23T20:22:31.320954+00:00",
       "item": {
         "source": "tmdb",
         "media_type": "tv",
