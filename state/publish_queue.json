@@ -1,0 +1,188 @@
+{
+  "business_date": "2026-10-28",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1290418,
+        "title": "Цикл зверя",
+        "original_title": "The Cycle",
+        "tagline": null,
+        "lead_actors": [
+          "Дебора Энн Уолл",
+          "Джеффри Донован"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-23",
+        "popularity": 76.6231,
+        "overview": "В тихом доме на побережье полиция обнаруживает тела двух жителей, а во дворе — останки пожилого мужчины. Вскоре выясняется, что погибший — бесследно исчезнувший много лет назад отец специалистки в области судебной антропологии Мэг Гарланд. Поначалу Мэг отказывается участвовать в расследовании, но научный интерес и тревожные воспоминания заставляют ее изменить решение. Вместе с начальником полиции Иэном Марксом и его отцом, лейтенантом Марксом, Мэг пытается разобраться в обстоятельствах смерти отца. Однако результаты вскрытия ставят под сомнение привычные представления о возможном и невозможном. Расследование постепенно приводит девушку к тайне зловещей силы, которая долгие годы скрывалась в тихом приморском городке.",
+        "genres": [
+          "криминал",
+          "ужасы",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ik9hlrX7FZbUUoJBtXzxki3nicB.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1290418",
+        "vote_average": 7.2,
+        "runtime_minutes": 111,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 284736,
+        "title": "Голубая кровь: Бостон",
+        "original_title": "Boston Blue",
+        "tagline": null,
+        "lead_actors": [
+          "Донни Уолберг",
+          "Сонеква Мартин-греен"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-10-17",
+        "popularity": 22.7888,
+        "overview": "Дэнни Рейган переходит из полиции Нью-Йорка в полицию Бостона и становится партнером детектива Лены Питерс, старшей дочери известной в городе семьи представителей правоохранительных органов.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8w87GgZx8qFmPgn0hcBJFAoPyhW.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/284736",
+        "vote_average": 7.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 872585,
+        "title": "Оппенгеймер",
+        "original_title": "Oppenheimer",
+        "tagline": "Мир навсегда изменится.",
+        "lead_actors": [
+          "Киллиан Мёрфи",
+          "Эмили Блант"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-07-21",
+        "popularity": 56.2951,
+        "overview": "История жизни американского физика-теоретика Роберта Оппенгеймера, который во времена Второй мировой войны руководил Манхэттенским проектом — секретными разработками ядерного оружия.",
+        "genres": [
+          "драма",
+          "история",
+          "военный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8OQzw8keE6sDNH25sOqPRTxhFTO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/872585",
+        "vote_average": 8.024,
+        "runtime_minutes": 181,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 248830,
+        "title": "Король гольфа",
+        "original_title": "Stick",
+        "tagline": null,
+        "lead_actors": [
+          "Оуэн Уилсон",
+          "Питер Дагер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-06-03",
+        "popularity": 22.3947,
+        "overview": "Прайс Кэхилл был на пути к вершинам гольфа, когда нервный срыв на поле разрушил его карьеру. В настоящем, с трудом держась на плаву, он решает сделать ставку на Санти, талантливого подростка с невероятным потенциалом. Возможно, став его тренером, он поможет и самому себе.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/usknVLg7t6yWe3Vh45u0pDXvzPE.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/248830",
+        "vote_average": 7.3,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1340206,
+        "title": "Тюнер",
+        "original_title": "Tuner",
+        "tagline": "«У каждого есть какой‑то скрытый талант»",
+        "lead_actors": [
+          "Лео Вудалл",
+          "Дастин Хоффман"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-05-22",
+        "popularity": 48.5599,
+        "overview": "Жизнь Ники – страдающего гиперакузией талантливого настройщика фортепиано из Лондона – переворачивается с ног на голову, когда он обнаруживает, что его навыки и тонкий слух настройки можно применять для взлома сейфов. Когда его наставник и партнёр Гарри попадает в больницу, парень решает присоединиться к банде грабителей, чтобы помочь оплатить счета за лечение.",
+        "genres": [
+          "криминал",
+          "драма",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7oNxg17JawXBMdkuSo7hpThhTZF.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1340206",
+        "vote_average": 7.58,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 251941,
+        "title": "Клиника святого Дэниса",
+        "original_title": "St. Denis Medical",
+        "tagline": null,
+        "lead_actors": [
+          "Венди Маклендон-Кови",
+          "Эллисон Толман"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-11-12",
+        "popularity": 19.9773,
+        "overview": "Клиника святого Дениса — недофинансированный госпиталь, где преданные доктора и медицинский персонал лечат пациентов, пытаясь не сойти с ума.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iwnF4lZKBdHoCICtdIcXQdbuc2f.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/251941",
+        "vote_average": 6.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    }
+  ]
+}
