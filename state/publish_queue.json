@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-10-29",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1596275,
+        "title": "Драйв: Притворщики",
+        "original_title": "Drive – The Pretenders",
+        "tagline": null,
+        "lead_actors": [
+          "Лиса-марие Королл",
+          "Амин Баахмед"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-28",
+        "popularity": 204.0101,
+        "overview": "Молодой гоночный механик имитирует помолвку с самой скандальной звездой автоспорта — официально ради спасения её репутации, а на деле — чтобы получить шанс самой сесть за руль. Но вскоре эта ложь начинает угрожать всему — в том числе тому, что уже переросло рамки простой сделки.",
+        "genres": [
+          "мелодрама",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zJkpdPkIQWsDojHl0hTvhH9H5ya.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1596275",
+        "vote_average": 7.4,
+        "runtime_minutes": 103,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 12323,
+        "title": "Вне веры: Правда или ложь",
+        "original_title": "Beyond Belief: Fact or Fiction",
+        "tagline": null,
+        "lead_actors": [
+          "Джонатан Фрейкс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1997-05-25",
+        "popularity": 27.924,
+        "overview": "В течение часа вам покажут пять историй. Ни одна из них не имеет логического объяснения, однако некоторые из них действительно случались. Ваша задача определить, что является правдой, а что - ложью.",
+        "genres": [
+          "документальный",
+          "детектив",
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/12323",
+        "vote_average": 7.3,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1503762,
+        "title": "Разум и чувства",
+        "original_title": "Sense and Sensibility",
+        "tagline": null,
+        "lead_actors": [
+          "Дейзи Эдгар-Джонс",
+          "Эсме Крид-Майлс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-16",
+        "popularity": 86.2164,
+        "overview": "Сестры Элинор и Марианна Дэшвуд вынуждены покинуть свое поместье в Суссексе, чтобы жить у дальнего родственника, сталкиваясь при этом как с романтическими, так и с финансовыми трудностями.",
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/sRHjUcJ5OdmH0H5AM1JxZMPspvL.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1503762",
+        "vote_average": 7.378,
+        "runtime_minutes": 132,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256711,
+        "title": "Благодетель",
+        "original_title": "The Rainmaker",
+        "tagline": "Па роману Джона Гришэма",
+        "lead_actors": [
+          "Мило Каллагхан",
+          "Лана Паррия"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-08-15",
+        "popularity": 22.1598,
+        "overview": "Только что окончивший юридический факультет неопытный адвокат ведёт дело о медицинской халатности против легендарного адвоката и раскрывает шокирующий заговор.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6esBAIUXacMUiLiPiZe1mUIU6SH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256711",
+        "vote_average": 7.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 872585,
+        "title": "Оппенгеймер",
+        "original_title": "Oppenheimer",
+        "tagline": "Мир навсегда изменится.",
+        "lead_actors": [
+          "Киллиан Мёрфи",
+          "Эмили Блант"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-07-21",
+        "popularity": 54.2834,
+        "overview": "История жизни американского физика-теоретика Роберта Оппенгеймера, который во времена Второй мировой войны руководил Манхэттенским проектом — секретными разработками ядерного оружия.",
+        "genres": [
+          "драма",
+          "история",
+          "военный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/8OQzw8keE6sDNH25sOqPRTxhFTO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/872585",
+        "vote_average": 8.024,
+        "runtime_minutes": 181,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 248830,
+        "title": "Король гольфа",
+        "original_title": "Stick",
+        "tagline": null,
+        "lead_actors": [
+          "Оуэн Уилсон",
+          "Питер Дагер"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-06-03",
+        "popularity": 21.8401,
+        "overview": "Прайс Кэхилл был на пути к вершинам гольфа, когда нервный срыв на поле разрушил его карьеру. В настоящем, с трудом держась на плаву, он решает сделать ставку на Санти, талантливого подростка с невероятным потенциалом. Возможно, став его тренером, он поможет и самому себе.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/usknVLg7t6yWe3Vh45u0pDXvzPE.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/248830",
+        "vote_average": 7.3,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
