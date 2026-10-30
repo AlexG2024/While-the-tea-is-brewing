@@ -362,15 +362,6 @@
       "published_at": "2026-08-01T09:21:29.258381+00:00"
     },
     {
-      "key": "tmdb:movie:857:movie_now_playing:1998-07-24",
-      "dedupe_key": "tmdb:movie:857",
-      "media_type": "movie",
-      "tmdb_id": 857,
-      "event_type": "movie_now_playing",
-      "event_date_us": "1998-07-24",
-      "published_at": "2026-07-02T12:26:03.759311+00:00"
-    },
-    {
       "key": "tmdb:movie:6435:movie_now_playing:1998-10-16",
       "dedupe_key": "tmdb:movie:6435",
       "media_type": "movie",
@@ -936,15 +927,6 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2013-04-05",
       "published_at": "2026-07-14T07:43:25.445709+00:00"
-    },
-    {
-      "key": "tmdb:tv:44953:tv_on_the_air:2013-04-15",
-      "dedupe_key": "tmdb:tv:44953",
-      "media_type": "tv",
-      "tmdb_id": 44953,
-      "event_type": "tv_on_the_air",
-      "event_date_us": "2013-04-15",
-      "published_at": "2026-07-02T10:24:27.588110+00:00"
     },
     {
       "key": "tmdb:movie:68721:movie_now_playing:2013-05-03",
@@ -1901,15 +1883,6 @@
       "published_at": "2026-10-04T08:26:34.250023+00:00"
     },
     {
-      "key": "tmdb:movie:933260:movie_now_playing:2024-09-20",
-      "dedupe_key": "tmdb:movie:933260",
-      "media_type": "movie",
-      "tmdb_id": 933260,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2024-09-20",
-      "published_at": "2026-07-02T14:37:50.092000+00:00"
-    },
-    {
       "key": "tmdb:movie:1184918:movie_now_playing:2024-09-27",
       "dedupe_key": "tmdb:movie:1184918",
       "media_type": "movie",
@@ -2106,6 +2079,15 @@
       "event_type": "tv_on_the_air",
       "event_date_us": "2025-05-25",
       "published_at": "2026-07-26T09:26:20.986728+00:00"
+    },
+    {
+      "key": "tmdb:tv:248830:tv_on_the_air:2025-06-03",
+      "dedupe_key": "tmdb:tv:248830",
+      "media_type": "tv",
+      "tmdb_id": 248830,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2025-06-03",
+      "published_at": "2026-10-30T15:50:47.988080+00:00"
     },
     {
       "key": "tmdb:movie:1087192:movie_now_playing:2025-06-13",
