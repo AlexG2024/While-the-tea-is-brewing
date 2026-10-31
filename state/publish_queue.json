@@ -1,0 +1,190 @@
+{
+  "business_date": "2026-10-31",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1780005,
+        "title": "Выжить в урагане Отис",
+        "original_title": "Surviving Hurricane Otis",
+        "tagline": null,
+        "lead_actors": [
+          "Бенни Еммануел",
+          "Кристян Феррер"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-23",
+        "popularity": 103.4973,
+        "overview": "Двое отдалившихся друг от друга братьев пытаются выжить в Акапулько во время урагана «Отис»; их взаимная привязанность и мужество превращают тяжелое испытание в надежду.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ux2b13zMyKv1nU7ZTLSdAfKlkc.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1780005",
+        "vote_average": 7.358,
+        "runtime_minutes": 97,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 44953,
+        "title": "Повелитель небес",
+        "original_title": "El Señor de los Cielos",
+        "tagline": null,
+        "lead_actors": [
+          "Рафаел Амайа",
+          "Ысабелла Кастилло"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2013-04-15",
+        "popularity": 71.3321,
+        "overview": "Дамиан Торрес — мужчина бедного происхождения, который мечтал иметь все. Бесконечное желание и твердая решительность превращают его из бедного крестьянина в одного из самых богатых мужчин мира, по совместительству опасного и влиятельного торговца наркотиками, разыскиваемого DEA. Дамиан воплощает все на что только способна человеческая душа, от благородных поступков до преступных деяний, питаемых чрезмерной жаждой власти и богатства. Жизнь Дамиана превращается в выживание, когда охоту за ним начинают не только его старые враги, но и DEA. Он понимает, что у него единственный выход — начать жизнь с чистого листа новым человеком в буквальном смысле, и решает подвергнуться пластической операции. Дамиан обнаружит, что с того опасного пути к богатству сойти уже нельзя.",
+        "genres": [
+          "криминал",
+          "драма",
+          "Мыльная опера"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/44953",
+        "vote_average": 8.039,
+        "runtime_minutes": null,
+        "number_of_seasons": 10
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 2034,
+        "title": "Тренировочный день",
+        "original_title": "Training Day",
+        "tagline": "«Опаснее преступника может быть лишь полицейский, нарушающий закон»",
+        "lead_actors": [
+          "Дензел Вашингтон",
+          "Итан Хоук"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2001-10-05",
+        "popularity": 48.5915,
+        "overview": "Джейк Хойт устраивается на работу в отдел по борьбе с наркотиками полиции Лос-Анджелеса. Его напарником становится опытный полицейский Алонзо Харисс, который в борьбе с преступностью далеко не всегда использует законные методы. И почти сразу Джейк оказывается вовлечённым в стремительный водоворот событий.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6rt6zNBUHrNjh2pdoZlh3oWuYCC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/2034",
+        "vote_average": 7.5,
+        "runtime_minutes": 122,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 387,
+        "title": "Губка Боб Квадратные Штаны",
+        "original_title": "SpongeBob SquarePants",
+        "tagline": "«Квадратные Штаны»",
+        "lead_actors": [
+          "Том Кенни",
+          "Билл Фагербакке"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1999-05-01",
+        "popularity": 26.7003,
+        "overview": "Глубоко в Тихом океане в подземном городе Бикини Боттом живет квадратная желтая губка по имени Спанч Боб Квадратные Штаны. Спанч Боб живет в ананасе со своей домашней улиткой Гэри, любит свою работу поваром в Красти Краб и имеет талант ввязываться в самые разные неприятности, даже не прикладывая к этому особых усилий. Когда он не действует на нервы своему капризному соседу Сквидварду, Спанч Боба обычно можно найти в гуще всевозможных странных ситуаций со своим лучшим другом, простой, но милой морской звездой Патриком или его ищущей острых ощущений подругой-серфершей-белкой Сэнди Чикс.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nm6f8EP0IUqGPEnDxacTAnoW6hC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/387",
+        "vote_average": 7.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 18
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 569094,
+        "title": "Человек-паук: Через вселенные 2",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "tagline": "«Важно то, как вы носите маску»",
+        "lead_actors": [
+          "Шамик Мур",
+          "Хейли Стайнфелд"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-06-02",
+        "popularity": 41.3178,
+        "overview": "Майлз уже привык к двойной жизни школьника и Человека-паука, однако его встреча с Гвен Стейси вновь меняет всё. Вскоре Майлз попадает в штаб Паучьего сообщества, где знакомится с сотнями Людей-пауков из разных вселенных и узнаёт о правилах, которые должны сохранять целостность мультивселенной. Когда становится известно, что судьба его отца связана с одним из таких ключевых событий, Майлз отказывается мириться с неизбежностью и пытается изменить предначертанное. Теперь ему предстоит противостоять самому Паучьему сообществу и найти собственный путь, даже если ради этого придётся бросить вызов всей Паутине вселенных.",
+        "genres": [
+          "мультфильм",
+          "боевик",
+          "приключения",
+          "фантастика"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wH0kbTvbrvtlCygso7Ye2ZfGfM1.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/569094",
+        "vote_average": 8.349,
+        "runtime_minutes": 140,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256711,
+        "title": "Благодетель",
+        "original_title": "The Rainmaker",
+        "tagline": "Па роману Джона Гришэма",
+        "lead_actors": [
+          "Мило Каллагхан",
+          "Лана Паррия"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-08-15",
+        "popularity": 21.0788,
+        "overview": "Только что окончивший юридический факультет неопытный адвокат ведёт дело о медицинской халатности против легендарного адвоката и раскрывает шокирующий заговор.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6esBAIUXacMUiLiPiZe1mUIU6SH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256711",
+        "vote_average": 7.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    }
+  ]
+}
