@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-11-02",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1571955,
+        "title": "Курс на столкновение",
+        "original_title": "Collision Course",
+        "tagline": null,
+        "lead_actors": [
+          "Лайа Коста",
+          "Карра Еледжалде"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-30",
+        "popularity": 153.1008,
+        "overview": "Испания, 2013. Только что ограбившая банк банда воров попадает в ДТП, и обнаруживается все, что каждый скрывал: ложь и предательство, начавшиеся задолго до кражи.",
+        "genres": [
+          "триллер",
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/p0N49IjEXeAV52s2qtREFx6DYzn.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1571955",
+        "vote_average": 6.867,
+        "runtime_minutes": 106,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 251941,
+        "title": "Клиника святого Дэниса",
+        "original_title": "St. Denis Medical",
+        "tagline": null,
+        "lead_actors": [
+          "Венди Маклендон-Кови",
+          "Эллисон Толман"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-11-12",
+        "popularity": 20.2825,
+        "overview": "Клиника святого Дениса — недофинансированный госпиталь, где преданные доктора и медицинский персонал лечат пациентов, пытаясь не сойти с ума.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/iwnF4lZKBdHoCICtdIcXQdbuc2f.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/251941",
+        "vote_average": 6.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1108427,
+        "title": "Моана",
+        "original_title": "Moana",
+        "tagline": "«Океан выбрал её не просто так»",
+        "lead_actors": [
+          "Кэтрин Лагааиа",
+          "Дуэйн 'Скала' Джонсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-10",
+        "popularity": 82.5947,
+        "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+        "genres": [
+          "семейный",
+          "фэнтези",
+          "комедия",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1108427",
+        "vote_average": 7.487,
+        "runtime_minutes": 115,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 60381,
+        "title": "Горцы",
+        "original_title": "Mountain Men",
+        "tagline": null,
+        "lead_actors": [
+          "Том Оар",
+          "Нанки Оар"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2012-05-31",
+        "popularity": 17.46,
+        "overview": "Двое братьев — Тоф и Купер — начали путешествие в дальний семейный домик, чтобы выселить сквотеров. По стечению обстоятельств, их выбрасывает на Скалистые Горы. Смогут ли братья объединиться, чтобы выжить и вернуться в цивилизованный мир?",
+        "genres": [
+          "Реалити-шоу",
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6OnwNi6qU3fbiyUChoKndiw69rS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/60381",
+        "vote_average": 6.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 15
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1789549,
+        "title": "Подарочек",
+        "original_title": "The Birthday​ Gift​",
+        "tagline": null,
+        "lead_actors": [
+          "Джеанне Гоурсауд",
+          "Един Хасановиć"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-30",
+        "popularity": 50.1073,
+        "overview": "Марлене Фришман организует детский день рождения сына Тео в загородном доме своего брата-банкира. Она всё тщательно продумала: украшения, безглютеновый торт, пиньяту, даже приглашённых животных. Но праздник быстро выходит из-под контроля. Виной тому становятся не только поведение взрослых (самого брата, отца Марлене, коллеги), но и сам подарок - игрушечное оружие. Из-за него разгораются споры о воспитании, семейных ролях и принципах, и торжество превращается в хаотичную суматоху.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/lEnY2YWWlgMtAxwrK8bIiw4cKht.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1789549",
+        "vote_average": 7.063,
+        "runtime_minutes": 86,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 133174,
+        "title": "Свита королевы",
+        "original_title": "All the Queen's Men",
+        "tagline": null,
+        "lead_actors": [
+          "Эва Марсилл",
+          "Ских Алвестер Блак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-09-09",
+        "popularity": 15.3739,
+        "overview": "Действие этой драмы разворачивается в Атланте и разворачивается вокруг жизни Мэрилин «мадам» Девиль (ее играет Ева Марсилье). Мадам чванится как яростная деловая женщина, которая правит всеми в прибыльной индустрии экзотических ночных клубов для мужчин. Мадам окружена группой доверенных сотрудников, которые заботятся о том, чтобы мадам и ее империя были успешными. По мере того, как ее путешествие продолжается, она упорно стремится расширить свой королевский титул. Однако мадам вскоре обнаруживает, что больше денег и больше власти означают больше проблем.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/99ld1qIW343tT9RTjmlQ5CJubsa.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/133174",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    }
+  ]
+}
