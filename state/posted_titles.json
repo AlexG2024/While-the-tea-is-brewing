@@ -20,15 +20,6 @@
       "published_at": "2026-08-03T18:20:43.628912+00:00"
     },
     {
-      "key": "tmdb:movie:429:movie_now_playing:1967-12-29",
-      "dedupe_key": "tmdb:movie:429",
-      "media_type": "movie",
-      "tmdb_id": 429,
-      "event_type": "movie_now_playing",
-      "event_date_us": "1967-12-29",
-      "published_at": "2026-07-06T08:52:26.263629+00:00"
-    },
-    {
       "key": "tmdb:movie:238:movie_now_playing:1972-03-24",
       "dedupe_key": "tmdb:movie:238",
       "media_type": "movie",
@@ -288,15 +279,6 @@
       "event_type": "movie_now_playing",
       "event_date_us": "1995-09-22",
       "published_at": "2026-07-10T07:51:18.846544+00:00"
-    },
-    {
-      "key": "tmdb:movie:602:movie_now_playing:1996-07-02",
-      "dedupe_key": "tmdb:movie:602",
-      "media_type": "movie",
-      "tmdb_id": 602,
-      "event_type": "movie_now_playing",
-      "event_date_us": "1996-07-02",
-      "published_at": "2026-07-06T12:32:27.727308+00:00"
     },
     {
       "key": "tmdb:tv:2122:tv_on_the_air:1997-01-12",
@@ -639,6 +621,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2006-10-05",
       "published_at": "2026-08-14T17:04:38.800731+00:00"
+    },
+    {
+      "key": "tmdb:tv:4086:tv_on_the_air:2007-04-23",
+      "dedupe_key": "tmdb:tv:4086",
+      "media_type": "tv",
+      "tmdb_id": 4086,
+      "event_type": "tv_on_the_air",
+      "event_date_us": "2007-04-23",
+      "published_at": "2026-11-03T15:58:50.527438+00:00"
     },
     {
       "key": "tmdb:movie:559:movie_now_playing:2007-05-03",
