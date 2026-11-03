@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-11-03",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1108427,
+        "title": "Моана",
+        "original_title": "Moana",
+        "tagline": "«Океан выбрал её не просто так»",
+        "lead_actors": [
+          "Кэтрин Лагааиа",
+          "Дуэйн 'Скала' Джонсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-07-10",
+        "popularity": 82.5947,
+        "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+        "genres": [
+          "семейный",
+          "фэнтези",
+          "комедия",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1108427",
+        "vote_average": 7.479,
+        "runtime_minutes": 115,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 4086,
+        "title": "Кафе, закусочные и забегаловки",
+        "original_title": "Diners, Drive-Ins and Dives",
+        "tagline": null,
+        "lead_actors": [
+          "Гай Фиери"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2007-04-23",
+        "popularity": 44.5489,
+        "overview": "Ведущий Гай Фиери отправляется в путешествие по стране, чтобы посетить некоторые из классических американских ресторанов быстрого питания — закусочные, рестораны с обслуживанием под открытым небом и забегаловки, — которые уже несколько десятилетий делают свое дело безупречно.",
+        "genres": [
+          "документальный",
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/fPpDR6kw8bA0iZ8a0dUbexVVzn3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/4086",
+        "vote_average": 6.829,
+        "runtime_minutes": null,
+        "number_of_seasons": 57
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1789549,
+        "title": "Подарочек",
+        "original_title": "The Birthday​ Gift​",
+        "tagline": null,
+        "lead_actors": [
+          "Джеанне Гоурсауд",
+          "Един Хасановиć"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-30",
+        "popularity": 50.1073,
+        "overview": "Марлене Фришман организует детский день рождения сына Тео в загородном доме своего брата-банкира. Она всё тщательно продумала: украшения, безглютеновый торт, пиньяту, даже приглашённых животных. Но праздник быстро выходит из-под контроля. Виной тому становятся не только поведение взрослых (самого брата, отца Марлене, коллеги), но и сам подарок - игрушечное оружие. Из-за него разгораются споры о воспитании, семейных ролях и принципах, и торжество превращается в хаотичную суматоху.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/lEnY2YWWlgMtAxwrK8bIiw4cKht.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1789549",
+        "vote_average": 7.318,
+        "runtime_minutes": 86,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256711,
+        "title": "Благодетель",
+        "original_title": "The Rainmaker",
+        "tagline": "Па роману Джона Гришэма",
+        "lead_actors": [
+          "Мило Каллагхан",
+          "Лана Паррия"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-08-15",
+        "popularity": 31.5504,
+        "overview": "Только что окончивший юридический факультет неопытный адвокат ведёт дело о медицинской халатности против легендарного адвоката и раскрывает шокирующий заговор.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6esBAIUXacMUiLiPiZe1mUIU6SH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256711",
+        "vote_average": 7.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 438631,
+        "title": "Дюна: Часть первая",
+        "original_title": "Dune",
+        "tagline": "«Час настал»",
+        "lead_actors": [
+          "Тимоти Шаламе",
+          "Ребекка Фергюсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2021-10-22",
+        "popularity": 46.947,
+        "overview": "Наследник знаменитого дома Атрейдесов Пол отправляется вместе с семьей на одну из самых опасных планет во Вселенной — Арракис. Здесь нет ничего, кроме песка, палящего солнца, гигантских чудовищ и основной причины межгалактических конфликтов — невероятно ценного ресурса, который называется меланж. В результате захвата власти Пол вынужден бежать и скрываться, и это становится началом его эпического путешествия. Враждебный мир Арракиса приготовил для него множество тяжелых испытаний, но только тот, кто готов взглянуть в глаза своему страху, достоин стать избранным.",
+        "genres": [
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3hbXNclcHaj5KiF6kK41GBMjyFr.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/438631",
+        "vote_average": 7.786,
+        "runtime_minutes": 155,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 387,
+        "title": "Губка Боб Квадратные Штаны",
+        "original_title": "SpongeBob SquarePants",
+        "tagline": "«Квадратные Штаны»",
+        "lead_actors": [
+          "Том Кенни",
+          "Билл Фагербакке"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1999-05-01",
+        "popularity": 23.4787,
+        "overview": "Глубоко в Тихом океане в подземном городе Бикини Боттом живет квадратная желтая губка по имени Спанч Боб Квадратные Штаны. Спанч Боб живет в ананасе со своей домашней улиткой Гэри, любит свою работу поваром в Красти Краб и имеет талант ввязываться в самые разные неприятности, даже не прикладывая к этому особых усилий. Когда он не действует на нервы своему капризному соседу Сквидварду, Спанч Боба обычно можно найти в гуще всевозможных странных ситуаций со своим лучшим другом, простой, но милой морской звездой Патриком или его ищущей острых ощущений подругой-серфершей-белкой Сэнди Чикс.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nm6f8EP0IUqGPEnDxacTAnoW6hC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/387",
+        "vote_average": 7.72,
+        "runtime_minutes": null,
+        "number_of_seasons": 18
+      }
+    }
+  ]
+}
