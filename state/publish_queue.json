@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-11-05",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1381071,
+        "title": "Годзилла: Минус ноль",
+        "original_title": "Godzilla Minus Zero",
+        "tagline": "«Третьего раза не будет. На этом всё закончится»",
+        "lead_actors": [
+          "Рюноскэ Камики",
+          "Минами Хамабэ"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-06",
+        "popularity": 87.3684,
+        "overview": "Война отбросила Японию к нулевой отметке, а Годзилла загнал её в «минус». С тех пор прошло два года; страна с огромным трудом пытается восстановиться и вернуть себе привычную жизнь. Но едва человечеству удалось удержать с таким трудом добытый мир, как возникла новая угроза — и в одно мгновение уничтожила все надежды. Третьего шанса не будет. Здесь всё закончится.",
+        "genres": [
+          "фантастика",
+          "ужасы",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/hSuXLuBpR96TjX9KZcAi6dLbVla.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1381071",
+        "vote_average": 8.1,
+        "runtime_minutes": 135,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 84773,
+        "title": "Властелин колец: Кольца Власти",
+        "original_title": "The Lord of the Rings: The Rings of Power",
+        "tagline": "«Путешествие в Средиземье»",
+        "lead_actors": [
+          "Морвед Кларк",
+          "Роберт Арамайо"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2022-09-01",
+        "popularity": 105.1399,
+        "overview": "За тысячи лет до приключений Бильбо Бэггинса, Средиземье переживает эпоху относительного мира, однако древнее зло постепенно возвращается, угрожая погрузить мир во тьму. Эльфийская воительница Галадриэль, не желающая забывать о поражении Саурона и гибели своих близких, отправляется на поиски следов тёмных сил, вопреки сомнениям окружающих. Тем временем в разных уголках Средиземья разворачиваются собственные истории: гномы пытаются раскрыть секреты подземных богатств, люди Южных земель сталкиваются с угрозой возвращения врага, а хоббиты-предки отправляются навстречу неизвестному. По мере развития событий герои обнаруживают, что древние силы вновь пробуждаются, а судьбы разных народов оказываются тесно связаны. На фоне политических интриг, опасных путешествий и неожиданных союзов начинается история создания Колец Власти, способных изменить будущее всего Средиземья.",
+        "genres": [
+          "Боевик и Приключения",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/pp5yf6xRMtySYgtVf5YTDYh7fof.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/84773",
+        "vote_average": 7.2,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1570488,
+        "title": "Идеальное собачье Рождество",
+        "original_title": "A Dog's Perfect Christmas",
+        "tagline": null,
+        "lead_actors": [
+          "Деннис Куэйд",
+          "Майло Вентимилья"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-04",
+        "popularity": 51.6633,
+        "overview": "Когда внезапная болезнь разлучает семью Госс, преданный пес Уинстед делает всё возможное, чтобы любимые хозяева снова встретились к Рождеству.",
+        "genres": [
+          "комедия",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/a80Mg04hjQh4l0MRvv7RB0qc17S.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1570488",
+        "vote_average": 8.3,
+        "runtime_minutes": 102,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 256711,
+        "title": "Благодетель",
+        "original_title": "The Rainmaker",
+        "tagline": "Па роману Джона Гришэма",
+        "lead_actors": [
+          "Мило Каллагхан",
+          "Лана Паррия"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-08-15",
+        "popularity": 29.6203,
+        "overview": "Только что окончивший юридический факультет неопытный адвокат ведёт дело о медицинской халатности против легендарного адвоката и раскрывает шокирующий заговор.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6esBAIUXacMUiLiPiZe1mUIU6SH.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/256711",
+        "vote_average": 7.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1789549,
+        "title": "Подарочек",
+        "original_title": "The Birthday​ Gift​",
+        "tagline": null,
+        "lead_actors": [
+          "Джеанне Гоурсауд",
+          "Един Хасановиć"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-30",
+        "popularity": 42.3726,
+        "overview": "Детский день рождения, где все продумано до мелочей, идет не плану: из-за подарка в виде игрушечного оружия разгораются споры на вечные темы — и возникает всеобщий хаос.",
+        "genres": [
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/lEnY2YWWlgMtAxwrK8bIiw4cKht.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1789549",
+        "vote_average": 7.0,
+        "runtime_minutes": 87,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 387,
+        "title": "Губка Боб Квадратные Штаны",
+        "original_title": "SpongeBob SquarePants",
+        "tagline": "«Квадратные Штаны»",
+        "lead_actors": [
+          "Том Кенни",
+          "Билл Фагербакке"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1999-05-01",
+        "popularity": 24.2998,
+        "overview": "Глубоко в Тихом океане в подземном городе Бикини Боттом живет квадратная желтая губка по имени Спанч Боб Квадратные Штаны. Спанч Боб живет в ананасе со своей домашней улиткой Гэри, любит свою работу поваром в Красти Краб и имеет талант ввязываться в самые разные неприятности, даже не прикладывая к этому особых усилий. Когда он не действует на нервы своему капризному соседу Сквидварду, Спанч Боба обычно можно найти в гуще всевозможных странных ситуаций со своим лучшим другом, простой, но милой морской звездой Патриком или его ищущей острых ощущений подругой-серфершей-белкой Сэнди Чикс.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nm6f8EP0IUqGPEnDxacTAnoW6hC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/387",
+        "vote_average": 7.722,
+        "runtime_minutes": null,
+        "number_of_seasons": 18
+      }
+    }
+  ]
+}
