@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-11-09",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 940721,
+        "title": "Годзилла -1.0",
+        "original_title": "Godzilla Minus One",
+        "tagline": null,
+        "lead_actors": [
+          "Рюноскэ Камики",
+          "Минами Хамабэ"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2023-12-01",
+        "popularity": 63.7778,
+        "overview": "В последние дни Второй мировой камикадзе Коити Сикисима посадил самолёт на острове Одо, где располагалась ремонтная база императорской армии Японии. В тот же вечер на них напал непонятно откуда взявшийся огромный ящер Годзилла — именно так называли его местные. Коити возвращается в разрушенный бомбардировками Токио (родители погибли, от дома остались одни обломки) и пытается жить дальше. К нему прибивается тоже потерявшая семью девушка с младенцем, которого она спасла во время воздушного налёта. Время идёт, жизнь налаживается, Коити работает в команде по обезвреживанию мин в Токийском заливе, и однажды их хлипкий деревянный катер сталкивается с Годзиллой, который после ядерных испытаний на атолле Бикини стал ещё больше и ещё свирепее.",
+        "genres": [
+          "фантастика",
+          "ужасы",
+          "боевик"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bSICu9qWyUJVThkffuaqs9dgRV7.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/940721",
+        "vote_average": 7.614,
+        "runtime_minutes": 125,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 85077,
+        "title": "Избранные",
+        "original_title": "The Chosen",
+        "tagline": null,
+        "lead_actors": [
+          "Елизабет Табиш"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2019-04-21",
+        "popularity": 66.0964,
+        "overview": "«Избранные» — историческая драма, основанная на жизни Иисуса и тех, кто его знал. Сериал, действие которого происходит на фоне римского угнетения в Палестине первого века, демонстрирует подлинный взгляд на революционную жизнь и учение Иисуса.",
+        "genres": [
+          "Боевик и Приключения",
+          "семейный",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/loocNikWYS4KSZNrTFQWSKADpSd.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/85077",
+        "vote_average": 8.851,
+        "runtime_minutes": null,
+        "number_of_seasons": 6
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1483525,
+        "title": "Что, если любовь",
+        "original_title": "Possible Love",
+        "tagline": null,
+        "lead_actors": [
+          "Чон До-ён",
+          "Соль Гён Гу"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-23",
+        "popularity": 59.6353,
+        "overview": "Чон Доён, Соль Гёнгу, Чо Инсон и Чо Ёджон играют две супружеские пары, чьи жизни начинают рушиться во время съемок документального фильма.",
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7UAzxqezg5yvZyK3k62wOAzg0Zs.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1483525",
+        "vote_average": 7.6,
+        "runtime_minutes": 164,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 387,
+        "title": "Губка Боб Квадратные Штаны",
+        "original_title": "SpongeBob SquarePants",
+        "tagline": "«Квадратные Штаны»",
+        "lead_actors": [
+          "Том Кенни",
+          "Билл Фагербакке"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "1999-05-01",
+        "popularity": 23.8001,
+        "overview": "Глубоко в Тихом океане в подземном городе Бикини Боттом живет квадратная желтая губка по имени Спанч Боб Квадратные Штаны. Спанч Боб живет в ананасе со своей домашней улиткой Гэри, любит свою работу поваром в Красти Краб и имеет талант ввязываться в самые разные неприятности, даже не прикладывая к этому особых усилий. Когда он не действует на нервы своему капризному соседу Сквидварду, Спанч Боба обычно можно найти в гуще всевозможных странных ситуаций со своим лучшим другом, простой, но милой морской звездой Патриком или его ищущей острых ощущений подругой-серфершей-белкой Сэнди Чикс.",
+        "genres": [
+          "мультфильм",
+          "комедия",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nm6f8EP0IUqGPEnDxacTAnoW6hC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/387",
+        "vote_average": 7.7,
+        "runtime_minutes": null,
+        "number_of_seasons": 18
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 693134,
+        "title": "Дюна: Часть 2",
+        "original_title": "Dune: Part Two",
+        "tagline": "«Да здравствуют бесстрашные воители!»",
+        "lead_actors": [
+          "Тимоти Шаламе",
+          "Зендея"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-03-01",
+        "popularity": 42.8206,
+        "overview": "Герцог Пол Атрейдес присоединяется к фременам, чтобы стать Муад Дибом, одновременно пытаясь остановить наступление войны.",
+        "genres": [
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3aLghRkuJc9cs770fxo4a6YWht3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/693134",
+        "vote_average": 8.1,
+        "runtime_minutes": 166,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 133174,
+        "title": "Свита королевы",
+        "original_title": "All the Queen's Men",
+        "tagline": null,
+        "lead_actors": [
+          "Эва Марсилл",
+          "Ских Алвестер Блак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-09-09",
+        "popularity": 13.3853,
+        "overview": "Действие этой драмы разворачивается в Атланте и разворачивается вокруг жизни Мэрилин «мадам» Девиль (ее играет Ева Марсилье). Мадам чванится как яростная деловая женщина, которая правит всеми в прибыльной индустрии экзотических ночных клубов для мужчин. Мадам окружена группой доверенных сотрудников, которые заботятся о том, чтобы мадам и ее империя были успешными. По мере того, как ее путешествие продолжается, она упорно стремится расширить свой королевский титул. Однако мадам вскоре обнаруживает, что больше денег и больше власти означают больше проблем.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/99ld1qIW343tT9RTjmlQ5CJubsa.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/133174",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    }
+  ]
+}
