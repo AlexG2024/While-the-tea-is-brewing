@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-11-13",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 693134,
+        "title": "Дюна: Часть 2",
+        "original_title": "Dune: Part Two",
+        "tagline": "«Да здравствуют бесстрашные воители!»",
+        "lead_actors": [
+          "Тимоти Шаламе",
+          "Зендея"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2024-03-01",
+        "popularity": 43.0092,
+        "overview": "Герцог Пол Атрейдес присоединяется к фременам, чтобы стать Муад Дибом, одновременно пытаясь остановить наступление войны.",
+        "genres": [
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/3aLghRkuJc9cs770fxo4a6YWht3.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/693134",
+        "vote_average": 8.144,
+        "runtime_minutes": 166,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 103540,
+        "title": "Перси Джексон и Олимпийцы",
+        "original_title": "Percy Jackson and the Olympians",
+        "tagline": "«Боги ждут»",
+        "lead_actors": [
+          "Уокер Скобелл",
+          "Леа Джеффрис"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2023-12-19",
+        "popularity": 32.8779,
+        "overview": "Двенадцатилетний современный полубог Перси Джексон отправляется в опасное путешествие по Америке, чтобы предотвратить войну между олимпийскими богами.",
+        "genres": [
+          "Боевик и Приключения",
+          "НФ и Фэнтези",
+          "драма",
+          "семейный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/l2HEvsr0ER00hnihvYOX64QQjO.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/103540",
+        "vote_average": 7.3,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1616419,
+        "title": "Хороший адвокат",
+        "original_title": "The Good Lawyer",
+        "tagline": null,
+        "lead_actors": [
+          "Лоран Лафит",
+          "Антони Баджон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-09",
+        "popularity": 41.9852,
+        "overview": "Передозировка в зале суда, реабилитационный центр... У адвоката есть всего неделя, чтобы спасти карьеру и подготовиться к суду с помощью упорной стажерки.",
+        "genres": [
+          "триллер",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/jSbBXCd4KZFMRW60N5fLM7CDy18.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1616419",
+        "vote_average": 6.65,
+        "runtime_minutes": 121,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 223397,
+        "title": "Город бога: Борьба продолжается",
+        "original_title": "City of God: The Fight Rages On",
+        "tagline": null,
+        "lead_actors": [
+          "Александре Родригуес",
+          "Роберта Родригуес"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-08-25",
+        "popularity": 14.8469,
+        "overview": "Действие разворачивается в начале 2000-х, через 20 лет после событий оригинального фильма. Жители «Города бога» - самого опасного района Рио-де-Жанейро - измучены постоянной войной между полицией, вооруженными дружинниками и наркоторговцами. Обитатели фавел, в числе которых повзрослевший Ракета, все-таки ставший фотографом, пытаются бороться с криминалом своими способами.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/a3IBl71qecb7XVvkgkq9bZZDUZV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/223397",
+        "vote_average": 7.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1401459,
+        "title": "Фьорд",
+        "original_title": "Fjord",
+        "tagline": null,
+        "lead_actors": [
+          "Себастиан Стэн",
+          "Ренате Реинсве"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-23",
+        "popularity": 34.0976,
+        "overview": "Семья Георгиу — католики из Румынии — переезжает в норвежскую деревню, где родилась мать. Они быстро находят общий язык с семьей Хальбердов, живущей в соседнем доме у залива. Несмотря на то, что у детей из этих семей очень разное воспитание, они быстро становятся близкими друзьями. Но вскоре Георгиу начинают подозревать, что причиняют вред собственным детям...",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kDAwTzpCmW3EXmVei5yHI5Bfr6U.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1401459",
+        "vote_average": 7.2,
+        "runtime_minutes": 146,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 133174,
+        "title": "Свита королевы",
+        "original_title": "All the Queen's Men",
+        "tagline": null,
+        "lead_actors": [
+          "Эва Марсилл",
+          "Ских Алвестер Блак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-09-09",
+        "popularity": 14.6454,
+        "overview": "Действие этой драмы разворачивается в Атланте и разворачивается вокруг жизни Мэрилин «мадам» Девиль (ее играет Ева Марсилье). Мадам чванится как яростная деловая женщина, которая правит всеми в прибыльной индустрии экзотических ночных клубов для мужчин. Мадам окружена группой доверенных сотрудников, которые заботятся о том, чтобы мадам и ее империя были успешными. По мере того, как ее путешествие продолжается, она упорно стремится расширить свой королевский титул. Однако мадам вскоре обнаруживает, что больше денег и больше власти означают больше проблем.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/99ld1qIW343tT9RTjmlQ5CJubsa.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/133174",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    }
+  ]
+}
