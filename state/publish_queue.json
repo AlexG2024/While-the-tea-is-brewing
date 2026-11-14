@@ -1,0 +1,189 @@
+{
+  "business_date": "2026-11-14",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1616687,
+        "title": "Никогда не сдавайся",
+        "original_title": "Never Surrender",
+        "tagline": null,
+        "lead_actors": [
+          "Лукман Сарди",
+          "Каллиста Арум"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-12",
+        "popularity": 150.103,
+        "overview": "Терзаемый чувством вины ветеран живет в уединении, редко общаясь с внуками. Однако им придется объединиться, чтобы защитить дом от нападения опасной банды и постараться выжить.",
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1616687",
+        "vote_average": 7.6,
+        "runtime_minutes": 140,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 223397,
+        "title": "Город бога: Борьба продолжается",
+        "original_title": "City of God: The Fight Rages On",
+        "tagline": "Некоторые вещи не меняются, даже спустя 20 лет.",
+        "lead_actors": [
+          "Александре Родригуес",
+          "Роберта Родригуес"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2024-08-25",
+        "popularity": 15.883,
+        "overview": "Действие разворачивается в начале 2000-х, через 20 лет после событий оригинального фильма. Жители «Города бога» - самого опасного района Рио-де-Жанейро - измучены постоянной войной между полицией, вооруженными дружинниками и наркоторговцами. Обитатели фавел, в числе которых повзрослевший Ракета, все-таки ставший фотографом, пытаются бороться с криминалом своими способами.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/a3IBl71qecb7XVvkgkq9bZZDUZV.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/223397",
+        "vote_average": 7.605,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1300968,
+        "title": "Голодные игры: Рассвет жатвы",
+        "original_title": "The Hunger Games: Sunrise on the Reaping",
+        "tagline": "«Эти игры будут другими»",
+        "lead_actors": [
+          "Джозеф Зада",
+          "Маккенна Грейс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-20",
+        "popularity": 60.64,
+        "overview": "Молодой Хеймитч Эбернети из 12-го дистрикта участвует в легендарных 50-х Голодных играх. Но шансов уцелеть у него немного — в последней раз трибут из его района побеждал на играх сорок лет назад.",
+        "genres": [
+          "фантастика",
+          "боевик",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tD4kBIthK1NFxesGT5Pj42fM5u5.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1300968",
+        "vote_average": 9.0,
+        "runtime_minutes": 159,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 133174,
+        "title": "Свита королевы",
+        "original_title": "All the Queen's Men",
+        "tagline": null,
+        "lead_actors": [
+          "Эва Марсилл",
+          "Ских Алвестер Блак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-09-09",
+        "popularity": 14.4255,
+        "overview": "Действие этой драмы разворачивается в Атланте и разворачивается вокруг жизни Мэрилин «мадам» Девиль (ее играет Ева Марсилье). Мадам чванится как яростная деловая женщина, которая правит всеми в прибыльной индустрии экзотических ночных клубов для мужчин. Мадам окружена группой доверенных сотрудников, которые заботятся о том, чтобы мадам и ее империя были успешными. По мере того, как ее путешествие продолжается, она упорно стремится расширить свой королевский титул. Однако мадам вскоре обнаруживает, что больше денег и больше власти означают больше проблем.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/99ld1qIW343tT9RTjmlQ5CJubsa.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/133174",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1669915,
+        "title": "Ангел и негодяй",
+        "original_title": "Angel and the Badman",
+        "tagline": null,
+        "lead_actors": [
+          "Закари Ливай",
+          "Нил Макдона"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-09",
+        "popularity": 53.0317,
+        "overview": "Ремейк классического вестерна 1947 года. Когда известный бандит Квирт Эванс с пулей в спине попадает на территорию ранчо, он ожидает быстрой смерти, а не пощады. Однако Пенни, дочь ранчовладельца, предлагает ему шанс на то, чего у него никогда не было: жизнь без насилия. Но прошлое беспощадно… Когда шериф приближается к нему, а банда разбойников готовится сжечь ранчо дотла, Квирту предстоит решить, каким человеком он станет, когда мир потребует кровиТехданныеРелизСкриншотыКачество: WEB-DL (1080p)",
+        "genres": [
+          "вестерн",
+          "боевик",
+          "приключения",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1669915",
+        "vote_average": 8.7,
+        "runtime_minutes": 105,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 319800,
+        "title": "Морская полиция: Нью-Йорк",
+        "original_title": "NCIS: New York",
+        "tagline": null,
+        "lead_actors": [
+          "ЭлЭл Кул Джей",
+          "Скотт Каан"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-06",
+        "popularity": 13.602,
+        "overview": "Сэм Ханна возвращается в родной Нью-Йорк, чтобы возглавить местный полевой офис военно-морской полиции. Вместе со своенравным напарником Ником Шаффером ему предстоит защищать один из важнейших портов мира и расследовать угрозы национальной безопасности, скрывающиеся за фасадом шумного мегаполиса.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/319800",
+        "vote_average": 6.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    }
+  ]
+}
