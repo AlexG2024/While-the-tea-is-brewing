@@ -74,15 +74,6 @@
       "published_at": "2026-10-17T20:58:59.523533+00:00"
     },
     {
-      "key": "tmdb:movie:764:movie_now_playing:1981-10-15",
-      "dedupe_key": "tmdb:movie:764",
-      "media_type": "movie",
-      "tmdb_id": 764,
-      "event_type": "movie_now_playing",
-      "event_date_us": "1981-10-15",
-      "published_at": "2026-07-17T16:53:48.562233+00:00"
-    },
-    {
       "key": "tmdb:tv:14951:tv_on_the_air:1982-10-10",
       "dedupe_key": "tmdb:tv:14951",
       "media_type": "tv",
@@ -198,15 +189,6 @@
       "event_type": "movie_now_playing",
       "event_date_us": "1991-07-03",
       "published_at": "2026-08-26T12:17:24.035254+00:00"
-    },
-    {
-      "key": "tmdb:movie:619:movie_now_playing:1992-11-25",
-      "dedupe_key": "tmdb:movie:619",
-      "media_type": "movie",
-      "tmdb_id": 619,
-      "event_type": "movie_now_playing",
-      "event_date_us": "1992-11-25",
-      "published_at": "2026-07-18T07:15:14.365383+00:00"
     },
     {
       "key": "tmdb:movie:9479:movie_now_playing:1993-10-29",
@@ -3044,15 +3026,6 @@
       "published_at": "2026-10-23T20:22:31.776345+00:00"
     },
     {
-      "key": "tmdb:movie:1058424:movie_now_playing:2026-09-09",
-      "dedupe_key": "tmdb:movie:1058424",
-      "media_type": "movie",
-      "tmdb_id": 1058424,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2026-09-09",
-      "published_at": "2026-07-18T10:25:18.776166+00:00"
-    },
-    {
       "key": "tmdb:movie:1440098:movie_now_playing:2026-09-09",
       "dedupe_key": "tmdb:movie:1440098",
       "media_type": "movie",
@@ -3609,6 +3582,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-11-13",
       "published_at": "2026-11-12T12:53:31.643633+00:00"
+    },
+    {
+      "key": "tmdb:movie:1543469:movie_now_playing:2026-11-13",
+      "dedupe_key": "tmdb:movie:1543469",
+      "media_type": "movie",
+      "tmdb_id": 1543469,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-11-13",
+      "published_at": "2026-11-15T11:26:56.655148+00:00"
     }
   ]
 }
