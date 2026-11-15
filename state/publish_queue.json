@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-11-15",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1543469,
+        "title": "В сердце Нашвилла",
+        "original_title": "Heartland",
+        "tagline": null,
+        "lead_actors": [
+          "Джессика Честейн",
+          "Картер Фаит"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-13",
+        "popularity": 82.8472,
+        "overview": "Бывшая звезда кантри Мисти Джонс давно ушла из шоу-бизнеса и вычеркнула прошлую жизнь, обменяв шумные стадионы на уединение. Но когда в Нэшвилле бесследно исчезла ее племянница Чарли — молодая исполнительница, только начинавшая восходить на музыкальный олимп — Мисти пришлось вернуться в город, который когда-то подарил ей славу и забрал слишком много взамен. Чтобы найти племянницу, ей приходится погрузиться в мрачные и нелицеприятные закулисные тайны музыкальной индустрии. Чем дальше Мисти продвигается в своем расследовании, тем больше грязи и секретов выплывает наружу. Кажется, в Нэшвилле никто не является тем, за кого себя выдает, и, чтобы спасти Чарли, героям придется снова встретиться лицом к лицу с демонами прошлого.",
+        "genres": [
+          "триллер",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1543469",
+        "vote_average": 7.224,
+        "runtime_minutes": 113,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 117488,
+        "title": "Шершни",
+        "original_title": "Yellowjackets",
+        "tagline": "«Борьба за выживание и зловещие ритуалы в мрачном лесу»",
+        "lead_actors": [
+          "Мелани Лински",
+          "Тони Сайпресс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-11-14",
+        "popularity": 26.4558,
+        "overview": "Женская школьная команда по футболу терпит крушение на самолёте в лесах Онтарио. Пока идут поиски, с выживших медленно слезает налёт цивилизации. Из слаженной команды они превращаются в разрозненные кланы каннибалов.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bcp7zBSBNDKUOksC5mYS3F10WS5.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/117488",
+        "vote_average": 7.429,
+        "runtime_minutes": null,
+        "number_of_seasons": 4
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1518204,
+        "title": "Аллен",
+        "original_title": "Allen",
+        "tagline": null,
+        "lead_actors": [
+          "Т.ДЖ. Повер",
+          "Шарлотта Никдао"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-12",
+        "popularity": 72.9964,
+        "overview": "В детстве Пити познакомился с необычным другом — инопланетянином по имени Аллен. Они были неразлучны, пока однажды Аллен бесследно не исчез, даже не попрощавшись. Прошло двадцать лет, но Пити так и не смог забыть своего друга. Неожиданно Аллен возвращается, однако на этот раз он приносит с собой тайну, способную изменить весь мир. Теперь Пити предстоит повзрослеть, разобраться с прошлым и помочь другу спасти будущее.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nVT6OmnB2P1muxeHk6DQRm9JA0q.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1518204",
+        "vote_average": 6.9,
+        "runtime_minutes": 106,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 133174,
+        "title": "Свита королевы",
+        "original_title": "All the Queen's Men",
+        "tagline": null,
+        "lead_actors": [
+          "Эва Марсилл",
+          "Ских Алвестер Блак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-09-09",
+        "popularity": 14.3048,
+        "overview": "Действие этой драмы разворачивается в Атланте и разворачивается вокруг жизни Мэрилин «мадам» Девиль (ее играет Ева Марсилье). Мадам чванится как яростная деловая женщина, которая правит всеми в прибыльной индустрии экзотических ночных клубов для мужчин. Мадам окружена группой доверенных сотрудников, которые заботятся о том, чтобы мадам и ее империя были успешными. По мере того, как ее путешествие продолжается, она упорно стремится расширить свой королевский титул. Однако мадам вскоре обнаруживает, что больше денег и больше власти означают больше проблем.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/99ld1qIW343tT9RTjmlQ5CJubsa.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/133174",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1300968,
+        "title": "Голодные игры: Рассвет жатвы",
+        "original_title": "The Hunger Games: Sunrise on the Reaping",
+        "tagline": "«Эти игры будут другими»",
+        "lead_actors": [
+          "Джозеф Зада",
+          "Маккенна Грейс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-20",
+        "popularity": 60.8916,
+        "overview": "Молодой Хеймитч Эбернети из 12-го дистрикта участвует в легендарных 50-х Голодных играх. Но шансов уцелеть у него немного — в последней раз трибут из его района побеждал на играх сорок лет назад.",
+        "genres": [
+          "фантастика",
+          "боевик",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tD4kBIthK1NFxesGT5Pj42fM5u5.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1300968",
+        "vote_average": 9.0,
+        "runtime_minutes": 159,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 60381,
+        "title": "Горцы",
+        "original_title": "Mountain Men",
+        "tagline": null,
+        "lead_actors": [
+          "Том Оар",
+          "Нанки Оар"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2012-05-31",
+        "popularity": 14.28,
+        "overview": "Двое братьев — Тоф и Купер — начали путешествие в дальний семейный домик, чтобы выселить сквотеров. По стечению обстоятельств, их выбрасывает на Скалистые Горы. Смогут ли братья объединиться, чтобы выжить и вернуться в цивилизованный мир?",
+        "genres": [
+          "Реалити-шоу",
+          "документальный"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/6OnwNi6qU3fbiyUChoKndiw69rS.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/60381",
+        "vote_average": 6.5,
+        "runtime_minutes": null,
+        "number_of_seasons": 15
+      }
+    }
+  ]
+}
