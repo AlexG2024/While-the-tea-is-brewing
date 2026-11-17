@@ -1,0 +1,187 @@
+{
+  "business_date": "2026-11-17",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1300968,
+        "title": "Голодные игры: Рассвет жатвы",
+        "original_title": "The Hunger Games: Sunrise on the Reaping",
+        "tagline": "«Эти игры будут другими»",
+        "lead_actors": [
+          "Джозеф Зада",
+          "Маккенна Грейс"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-20",
+        "popularity": 88.7575,
+        "overview": "Молодой Хеймитч Эбернети из 12-го дистрикта участвует в легендарных 50-х Голодных играх. Но шансов уцелеть у него немного — в последней раз трибут из его района побеждал на играх сорок лет назад.",
+        "genres": [
+          "фантастика",
+          "боевик",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/tD4kBIthK1NFxesGT5Pj42fM5u5.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1300968",
+        "vote_average": 9.4,
+        "runtime_minutes": 159,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 133174,
+        "title": "Свита королевы",
+        "original_title": "All the Queen's Men",
+        "tagline": null,
+        "lead_actors": [
+          "Эва Марсилл",
+          "Ских Алвестер Блак"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2021-09-09",
+        "popularity": 13.6096,
+        "overview": "Действие этой драмы разворачивается в Атланте и разворачивается вокруг жизни Мэрилин «мадам» Девиль (ее играет Ева Марсилье). Мадам чванится как яростная деловая женщина, которая правит всеми в прибыльной индустрии экзотических ночных клубов для мужчин. Мадам окружена группой доверенных сотрудников, которые заботятся о том, чтобы мадам и ее империя были успешными. По мере того, как ее путешествие продолжается, она упорно стремится расширить свой королевский титул. Однако мадам вскоре обнаруживает, что больше денег и больше власти означают больше проблем.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/99ld1qIW343tT9RTjmlQ5CJubsa.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/133174",
+        "vote_average": 8.4,
+        "runtime_minutes": null,
+        "number_of_seasons": 5
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1518204,
+        "title": "Аллен",
+        "original_title": "Allen",
+        "tagline": null,
+        "lead_actors": [
+          "Т.ДЖ. Повер",
+          "Шарлотта Никдао"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-12",
+        "popularity": 74.257,
+        "overview": "Спустя 20 лет после встречи с инопланетянином Пити так и не отпустил прошлое. Но вот его старый друг возвращается, и причина у его визита неожиданная и непростая.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nVT6OmnB2P1muxeHk6DQRm9JA0q.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1518204",
+        "vote_average": 6.863,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 319800,
+        "title": "Морская полиция: Нью-Йорк",
+        "original_title": "NCIS: New York",
+        "tagline": null,
+        "lead_actors": [
+          "ЭлЭл Кул Джей",
+          "Скотт Каан"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-06",
+        "popularity": 12.841,
+        "overview": "Сэм Ханна возвращается в родной Нью-Йорк, чтобы возглавить местный полевой офис военно-морской полиции. Вместе со своенравным напарником Ником Шаффером ему предстоит защищать один из важнейших портов мира и расследовать угрозы национальной безопасности, скрывающиеся за фасадом шумного мегаполиса.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/319800",
+        "vote_average": 6.75,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 26817,
+        "title": "Секс и незамужняя девушка",
+        "original_title": "Sex and the Single Girl",
+        "tagline": null,
+        "lead_actors": [
+          "Тони Кёртис",
+          "Натали Вуд"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "1964-12-25",
+        "popularity": 71.8068,
+        "overview": "Редактор «желтого журнала» «Стоп» Боб Вестон процветает! Чем скандальнее его статьи — тем в больший экстаз впадают главный редактор и редколлегия! Последним его «шедевром» стало исследование книги молодого психолога, очаровательной Хелен Браун. Ей 23 года, она не замужем и при этом пустилась в книге в исследования любви, секса и семейной жизни. Все женщины без ума от ее творения, а Боб — Боб просто назвал ее девственницей и от души посмеялся, чем поверг Хелен в безудержную ярость. Она готова уехать на край света и бросить свое занятие. Но Боб собирается написать еще более хлесткую статью о ней. Для этого ему необходимо познакомиться с ней лично и взять интервью. Он отлично понимает, что Хелен ни за что на свете не станет с ним встречаться…",
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/eGGj9foBY4jonHskGq7ysgf2ESR.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/26817",
+        "vote_average": 6.5,
+        "runtime_minutes": 110,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 313630,
+        "title": "Навеки ваши",
+        "original_title": "Eternally Yours",
+        "tagline": null,
+        "lead_actors": [
+          "Эд Викс",
+          "Аллегра Эдвардс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-08",
+        "popularity": 9.3916,
+        "overview": "Чарльз и Лиз — пара вампиров, чей некогда страстный роман за пять столетий превратился в рутину и бесконечные пассивно-агрессивные споры. Стабильность их жизни в Сиэтле дает трещину, когда их приемная дочь Эмма приводит в дом своего нового бойфренда Макса.\n\nМакс — смертный, искренне пытающийся влиться в необычную семью, что вызывает особое сопротивление у консервативного Чарльза. Появление «человека» в доме заставляет пару задуматься о природе любви: может ли она длиться вечно, или же бессмертие стало для них своего рода приговором.",
+        "genres": [
+          "комедия",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nhImIzpSXJOzQ1pIYUJxUw7NM7l.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/313630",
+        "vote_average": 7.824,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    }
+  ]
+}
