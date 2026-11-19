@@ -1,0 +1,186 @@
+{
+  "business_date": "2026-11-19",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1518204,
+        "title": "Аллен",
+        "original_title": "Allen",
+        "tagline": null,
+        "lead_actors": [
+          "Т.ДЖ. Повер",
+          "Шарлотта Никдао"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-12",
+        "popularity": 66.0945,
+        "overview": "Спустя 20 лет после встречи с инопланетянином Пити так и не отпустил прошлое. Но вот его старый друг возвращается, и причина у его визита неожиданная и непростая.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nVT6OmnB2P1muxeHk6DQRm9JA0q.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1518204",
+        "vote_average": 6.6,
+        "runtime_minutes": 107,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 97083,
+        "title": "Circle – США",
+        "original_title": "The Circle",
+        "tagline": null,
+        "lead_actors": [
+          "Мишель Бюто"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-01-01",
+        "popularity": 15.9502,
+        "overview": "Чей статус или стратегия окажутся выигрышными в этом социальном эксперименте-соревновании? Онлайн-игроки пойдут на флирт, дружбу и обман ради 100 000 долларов.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/bnFagQ0uCXc1SwLwQhBVlqsbGI.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/97083",
+        "vote_average": 6.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 8
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1551025,
+        "title": "Охрана звезд",
+        "original_title": "Guarding Stars",
+        "tagline": null,
+        "lead_actors": [
+          "Лейтон Мистер",
+          "Джаред Падалеки"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-11-18",
+        "popularity": 65.7949,
+        "overview": "Суровую телохранительницу Ханну Брук назначают оберегать звезду боевиков Джека Стэплтона во время рождественских праздников. В один момент простое задание превращается в настоящее приключение.",
+        "genres": [
+          "мелодрама",
+          "комедия"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/1RQFu2dzuwIm03XSN3BDf3GOfWg.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1551025",
+        "vote_average": 7.038,
+        "runtime_minutes": 109,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 39224,
+        "title": "Битва насмерть!",
+        "original_title": "Death Battle!",
+        "tagline": null,
+        "lead_actors": [
+          "Бен Сингер",
+          "Чад Джамес"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2010-12-06",
+        "popularity": 11.6169,
+        "overview": "Что будет, если самых прославленных и смертоносных персонажей современной поп-культуры столкнуть в поединке друг с другом? Какое оружие будет использовано, какие навыки применены? Сколько крови прольётся? И кто в итоге выживет?",
+        "genres": [
+          "комедия",
+          "мультфильм",
+          "Боевик и Приключения",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/4VY2pLk5Jz5a8Vw9fqMbvQBqjHA.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/39224",
+        "vote_average": 6.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 13
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1474226,
+        "title": "Омен. Обличье зла",
+        "original_title": "Evil Dress",
+        "tagline": null,
+        "lead_actors": [
+          "Белен Руэда",
+          "Вера Кентенера"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-02-10",
+        "popularity": 54.7754,
+        "overview": "После болезненного развода молодая женщина Алисия решает начать жизнь с нуля. Она покупает уединённый старый дом и переезжает туда с дочерью Карлой. Любознательная девочка решает исследовать своё новое жилище и поднимается на чердак, где находит таинственное синее платье. После того, как она решает его надеть, ей начинают сниться тревожные видения. Заметив, что с Карлой творится что-то странное, Алисия пытается найти логическую причину пугающим явлениям. В результате дом, который должен был стать началом новой счастливой жизни, оказывается для семьи западнёй.",
+        "genres": [
+          "ужасы"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/2SoHOeFWgF4pP9yVlEch76ja7r5.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1474226",
+        "vote_average": 6.595,
+        "runtime_minutes": 75,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 313630,
+        "title": "Навеки ваши",
+        "original_title": "Eternally Yours",
+        "tagline": null,
+        "lead_actors": [
+          "Эд Викс",
+          "Аллегра Эдвардс"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-08",
+        "popularity": 9.4394,
+        "overview": "Чарльз и Лиз — пара вампиров, чей некогда страстный роман за пять столетий превратился в рутину и бесконечные пассивно-агрессивные споры. Стабильность их жизни в Сиэтле дает трещину, когда их приемная дочь Эмма приводит в дом своего нового бойфренда Макса.\n\nМакс — смертный, искренне пытающийся влиться в необычную семью, что вызывает особое сопротивление у консервативного Чарльза. Появление «человека» в доме заставляет пару задуматься о природе любви: может ли она длиться вечно, или же бессмертие стало для них своего рода приговором.",
+        "genres": [
+          "комедия",
+          "НФ и Фэнтези"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/nhImIzpSXJOzQ1pIYUJxUw7NM7l.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/313630",
+        "vote_average": 7.824,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    }
+  ]
+}
