@@ -1793,15 +1793,6 @@
       "published_at": "2026-08-13T17:08:26.299218+00:00"
     },
     {
-      "key": "tmdb:tv:226749:tv_on_the_air:2025-05-25",
-      "dedupe_key": "tmdb:tv:226749",
-      "media_type": "tv",
-      "tmdb_id": 226749,
-      "event_type": "tv_on_the_air",
-      "event_date_us": "2025-05-25",
-      "published_at": "2026-07-26T09:26:20.986728+00:00"
-    },
-    {
       "key": "tmdb:tv:248830:tv_on_the_air:2025-06-03",
       "dedupe_key": "tmdb:tv:248830",
       "media_type": "tv",
@@ -2439,15 +2430,6 @@
       "event_type": "tv_on_the_air",
       "event_date_us": "2026-07-23",
       "published_at": "2026-07-27T10:28:58.744757+00:00"
-    },
-    {
-      "key": "tmdb:movie:980431:movie_now_playing:2026-07-24",
-      "dedupe_key": "tmdb:movie:980431",
-      "media_type": "movie",
-      "tmdb_id": 980431,
-      "event_type": "movie_now_playing",
-      "event_date_us": "2026-07-24",
-      "published_at": "2026-07-26T07:16:20.770097+00:00"
     },
     {
       "key": "tmdb:movie:949838:movie_now_playing:2026-07-24",
@@ -3474,6 +3456,15 @@
       "event_type": "movie_now_playing",
       "event_date_us": "2026-11-20",
       "published_at": "2026-11-17T11:09:59.896212+00:00"
+    },
+    {
+      "key": "tmdb:movie:1595124:movie_now_playing:2026-11-20",
+      "dedupe_key": "tmdb:movie:1595124",
+      "media_type": "movie",
+      "tmdb_id": 1595124,
+      "event_type": "movie_now_playing",
+      "event_date_us": "2026-11-20",
+      "published_at": "2026-11-23T11:15:51.137336+00:00"
     }
   ]
 }
