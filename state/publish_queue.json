@@ -1,0 +1,191 @@
+{
+  "business_date": "2026-11-27",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1726,
+        "title": "Железный человeк",
+        "original_title": "Iron Man",
+        "tagline": "«Героями не рождаются. Героями становятся.»",
+        "lead_actors": [
+          "Роберт Дауни мл.",
+          "Терренс Ховард"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2008-05-02",
+        "popularity": 1226.2518,
+        "overview": "Миллиардер изобретатель Тони Старк попадает в плен к Афганским террористам, которые пытаются заставить его создать оружие массового поражения. В тайне от своих захватчиков Старк конструирует высокотехнологичную киберброню, которая помогает ему сбежать. Однако по возвращению в США он узнаёт, что в совете директоров его фирмы плетётся заговор, чреватый страшными последствиями. Используя своё последнее изобретение, Старк пытается решить проблемы своей компании радикально…",
+        "genres": [
+          "боевик",
+          "фантастика",
+          "приключения"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wAKZudQn0HEXqLvaGN6BEripHbv.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1726",
+        "vote_average": 7.7,
+        "runtime_minutes": 121,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 244447,
+        "title": "Жёны на охоте",
+        "original_title": "The Hunting Wives",
+        "tagline": "«Секс, ложь и заряженное оружие»",
+        "lead_actors": [
+          "Бриттани Сноу",
+          "Малин Акерман"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2025-07-21",
+        "popularity": 44.5744,
+        "overview": "Софи О’Нил, некогда возглавлявшая глянцевый журнал, решает с мужем и сыном уехать из Нью‑Йорка в тихий городок на востоке Техаса. Там она знакомится со светской львицей Марго Бэнкс, которая устраивает для местных женщин клуб, где можно выпить, пострелять по тарелочкам и обсудить всё на свете. Софи поддается обаянию Марго, но понимает, что дело неладно, когда на окраине леса находят труп девочки, а участницы клуба — первые в списке подозреваемых.",
+        "genres": [
+          "драма",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/73NPdGzHRfENOhJHxPYtVy7jOjw.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/244447",
+        "vote_average": 7.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 2
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 70160,
+        "title": "Голодные игры",
+        "original_title": "The Hunger Games",
+        "tagline": "«Весь мир смотрит»",
+        "lead_actors": [
+          "Дженнифер Лоуренс",
+          "Джош Хатчерсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2012-03-23",
+        "popularity": 90.6609,
+        "overview": "Будущее. Деспотичное государство ежегодно устраивает показательные игры на выживание, за которыми в прямом эфире следит весь мир. Жребий участвовать в Играх выпадает юной Китнисс и тайно влюбленному в нее Питу. Они знакомы с детства, но теперь должны стать врагами. Ведь по нерушимому закону Голодных игр победить может только один из 24 участников. Судьям не важно кто выиграет, главное — зрелище. И на этот раз зрелище будет незабываемым.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7j6qQ5CVxHRpEbWQpAPxk5EjB3v.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/70160",
+        "vote_average": 7.227,
+        "runtime_minutes": 142,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 326247,
+        "title": "Ночь дурака",
+        "original_title": "Fool Night",
+        "tagline": null,
+        "lead_actors": [
+          "Коки Утияма",
+          "Минако Котобуки"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-11-26",
+        "popularity": 34.671,
+        "overview": "В будущем, где нет солнца, люди превращаются в растения для выработки кислорода. Отчаявшийся молодой человек начинает такую трансформацию — и раскрывает зловещий заговор.",
+        "genres": [
+          "мультфильм",
+          "драма",
+          "НФ и Фэнтези",
+          "детектив"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/9hECPgBGCjXrsKywFBXy2wPFFer.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/326247",
+        "vote_average": 9.0,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 131631,
+        "title": "Голодные игры: Сойка-пересмешница. Часть 1",
+        "original_title": "The Hunger Games: Mockingjay - Part 1",
+        "tagline": "«Храбрость одного изменит мир»",
+        "lead_actors": [
+          "Дженнифер Лоуренс",
+          "Джош Хатчерсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2014-11-21",
+        "popularity": 83.5581,
+        "overview": "Таинственный Тринадцатый дистрикт выходит из тени, в которой скрывался долгие годы. Начинается война. Война за справедливость? Война за лучшее будущее? Возможно.  Китнисс в этой войне — символ сопротивления. И если она хочет не оказаться пешкой в чужой большой игре, если хочет, чтобы жизнь её любимого не принесли в жертву чужим интересам, ей придется стать сильной. Сильнее, чем на арене Голодных игр…",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kPbFeomPFnnktdwBgCBZ24NhkTj.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/131631",
+        "vote_average": 6.816,
+        "runtime_minutes": 122,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 100575,
+        "title": "Беспощадный",
+        "original_title": "Tyler Perry's Ruthless",
+        "tagline": null,
+        "lead_actors": [
+          "Мелисса Л. Виллиамс",
+          "Матт Кедеñо"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-03-19",
+        "popularity": 15.7181,
+        "overview": "Спин-офф сериала Овальный кабинет. В центре сюжета история женщины по имени Рут, которая похищает свою маленькую дочь, чтобы присоединиться к темному и преступному религиозному культу.",
+        "genres": [
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/c2sBZga1A6cQnKfsDjSXddhmkad.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/100575",
+        "vote_average": 8.429,
+        "runtime_minutes": null,
+        "number_of_seasons": 6
+      }
+    }
+  ]
+}
