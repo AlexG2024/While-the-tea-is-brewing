@@ -1,0 +1,188 @@
+{
+  "business_date": "2026-11-28",
+  "timezone_name": "Europe/Moscow",
+  "items": [
+    {
+      "slot_time": "09:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 1458300,
+        "title": "Москито Боул",
+        "original_title": "The Mosquito Bowl",
+        "tagline": null,
+        "lead_actors": [
+          "Николас Галицин",
+          "Билл Скарсгард"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2026-10-30",
+        "popularity": 98.9048,
+        "overview": "После нападения на Пёрл-Харбор четыре звезды студенческого футбола идут в морскую пехоту, где открывают для себя силу братства и цену войны.",
+        "genres": [
+          "военный",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7QBI1tYJQt2FXbC7Mi2uwBg20hC.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/1458300",
+        "vote_average": 7.6,
+        "runtime_minutes": 129,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "12:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 87017,
+        "title": "Долина соблазна",
+        "original_title": "P-Valley",
+        "tagline": null,
+        "lead_actors": [
+          "Брандее Еванс",
+          "Никко Аннан"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2020-07-12",
+        "popularity": 15.3858,
+        "overview": "Восемь историй о буднях темнокожих стриптизерш из небольшого клуба в Миссисипи. Взлеты и падения, успех и разочарования, сожаления и надежды на будущее: эти женщины творят на сцене настоящее волшебство, однако их судьбы не всегда похожи на страстный танец.",
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/Asb7bV0ICUqVhuQJCxCzUwBRVHI.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/87017",
+        "vote_average": 7.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 3
+      }
+    },
+    {
+      "slot_time": "15:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 70160,
+        "title": "Голодные игры",
+        "original_title": "The Hunger Games",
+        "tagline": "«Весь мир смотрит»",
+        "lead_actors": [
+          "Дженнифер Лоуренс",
+          "Джош Хатчерсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2012-03-23",
+        "popularity": 84.7555,
+        "overview": "Будущее. Деспотичное государство ежегодно устраивает показательные игры на выживание, за которыми в прямом эфире следит весь мир. Жребий участвовать в Играх выпадает юной Китнисс и тайно влюбленному в нее Питу. Они знакомы с детства, но теперь должны стать врагами. Ведь по нерушимому закону Голодных игр победить может только один из 24 участников. Судьям не важно кто выиграет, главное — зрелище. И на этот раз зрелище будет незабываемым.",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "боевик",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/7j6qQ5CVxHRpEbWQpAPxk5EjB3v.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/70160",
+        "vote_average": 7.228,
+        "runtime_minutes": 142,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "17:20",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 87826,
+        "title": "Продажи с видом на закат",
+        "original_title": "Selling Sunset",
+        "tagline": null,
+        "lead_actors": [
+          "Бретт Оппенхеим",
+          "Джасон Оппенхеим"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2019-03-22",
+        "popularity": 12.6344,
+        "overview": "Представители элитного агентства недвижимости «Оппенгейм груп» продают роскошные дома богатым жителям Лос-Анджелеса. Но где связи и деньги, там всегда драма.",
+        "genres": [
+          "Реалити-шоу"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/wUtoD67q4BnRUwikUbT6M38d5oj.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/87826",
+        "vote_average": 6.6,
+        "runtime_minutes": null,
+        "number_of_seasons": 10
+      }
+    },
+    {
+      "slot_time": "19:15",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "movie",
+        "tmdb_id": 131631,
+        "title": "Голодные игры: Сойка-пересмешница. Часть 1",
+        "original_title": "The Hunger Games: Mockingjay - Part 1",
+        "tagline": "«Храбрость одного изменит мир»",
+        "lead_actors": [
+          "Дженнифер Лоуренс",
+          "Джош Хатчерсон"
+        ],
+        "event_type": "movie_now_playing",
+        "event_date_us": "2014-11-21",
+        "popularity": 79.5116,
+        "overview": "Таинственный Тринадцатый дистрикт выходит из тени, в которой скрывался долгие годы. Начинается война. Война за справедливость? Война за лучшее будущее? Возможно.  Китнисс в этой войне — символ сопротивления. И если она хочет не оказаться пешкой в чужой большой игре, если хочет, чтобы жизнь её любимого не принесли в жертву чужим интересам, ей придется стать сильной. Сильнее, чем на арене Голодных игр…",
+        "genres": [
+          "фантастика",
+          "приключения",
+          "триллер"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/kPbFeomPFnnktdwBgCBZ24NhkTj.jpg",
+        "tmdb_url": "https://www.themoviedb.org/movie/131631",
+        "vote_average": 6.816,
+        "runtime_minutes": 122,
+        "number_of_seasons": null
+      }
+    },
+    {
+      "slot_time": "20:05",
+      "published": false,
+      "published_at": null,
+      "item": {
+        "source": "tmdb",
+        "media_type": "tv",
+        "tmdb_id": 319800,
+        "title": "Морская полиция: Нью-Йорк",
+        "original_title": "NCIS: New York",
+        "tagline": null,
+        "lead_actors": [
+          "ЭлЭл Кул Джей",
+          "Скотт Каан"
+        ],
+        "event_type": "tv_on_the_air",
+        "event_date_us": "2026-10-06",
+        "popularity": 9.2347,
+        "overview": "Сэм Ханна возвращается в родной Нью-Йорк, чтобы возглавить местный полевой офис военно-морской полиции. Вместе со своенравным напарником Ником Шаффером ему предстоит защищать один из важнейших портов мира и расследовать угрозы национальной безопасности, скрывающиеся за фасадом шумного мегаполиса.",
+        "genres": [
+          "криминал",
+          "драма"
+        ],
+        "poster_url": "https://image.tmdb.org/t/p/w780/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
+        "tmdb_url": "https://www.themoviedb.org/tv/319800",
+        "vote_average": 6.8,
+        "runtime_minutes": null,
+        "number_of_seasons": 1
+      }
+    }
+  ]
+}
